@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Git",
+		"Github Tools",
+		"JsMinifier",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarGit"
+	]
+}
