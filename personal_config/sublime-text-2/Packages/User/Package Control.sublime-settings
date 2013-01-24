@@ -2,11 +2,14 @@
 	"installed_packages":
 	[
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Git",
 		"Github Tools",
 		"JsMinifier",
 		"Package Control",
 		"SideBarEnhancements",
-		"SideBarGit"
+		"SideBarGit",
+		"SublimeLinter",
+		"ZenCoding"
 	]
 }

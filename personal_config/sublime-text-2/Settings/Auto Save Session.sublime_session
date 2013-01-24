@@ -1,20 +1,43 @@
 {
 	"folder_history":
 	[
-		"/home/jimmy/www/itomg",
-		"/home/jimmy/www/gentilis"
+		"/home/jimmy/www/gentilis",
+		"/home/jimmy/www/itomg"
 	],
-	"last_window_id": 1,
+	"last_window_id": 4,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 0.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"array",
+						"array"
+					],
+					[
+						"if",
+						"if	if …"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"flush",
+						"flush_echo"
+					],
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"start",
+						"start_id"
+					],
 					[
 						"fun",
 						"function"
@@ -37,100 +60,75 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/home/jimmy/www/gentilis/app/views/user2/index.php",
-					"settings":
-					{
-						"buffer_size": 3613,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Searching 7361 files for \"placeholder-fix\"\n\n0 matches across 0 files\n\n\nSearching 1666 files for \"holder-fix\"\n\n0 matches across 0 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup_tmpl\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n\n2 matches across 2 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup_tmpl\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n\n2 matches across 2 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n   93  \n   94: 			sign_up_dialog_form.attr(\"id\", \"s_home4_dialog_signup\");\n   95  \n   96  			sign_up_dialog_form.attr(\"style\", \"display:block;\");\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_header.php:\n   20      </div>\n   21  </div>\n   22: <?=view(\"s_home4_dialog_signup\")?>\n   23  <?=view(\"s_home4_dialog_loginin\")?>\n   24  \n\n/home/jimmy/www/gentilis/stylesheets/css/public2/bootstrap.css:\n 5562  }\n 5563  /*\n 5564:  *1st oage:		s_home4_dialog_signup.php;\n 5565   *Reason:		control recaptcha in ver 3 dialog\n 5566   * \n\n/home/jimmy/www/gentilis/stylesheets/less/public/utilities.less:\n   44  \n   45  /*\n   46:  *1st oage:		s_home4_dialog_signup.php;\n   47   *Reason:		control recaptcha in ver 3 dialog\n   48   * \n\n6 matches across 5 files\n",
-					"settings":
-					{
-						"buffer_size": 2644,
-						"line_ending": "Unix",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
-					"settings":
-					{
-						"buffer_size": 6165,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-					"settings":
-					{
-						"buffer_size": 1376,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-					"settings":
-					{
-						"buffer_size": 10179,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
-					"settings":
-					{
-						"buffer_size": 3534,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
-					"settings":
-					{
-						"buffer_size": 5657,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
-					"settings":
-					{
-						"buffer_size": 7419,
-						"line_ending": "Windows"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 264.0,
 				"selected_items":
 				[
 					[
+						"setting",
+						"Preferences: Settings - Default"
+					],
+					[
 						"git:",
+						"Git: Log Current File"
+					],
+					[
+						"git:diff",
+						"Git: Diff All"
+					],
+					[
+						"git:log",
 						"Git: Log All"
 					],
 					[
-						"package control",
-						"Package Control: Remove Package"
+						"git:st",
+						"Git: Status"
+					],
+					[
+						"git:com",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"git: commit",
+						"Git: Commit"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"git:sta",
+						"Git: Status"
 					],
 					[
 						"pac",
 						"Package Control: Install Package"
 					],
 					[
-						"pa",
+						"packa",
 						"Package Control: Install Package"
 					],
 					[
-						"git: status",
-						"Git: Status"
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
 					],
 					[
 						"git: ",
@@ -161,14 +159,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
 						"pref",
 						"Preferences: Settings - User"
 					],
@@ -185,7 +175,7 @@
 						"Set Syntax: PHP"
 					]
 				],
-				"width": 467.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -202,18 +192,32 @@
 			},
 			"file_history":
 			[
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Message_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Customs_dao_base.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 				"/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
+				"/home/jimmy/www/gentilis/app/views/user2/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
 				"/home/jimmy/www/gentilis/js/user2/jquery-html5-placeholder-fix.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
 				"/home/jimmy/www/gentilis/app/libraries/oauth/qq/API/comm/inc.php",
 				"/home/jimmy/www/gentilis/app/libraries/oauth/config.php",
 				"/home/jimmy/www/gentilis/app/libraries/Template.php",
-				"/home/jimmy/www/gentilis/app/views/user2/index.php",
 				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
 				"/home/jimmy/www/gentilis/app/config/database.php",
-				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
 				"/home/jimmy/www/itomg/placeHolder/placeholder.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 				"/home/jimmy/www/itomg/.buildpath",
@@ -261,7 +265,6 @@
 				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
 				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
@@ -274,9 +277,7 @@
 				"/home/jimmy/www/gentilis/index.php",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/search/js/searchratingsviewmodel.js",
 				"/home/jimmy/www/gentilis/uploads/email_template/template/auto_email_monthly_login_reminder.php",
-				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
 			],
 			"find":
 			{
@@ -284,7 +285,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 					"/home/jimmy/www/gentilis/",
@@ -303,6 +304,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"index_all_ads",
+					"_process_specifications",
+					"newline",
+					");\n",
+					"line",
+					"copy",
+					"/>';\n",
+					"');\n",
+					"}\n",
+					"input",
+					"stylesheet",
 					"s_home4_dialog_signup",
 					"s_home4_dialog_signup_tmpl",
 					"fix",
@@ -369,7 +381,7 @@
 					"case"
 				],
 				"highlight": true,
-				"in_selection": true,
+				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
@@ -382,299 +394,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/home/jimmy/www/gentilis"
-				},
-				{
-					"path": "/home/jimmy/www/itomg"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/jimmy/www/gentilis/app/views/user2/index.php",
-							"settings":
-							{
-								"buffer_size": 3613,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3586,
-										3586
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 33.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"settings":
-							{
-								"buffer_size": 2644,
-								"regions":
-								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												305,
-												331
-											],
-											[
-												589,
-												615
-											],
-											[
-												893,
-												919
-											],
-											[
-												1177,
-												1203
-											],
-											[
-												1476,
-												1497
-											],
-											[
-												1760,
-												1781
-											],
-											[
-												1918,
-												1939
-											],
-											[
-												2153,
-												2174
-											],
-											[
-												2334,
-												2355
-											],
-											[
-												2528,
-												2549
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
-									[
-										1313,
-										1313
-									]
-								],
-								"settings":
-								{
-									"detect_indentation": false,
-									"output_tag": 5,
-									"result_base_dir": "",
-									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 731.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
-							"settings":
-							{
-								"buffer_size": 6165,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										35,
-										35
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-							"settings":
-							{
-								"buffer_size": 1376,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										822,
-										822
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 204.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-							"settings":
-							{
-								"buffer_size": 10179,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4045,
-										4045
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2193.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
-							"settings":
-							{
-								"buffer_size": 3534,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2796,
-										2796
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 714.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
-							"settings":
-							{
-								"buffer_size": 5657,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3857,
-										3857
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2091.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
-							"settings":
-							{
-								"buffer_size": 7419,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 34.0
@@ -706,7 +425,10 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,1801,4,2441,484,2880,900",
+			"output.git":
+			{
+				"height": 112.0
+			},
 			"replace":
 			{
 				"height": 64.0
@@ -717,6 +439,54 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"message",
+						"gentilis/app/libraries/dao/Message_dao.php"
+					],
+					[
+						"restmessage",
+						"gentilis/app/libraries/rest_dao/Rest_message_dao.php"
+					],
+					[
+						"restad",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
+					],
+					[
+						"rest_user_dao",
+						"gentilis/app/libraries/rest_dao/Rest_user_dao.php"
+					],
+					[
+						"customdao",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"customsdao",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"messagedao",
+						"gentilis/app/libraries/dao/Message_dao.php"
+					],
+					[
+						"cron.hp",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"customsdaobase",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"rest_searchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
 					[
 						"root",
 						"gentilis/app/modules/user2/controllers/root.php"
@@ -923,7 +693,1136 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"array",
+						"array"
+					],
+					[
+						"if",
+						"if	if …"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"flush",
+						"flush_echo"
+					],
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"start",
+						"start_id"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"rest_conne",
+						"rest_connection_tag_manager"
+					],
+					[
+						"ex",
+						"exclude_circles"
+					],
+					[
+						"TAG",
+						"TAG_COWORKER"
+					],
+					[
+						"pla",
+						"placeholder_polyfill"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+					"settings":
+					{
+						"buffer_size": 66581,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\nclass Cron extends Admin_Controller {\n\n	/**\n	 * Constructor\n	 */\n	function __construct(){\n		self::$init_once = TRUE; // ĺłé­_init_template\n		parent::__construct();\n		$this->load->library(array(\n			'manager/cron_manager',\n			'manager/inquiry_manager',\n			'manager/feed_news_manager'));\n\n		// OPEN CI PROFILER\n// 		$this->output->enable_profiler(TRUE);\n		// OPEN ERROR REPORT\n// 		error_reporting(E_ALL);\n	}\n	\n	/**\n	 * Method to read all feed news by sources\n	 */\n	function feed_news_read(){\n		set_time_limit(0);\n		$this->feed_news_manager->read_all();\n	}\n	\n	/**\n	 * Method to send inquiry all messages\n	 * \n	 * @param $debug\n	 */\n	function send_inquiry($debug = FALSE){\n		set_time_limit(0);\n		$this->inquiry_manager->send_inquiry($debug);\n	}\n	\n	// ------------------------------------------------------------------------\n	\n	/* Match solr and db Start */\n	/**\n	 * Method to match solr and db mulit \n	 *\n	 * @param string $type [user, product, message, ad, category, group, event, feed, feed_news]\n	 * @param string $action [match, preview, re-index]\n	 * @param int $backward\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function match_solr_and_db_mulit($type = 'user', $action = 'match', $backward = 0) {\n		set_time_limit(0);\n		$this->cron_manager->match_solr_and_db_mulit($type, $action, (int)$backward);\n	}\n	\n	/**\n	 * Method to match solr and db\n	 *\n	 * @param string $type [user, product, message, ad, category, group, event, feed, feed_news]\n	 * @param int $id_start\n	 * @param int $id_end\n	 * @param string $action [match, preview, re-index]\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function match_solr_and_db($type = 'user', $id_start, $id_end, $action = 'match') {\n		set_time_limit(0);\n		$this->cron_manager->match_solr_and_db($type, $id_start, $id_end, $action);\n	}\n	\n	/**\n	 * Method to index_one_to_solr\n	 *\n	 * @param string $type\n	 * @param int $id\n	 * @param string $action\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function index_debug($type = 'user', $id, $action = 'index') {\n		$this->load->library('rest_manager/rest_search_manager');\n		$this->rest_search_manager->index_debug($type, $id, $action);\n		echo \"DONE\";\n	}\n	/* Match solr and db End */\n	\n	// ------------------------------------------------------------------------\n	\n	/**\n	 * Method to repair imported product img \n	 * \n	 * @author jimmy Dec 14, 2012\n	 */\n	function repair_imported_product_img() {\n		set_time_limit(0);\n		$this->cron_manager->repair_imported_product_img();\n	}\n	\n	// ------------------------------------------------------------------------\n	\n	/**\n	 * Method to ask nginx to cache catalog \n	 * \n	 * @author jimmy Dec 14, 2012\n	 */\n	function cache_catalog() {\n		set_time_limit(0);\n		$this->cron_manager->cache_catalog();\n	}\n	\n	// ------------------------------------------------------------------------\n}",
+					"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+					"file_size": 2794,
+					"file_write_time": 1357185626000000,
+					"settings":
+					{
+						"buffer_size": 2794,
+						"line_ending": "Unix",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+					"settings":
+					{
+						"buffer_size": 12554,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 264.0,
+				"selected_items":
+				[
+					[
+						"setting",
+						"Preferences: Settings - Default"
+					],
+					[
+						"git:",
+						"Git: Log Current File"
+					],
+					[
+						"git:diff",
+						"Git: Diff All"
+					],
+					[
+						"git:log",
+						"Git: Log All"
+					],
+					[
+						"git:st",
+						"Git: Status"
+					],
+					[
+						"git:com",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"git: commit",
+						"Git: Commit"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"git:sta",
+						"Git: Status"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git: ",
+						"Git: Commit history"
+					],
+					[
+						"package control: In",
+						"Package Control: Install Package"
+					],
+					[
+						"paca",
+						"Package Control: Install Package"
+					],
+					[
+						"github",
+						"Github: Blame"
+					],
+					[
+						"pace",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings - User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"set sy",
+						"Set Syntax: PHP"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Customs_dao_base.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_ad_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_message_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_feed_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Feed_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_category_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Category_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_product_dao.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Message_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
+				"/home/jimmy/www/gentilis/app/views/user2/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/user2/jquery-html5-placeholder-fix.js",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/qq/API/comm/inc.php",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/config.php",
+				"/home/jimmy/www/gentilis/app/libraries/Template.php",
+				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
+				"/home/jimmy/www/gentilis/app/config/database.php",
+				"/home/jimmy/www/itomg/placeHolder/placeholder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/jimmy/www/itomg/.buildpath",
+				"/home/jimmy/www/itomg/index.php",
+				"/home/jimmy/www/gentilis/.htaccess",
+				"/home/jimmy/www/gentilis/.gitignore",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/chinese/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/js/reviewsaddviewmodel.js",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_review_manager.php",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-rate.js",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358924169.english.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_connections.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/js/connections.js",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/connections.php",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/tags.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_dao.php",
+				"/home/jimmy/www/gentilis/sql/schema/delta/162-163.sql",
+				"/home/jimmy/www/gentilis/sql/schema/delta/163-164.sql",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_review_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_dashboard_manager.php",
+				"/home/jimmy/www/gentilis/sql/data/populate/fix1125_colleague_to_coworker.sql",
+				"/home/jimmy/www/gentilis/app/modules/api/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_privacy.php",
+				"/home/jimmy/www/gentilis/app/modules/user/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user/views/connections/t_connections_email_import.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/jtmpl/jtmpl_vm_reviewsadd.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/footer/jtmpl/jtmpl_vm_privacy_policy.html",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-tags.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/register/js/registerimportandinvite.js",
+				"/home/jimmy/www/gentilis/app/modules/api/language/chinese/common_lang.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/app/libraries/openinviter/openinviter.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_register.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/active_user_success.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358754955.english.js",
+				"/home/jimmy/www/gentilis/app/config/user_agents.php",
+				"/home/jimmy/www/gentilis/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/search/js/searchratingsviewmodel.js",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/auto_email_monthly_login_reminder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/*.js",
+					"/home/jimmy/www/gentilis/**.js",
+					"/home/jimmy/www/gentilis/**.php",
+					"/home/jimmy/www/gentilis"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<?",
+					"index_all_ads",
+					"_process_specifications",
+					"newline",
+					");\n",
+					"line",
+					"copy",
+					"/>';\n",
+					"');\n",
+					"}\n",
+					"input",
+					"stylesheet",
+					"s_home4_dialog_signup",
+					"s_home4_dialog_signup_tmpl",
+					"fix",
+					">\n",
+					"join",
+					"holder-fix",
+					"placeholder-fix",
+					"        \n",
+					"'coworkers'",
+					"\"coworkers\"",
+					"coworkers",
+					"lang(\"coworkers\")",
+					"you_can_tag_your_connection_as_a_coworker_by_going_to_your_profile_tab_and_clicking_on_connections._you_can_tag_any_of_your_connections_by_clicking_edit",
+					"Tag your connections as ",
+					"\"coworkers\"",
+					"coworkers",
+					"privilege",
+					"save_review",
+					"save_rating_privilege",
+					"coworkers",
+					"load_count_connections",
+					"\n\ncountConnections",
+					"jtmpl_vm_connections",
+					"jtmpl_profile_connections_helper",
+					"coworkers",
+					"abcdefghijklmnopqrstuvwxyz",
+					"\"\n",
+					"abcdefghijklmnopqrstuvwxyz",
+					"a",
+					"colleague",
+					"common_lang",
+					"'colleague",
+					"colleague",
+					"colleague\n\n\ncolleague\n\n\ncolleague\ncolleague",
+					"colleague\n\n\ncolleague\ncolleague",
+					"colleague",
+					"colleagues",
+					"colleague",
+					"find_contacts_by_keyword",
+					"/circles",
+					"circles_get",
+					"find_circles",
+					"coworkers",
+					"was_tagged_as_colleague",
+					"coworkers",
+					"TAG_COWORKER",
+					"Rest_connection_tag_dao::TAG_COWORKER",
+					"TAG_COWORKER",
+					"colleague",
+					"			\n",
+					"'');",
+					"aaaaaaaaaaaa",
+					"('-------');\n",
+					"	\n",
+					"_gaq.push",
+					"_gaq.push(['_trackEvent', 'register', 'register page']);",
+					"tail_js()",
+					"placeholderFix",
+					"\n		",
+					")\n",
+					"<?",
+					"<?php\n\n/*\n *---------------------------------------------------------------\n * APPLICATION ENVIRONMENT\n *---------------------------------------------------------------\n *\n * You can load different configurations depending on your\n * current environment. Setting the environment also influences\n * things like logging and error reporting.\n *\n * This can be set to anything, but default usage is:\n *\n *     development\n *     testing\n *     production\n *\n * NOTE: If you change these, also change the error_reporting() code below\n *\n */\n	define('ENVIRONMENT', 'development');\n/*\n *---------------------------------------------------------------\n * ERROR REPORTING\n *---------------------------------------------------------------\n *\n * Different environments will require different levels of error reporting.\n * By default development will show errors but testing and live will hide them.\n */\n\nif (defined('ENVIRONMENT'))\n{\n	switch (ENVIRONMENT)\n	{\n		case 'development':\n			error_reporting(E_ALL);\n		break;\n	\n		case 'testing':\n		case 'production':\n			error_reporting(0);\n		break;\n\n		default:\n			exit('The application environment is not set correctly.');\n	}\n}\n\n/*\n *---------------------------------------------------------------\n * SYSTEM FOLDER NAME\n *---------------------------------------------------------------\n *\n * This variable must contain the name of your \"system\" folder.\n * Include the path if the folder is not in the same  directory\n * as this file.\n *\n */\n	$system_path = 'ci';\n\n/*\n *---------------------------------------------------------------\n * APPLICATION FOLDER NAME\n *---------------------------------------------------------------\n *\n * If you want this front controller to use a different \"application\"\n * folder then the default one you can set its name here. The folder\n * can also be renamed or relocated anywhere on your server.  If\n * you do, use a full server path. For more info please see the user guide:\n * http://codeigniter.com/user_guide/general/managing_apps.html\n *\n * NO TRAILING SLASH!\n *\n */\n	$application_folder = 'app';\n\n/*\n * --------------------------------------------------------------------\n * DEFAULT CONTROLLER\n * --------------------------------------------------------------------\n *\n * Normally you will set your default controller in the routes.php file.\n * You can, however, force a custom routing by hard-coding a\n * specific controller class/function here.  For most applications, you\n * WILL NOT set your routing here, but it's an option for those\n * special instances where you might want to override the standard\n * routing in a specific front controller that shares a common CI installation.\n *\n * IMPORTANT:  If you set the routing here, NO OTHER controller will be\n * callable. In essence, this preference limits your application to ONE\n * specific controller.  Leave the function name blank if you need\n * to call functions dynamically via the URI.\n *\n * Un-comment the $routing array below to use this feature\n *\n */\n	// The directory name, relative to the \"controllers\" folder.  Leave blank\n	// if your controller is not in a sub-folder within the \"controllers\" folder\n	// $routing['directory'] = '';\n\n	// The controller class file name.  Example:  Mycontroller\n	// $routing['controller'] = '';\n\n	// The controller function you wish to be called.\n	// $routing['function']	= '';\n\n\n/*\n * -------------------------------------------------------------------\n *  CUSTOM CONFIG VALUES\n * -------------------------------------------------------------------\n *\n * The $assign_to_config array below will be passed dynamically to the\n * config class when initialized. This allows you to set custom config\n * items or override any default config values found in the config.php file.\n * This can be handy as it permits you to share one application between\n * multiple front controller files, with each file containing different\n * config values.\n *\n * Un-comment the $assign_to_config array below to use this feature\n *\n */\n	// $assign_to_config['name_of_config_item'] = 'value of config item';\n\n\n\n// --------------------------------------------------------------------\n// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE\n// --------------------------------------------------------------------\n\n/*\n * ---------------------------------------------------------------\n *  Resolve the system path for increased reliability\n * ---------------------------------------------------------------\n */\n\n	// Set the current directory correctly for CLI requests\n	if (defined('STDIN'))\n	{\n		chdir(dirname(__FILE__));\n	}\n\n	if (realpath($system_path) !== FALSE)\n	{\n		$system_path = realpath($system_path).'/';\n	}\n\n	// ensure there's a trailing slash\n	$system_path = rtrim($system_path, '/').'/';\n\n	// Is the system path correct?\n	if ( ! is_dir($system_path))\n	{\n		exit(\"Your system folder path does not appear to be set correctly. Please open the following file and correct this: \".pathinfo(__FILE__, PATHINFO_BASENAME));\n	}\n\n/*\n * -------------------------------------------------------------------\n *  Now that we know the path, set the main path constants\n * -------------------------------------------------------------------\n */\n	// The name of THIS file\n	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));\n\n	// The PHP file extension\n	// this global constant is deprecated.\n	define('EXT', '.php');\n\n	// Path to the system folder\n	define('BASEPATH', str_replace(\"\\\\\", \"/\", $system_path));\n\n	// Path to the front controller (this file)\n	define('FCPATH', str_replace(SELF, '', __FILE__));\n\n	// Name of the \"system folder\"\n	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));\n\n\n	// The path to the \"application\" folder\n	if (is_dir($application_folder))\n	{\n		define('APPPATH', $application_folder.'/');\n	}\n	else\n	{\n		if ( ! is_dir(BASEPATH.$application_folder.'/'))\n		{\n			exit(\"Your application folder path does not appear to be set correctly. Please open the following file and correct this: \".SELF);\n		}\n\n		define('APPPATH', BASEPATH.$application_folder.'/');\n	}\n\n/*\n * --------------------------------------------------------------------\n * LOAD THE BOOTSTRAP FILE\n * --------------------------------------------------------------------\n *\n * And away we go...\n *\n */\nrequire_once BASEPATH.'core/CodeIgniter.php';\n\n/* End of file index.php */\n/* Location: ./index.php */",
+					"error",
+					"case"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jimmy/www/gentilis"
+				},
+				{
+					"path": "/home/jimmy/www/itomg"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+							"settings":
+							{
+								"buffer_size": 66581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4194,
+										4194
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1556.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+							"settings":
+							{
+								"buffer_size": 2794,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1058,
+										1058
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"in_converting": true,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ISO-8859-2",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 782.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+							"settings":
+							{
+								"buffer_size": 12554,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2321,
+										2321
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 428.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,2880,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"cronmanage",
+						"gentilis/app/libraries/manager/Cron_manager.php"
+					],
+					[
+						"cron.php",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"rest_produc",
+						"gentilis/app/libraries/rest_dao/Rest_product_dao.php"
+					],
+					[
+						"categ",
+						"gentilis/app/libraries/dao/Category_dao.php"
+					],
+					[
+						"restcategorydao",
+						"gentilis/app/libraries/rest_dao/Rest_category_dao.php"
+					],
+					[
+						"feed",
+						"gentilis/app/libraries/dao/Feed_dao.php"
+					],
+					[
+						"restfeed",
+						"gentilis/app/libraries/rest_dao/Rest_feed_dao.php"
+					],
+					[
+						"message",
+						"gentilis/app/libraries/dao/Message_dao.php"
+					],
+					[
+						"restmessage",
+						"gentilis/app/libraries/rest_dao/Rest_message_dao.php"
+					],
+					[
+						"restad",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
+					],
+					[
+						"rest_user_dao",
+						"gentilis/app/libraries/rest_dao/Rest_user_dao.php"
+					],
+					[
+						"customdao",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"customsdao",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"messagedao",
+						"gentilis/app/libraries/dao/Message_dao.php"
+					],
+					[
+						"cron.hp",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"customsdaobase",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"rest_searchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"root",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"s_home4_head",
+						"gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php"
+					],
+					[
+						"thome4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"root.",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"fix",
+						"gentilis/js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"app.js",
+						"gentilis/app/modules/user2/app/common/js/app.js"
+					],
+					[
+						"init_app",
+						"gentilis/app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"user2index",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"template.php",
+						"gentilis/app/libraries/Template.php"
+					],
+					[
+						"view_he",
+						"gentilis/app/helpers/view_helper.php"
+					],
+					[
+						"user2index.php",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"t_html_home4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"database",
+						"gentilis/app/config/database.php"
+					],
+					[
+						"common_lang",
+						"gentilis/app/modules/user2/language/chinese/common_lang.php"
+					],
+					[
+						"common_lang.php",
+						"gentilis/app/modules/user2/language/english/common_lang.php"
+					],
+					[
+						"ui_rate",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html"
+					],
+					[
+						"jtmpl_ui_tags",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html"
+					],
+					[
+						"rest_connection",
+						"gentilis/app/libraries/rest_dao/Rest_connection_dao.php"
+					],
+					[
+						"rest_user_man",
+						"gentilis/app/libraries/rest_manager/Rest_user_manager.php"
+					],
+					[
+						"user.php",
+						"gentilis/app/modules/api/controllers/user.php"
+					],
+					[
+						"rate",
+						"gentilis/js/user2/app/knockout/ui/ui-rate.js"
+					],
+					[
+						"tags.php",
+						"gentilis/app/modules/api/controllers/tags.php"
+					],
+					[
+						"connections.php",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connections.js",
+						"gentilis/app/modules/user2/app/profile/js/connections.js"
+					],
+					[
+						"jtmpl_profile_connections_helper",
+						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html"
+					],
+					[
+						"jtmpl_common_al",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html"
+					],
+					[
+						"connections",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connection_mana",
+						"gentilis/app/libraries/manager/Connection_manager.php"
+					],
+					[
+						"rest_connection_ta",
+						"gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php"
+					],
+					[
+						"rest_connection_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"email_man",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"init_sm",
+						"gentilis/app/modules/user2/app/init/init_sm.js"
+					],
+					[
+						"jtmpl_vm_header",
+						"app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
+					],
+					[
+						"open",
+						"app/libraries/openinviter/openinviter.php"
+					],
+					[
+						"active_user_success.php",
+						"app/modules/public/views/html/active_user_success.php"
+					],
+					[
+						"t_cp_register.php",
+						"app/modules/public/views/html/cp/t_cp_register.php"
+					],
+					[
+						"template",
+						"app/libraries/Template.php"
+					],
+					[
+						"user2/index.php",
+						"app/views/user2/index.php"
+					],
+					[
+						"use",
+						"app/config/user_agents.php"
+					],
+					[
+						"placeholder",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"jquery-html5-placeholder-fix.js",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"initapp",
+						"app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"rest_search",
+						"app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"searchviewmodel",
+						"app/modules/user2/app/search/js/searchratingsviewmodel.js"
+					],
+					[
+						"load_all",
+						"uploads/email_template/template/auto_email_monthly_login_reminder.php"
+					],
+					[
+						"",
+						"/home/jimmy/www/gentilis/index.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
 			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"window_id": 1,

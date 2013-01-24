@@ -1,20 +1,27 @@
 {
 	"folder_history":
 	[
-		"/home/jimmy/www/itomg",
-		"/home/jimmy/www/gentilis"
+		"/home/jimmy/www/gentilis",
+		"/home/jimmy/www/itomg"
 	],
-	"last_window_id": 1,
+	"last_window_id": 3,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 480.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"start",
+						"start_id"
+					],
 					[
 						"fun",
 						"function"
@@ -37,88 +44,31 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/home/jimmy/www/gentilis/app/views/user2/index.php",
-					"settings":
-					{
-						"buffer_size": 3613,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Searching 7361 files for \"placeholder-fix\"\n\n0 matches across 0 files\n\n\nSearching 1666 files for \"holder-fix\"\n\n0 matches across 0 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup_tmpl\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n\n2 matches across 2 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup_tmpl\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n\n2 matches across 2 files\n\n\nSearching 7361 files for \"s_home4_dialog_signup\"\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php:\n    1: <div id=\"s_home4_dialog_signup_tmpl\" style=\"display:none;\">\n    2      <div class=\"modal\">\n    3          <div class=\"modal-header\">\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php:\n   88  			}	\n   89  		\n   90: 			var sign_up_dialog_form_tmpl = $('#s_home4_dialog_signup_tmpl');\n   91  \n   92  			var sign_up_dialog_form = sign_up_dialog_form_tmpl.clone();\n   93  \n   94: 			sign_up_dialog_form.attr(\"id\", \"s_home4_dialog_signup\");\n   95  \n   96  			sign_up_dialog_form.attr(\"style\", \"display:block;\");\n\n/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_header.php:\n   20      </div>\n   21  </div>\n   22: <?=view(\"s_home4_dialog_signup\")?>\n   23  <?=view(\"s_home4_dialog_loginin\")?>\n   24  \n\n/home/jimmy/www/gentilis/stylesheets/css/public2/bootstrap.css:\n 5562  }\n 5563  /*\n 5564:  *1st oage:		s_home4_dialog_signup.php;\n 5565   *Reason:		control recaptcha in ver 3 dialog\n 5566   * \n\n/home/jimmy/www/gentilis/stylesheets/less/public/utilities.less:\n   44  \n   45  /*\n   46:  *1st oage:		s_home4_dialog_signup.php;\n   47   *Reason:		control recaptcha in ver 3 dialog\n   48   * \n\n6 matches across 5 files\n",
-					"settings":
-					{
-						"buffer_size": 2644,
-						"line_ending": "Unix",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
-					"settings":
-					{
-						"buffer_size": 6165,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-					"settings":
-					{
-						"buffer_size": 1376,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-					"settings":
-					{
-						"buffer_size": 10179,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
-					"settings":
-					{
-						"buffer_size": 3534,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
-					"settings":
-					{
-						"buffer_size": 5657,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
-					"settings":
-					{
-						"buffer_size": 7419,
-						"line_ending": "Windows"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 96.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
-						"package control",
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
 						"Package Control: Remove Package"
 					],
 					[
-						"pac",
-						"Package Control: Install Package"
+						"git:",
+						"Git: Log All"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
 					],
 					[
 						"pa",
@@ -157,14 +107,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
 						"pref",
 						"Preferences: Settings - User"
 					],
@@ -198,18 +140,27 @@
 			},
 			"file_history":
 			[
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 				"/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
+				"/home/jimmy/www/gentilis/app/views/user2/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
 				"/home/jimmy/www/gentilis/js/user2/jquery-html5-placeholder-fix.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
 				"/home/jimmy/www/gentilis/app/libraries/oauth/qq/API/comm/inc.php",
 				"/home/jimmy/www/gentilis/app/libraries/oauth/config.php",
 				"/home/jimmy/www/gentilis/app/libraries/Template.php",
-				"/home/jimmy/www/gentilis/app/views/user2/index.php",
 				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
 				"/home/jimmy/www/gentilis/app/config/database.php",
-				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
 				"/home/jimmy/www/itomg/placeHolder/placeholder.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
 				"/home/jimmy/www/itomg/.buildpath",
@@ -257,7 +208,6 @@
 				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
 				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
@@ -271,8 +221,7 @@
 				"/home/jimmy/www/gentilis/app/modules/user2/app/search/js/searchratingsviewmodel.js",
 				"/home/jimmy/www/gentilis/uploads/email_template/template/auto_email_monthly_login_reminder.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
 			],
 			"find":
 			{
@@ -280,7 +229,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"/home/jimmy/www/gentilis/",
@@ -299,6 +248,632 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"}\n",
+					"input",
+					"stylesheet",
+					"s_home4_dialog_signup",
+					"s_home4_dialog_signup_tmpl",
+					"fix",
+					">\n",
+					"join",
+					"holder-fix",
+					"placeholder-fix",
+					"        \n",
+					"'coworkers'",
+					"\"coworkers\"",
+					"coworkers",
+					"lang(\"coworkers\")",
+					"you_can_tag_your_connection_as_a_coworker_by_going_to_your_profile_tab_and_clicking_on_connections._you_can_tag_any_of_your_connections_by_clicking_edit",
+					"Tag your connections as ",
+					"\"coworkers\"",
+					"coworkers",
+					"privilege",
+					"save_review",
+					"save_rating_privilege",
+					"coworkers",
+					"load_count_connections",
+					"\n\ncountConnections",
+					"jtmpl_vm_connections",
+					"jtmpl_profile_connections_helper",
+					"coworkers",
+					"abcdefghijklmnopqrstuvwxyz",
+					"\"\n",
+					"abcdefghijklmnopqrstuvwxyz",
+					"a",
+					"colleague",
+					"common_lang",
+					"'colleague",
+					"colleague",
+					"colleague\n\n\ncolleague\n\n\ncolleague\ncolleague",
+					"colleague\n\n\ncolleague\ncolleague",
+					"colleague",
+					"colleagues",
+					"colleague",
+					"find_contacts_by_keyword",
+					"/circles",
+					"circles_get",
+					"find_circles",
+					"coworkers",
+					"was_tagged_as_colleague",
+					"coworkers",
+					"TAG_COWORKER",
+					"Rest_connection_tag_dao::TAG_COWORKER",
+					"TAG_COWORKER",
+					"colleague",
+					"			\n",
+					"'');",
+					"aaaaaaaaaaaa",
+					"('-------');\n",
+					"	\n",
+					"_gaq.push",
+					"_gaq.push(['_trackEvent', 'register', 'register page']);",
+					"tail_js()",
+					"placeholderFix",
+					"\n		",
+					")\n",
+					"<?",
+					"<?php\n\n/*\n *---------------------------------------------------------------\n * APPLICATION ENVIRONMENT\n *---------------------------------------------------------------\n *\n * You can load different configurations depending on your\n * current environment. Setting the environment also influences\n * things like logging and error reporting.\n *\n * This can be set to anything, but default usage is:\n *\n *     development\n *     testing\n *     production\n *\n * NOTE: If you change these, also change the error_reporting() code below\n *\n */\n	define('ENVIRONMENT', 'development');\n/*\n *---------------------------------------------------------------\n * ERROR REPORTING\n *---------------------------------------------------------------\n *\n * Different environments will require different levels of error reporting.\n * By default development will show errors but testing and live will hide them.\n */\n\nif (defined('ENVIRONMENT'))\n{\n	switch (ENVIRONMENT)\n	{\n		case 'development':\n			error_reporting(E_ALL);\n		break;\n	\n		case 'testing':\n		case 'production':\n			error_reporting(0);\n		break;\n\n		default:\n			exit('The application environment is not set correctly.');\n	}\n}\n\n/*\n *---------------------------------------------------------------\n * SYSTEM FOLDER NAME\n *---------------------------------------------------------------\n *\n * This variable must contain the name of your \"system\" folder.\n * Include the path if the folder is not in the same  directory\n * as this file.\n *\n */\n	$system_path = 'ci';\n\n/*\n *---------------------------------------------------------------\n * APPLICATION FOLDER NAME\n *---------------------------------------------------------------\n *\n * If you want this front controller to use a different \"application\"\n * folder then the default one you can set its name here. The folder\n * can also be renamed or relocated anywhere on your server.  If\n * you do, use a full server path. For more info please see the user guide:\n * http://codeigniter.com/user_guide/general/managing_apps.html\n *\n * NO TRAILING SLASH!\n *\n */\n	$application_folder = 'app';\n\n/*\n * --------------------------------------------------------------------\n * DEFAULT CONTROLLER\n * --------------------------------------------------------------------\n *\n * Normally you will set your default controller in the routes.php file.\n * You can, however, force a custom routing by hard-coding a\n * specific controller class/function here.  For most applications, you\n * WILL NOT set your routing here, but it's an option for those\n * special instances where you might want to override the standard\n * routing in a specific front controller that shares a common CI installation.\n *\n * IMPORTANT:  If you set the routing here, NO OTHER controller will be\n * callable. In essence, this preference limits your application to ONE\n * specific controller.  Leave the function name blank if you need\n * to call functions dynamically via the URI.\n *\n * Un-comment the $routing array below to use this feature\n *\n */\n	// The directory name, relative to the \"controllers\" folder.  Leave blank\n	// if your controller is not in a sub-folder within the \"controllers\" folder\n	// $routing['directory'] = '';\n\n	// The controller class file name.  Example:  Mycontroller\n	// $routing['controller'] = '';\n\n	// The controller function you wish to be called.\n	// $routing['function']	= '';\n\n\n/*\n * -------------------------------------------------------------------\n *  CUSTOM CONFIG VALUES\n * -------------------------------------------------------------------\n *\n * The $assign_to_config array below will be passed dynamically to the\n * config class when initialized. This allows you to set custom config\n * items or override any default config values found in the config.php file.\n * This can be handy as it permits you to share one application between\n * multiple front controller files, with each file containing different\n * config values.\n *\n * Un-comment the $assign_to_config array below to use this feature\n *\n */\n	// $assign_to_config['name_of_config_item'] = 'value of config item';\n\n\n\n// --------------------------------------------------------------------\n// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE\n// --------------------------------------------------------------------\n\n/*\n * ---------------------------------------------------------------\n *  Resolve the system path for increased reliability\n * ---------------------------------------------------------------\n */\n\n	// Set the current directory correctly for CLI requests\n	if (defined('STDIN'))\n	{\n		chdir(dirname(__FILE__));\n	}\n\n	if (realpath($system_path) !== FALSE)\n	{\n		$system_path = realpath($system_path).'/';\n	}\n\n	// ensure there's a trailing slash\n	$system_path = rtrim($system_path, '/').'/';\n\n	// Is the system path correct?\n	if ( ! is_dir($system_path))\n	{\n		exit(\"Your system folder path does not appear to be set correctly. Please open the following file and correct this: \".pathinfo(__FILE__, PATHINFO_BASENAME));\n	}\n\n/*\n * -------------------------------------------------------------------\n *  Now that we know the path, set the main path constants\n * -------------------------------------------------------------------\n */\n	// The name of THIS file\n	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));\n\n	// The PHP file extension\n	// this global constant is deprecated.\n	define('EXT', '.php');\n\n	// Path to the system folder\n	define('BASEPATH', str_replace(\"\\\\\", \"/\", $system_path));\n\n	// Path to the front controller (this file)\n	define('FCPATH', str_replace(SELF, '', __FILE__));\n\n	// Name of the \"system folder\"\n	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));\n\n\n	// The path to the \"application\" folder\n	if (is_dir($application_folder))\n	{\n		define('APPPATH', $application_folder.'/');\n	}\n	else\n	{\n		if ( ! is_dir(BASEPATH.$application_folder.'/'))\n		{\n			exit(\"Your application folder path does not appear to be set correctly. Please open the following file and correct this: \".SELF);\n		}\n\n		define('APPPATH', BASEPATH.$application_folder.'/');\n	}\n\n/*\n * --------------------------------------------------------------------\n * LOAD THE BOOTSTRAP FILE\n * --------------------------------------------------------------------\n *\n * And away we go...\n *\n */\nrequire_once BASEPATH.'core/CodeIgniter.php';\n\n/* End of file index.php */\n/* Location: ./index.php */",
+					"error",
+					"case"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"cron.hp",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"customsdaobase",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"rest_searchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"root",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"s_home4_head",
+						"gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php"
+					],
+					[
+						"thome4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"root.",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"fix",
+						"gentilis/js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"app.js",
+						"gentilis/app/modules/user2/app/common/js/app.js"
+					],
+					[
+						"init_app",
+						"gentilis/app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"user2index",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"template.php",
+						"gentilis/app/libraries/Template.php"
+					],
+					[
+						"view_he",
+						"gentilis/app/helpers/view_helper.php"
+					],
+					[
+						"user2index.php",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"t_html_home4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"database",
+						"gentilis/app/config/database.php"
+					],
+					[
+						"common_lang",
+						"gentilis/app/modules/user2/language/chinese/common_lang.php"
+					],
+					[
+						"common_lang.php",
+						"gentilis/app/modules/user2/language/english/common_lang.php"
+					],
+					[
+						"ui_rate",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html"
+					],
+					[
+						"jtmpl_ui_tags",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html"
+					],
+					[
+						"rest_connection",
+						"gentilis/app/libraries/rest_dao/Rest_connection_dao.php"
+					],
+					[
+						"rest_user_man",
+						"gentilis/app/libraries/rest_manager/Rest_user_manager.php"
+					],
+					[
+						"user.php",
+						"gentilis/app/modules/api/controllers/user.php"
+					],
+					[
+						"rate",
+						"gentilis/js/user2/app/knockout/ui/ui-rate.js"
+					],
+					[
+						"tags.php",
+						"gentilis/app/modules/api/controllers/tags.php"
+					],
+					[
+						"connections.php",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connections.js",
+						"gentilis/app/modules/user2/app/profile/js/connections.js"
+					],
+					[
+						"jtmpl_profile_connections_helper",
+						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html"
+					],
+					[
+						"jtmpl_common_al",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html"
+					],
+					[
+						"connections",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connection_mana",
+						"gentilis/app/libraries/manager/Connection_manager.php"
+					],
+					[
+						"rest_connection_ta",
+						"gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php"
+					],
+					[
+						"rest_connection_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"email_man",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"init_sm",
+						"gentilis/app/modules/user2/app/init/init_sm.js"
+					],
+					[
+						"jtmpl_vm_header",
+						"app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
+					],
+					[
+						"open",
+						"app/libraries/openinviter/openinviter.php"
+					],
+					[
+						"active_user_success.php",
+						"app/modules/public/views/html/active_user_success.php"
+					],
+					[
+						"t_cp_register.php",
+						"app/modules/public/views/html/cp/t_cp_register.php"
+					],
+					[
+						"template",
+						"app/libraries/Template.php"
+					],
+					[
+						"user2/index.php",
+						"app/views/user2/index.php"
+					],
+					[
+						"use",
+						"app/config/user_agents.php"
+					],
+					[
+						"placeholder",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"jquery-html5-placeholder-fix.js",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"initapp",
+						"app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"rest_search",
+						"app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"searchviewmodel",
+						"app/modules/user2/app/search/js/searchratingsviewmodel.js"
+					],
+					[
+						"load_all",
+						"uploads/email_template/template/auto_email_monthly_login_reminder.php"
+					],
+					[
+						"",
+						"/home/jimmy/www/gentilis/index.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"flush",
+						"flush_echo"
+					],
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"start",
+						"start_id"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"rest_conne",
+						"rest_connection_tag_manager"
+					],
+					[
+						"ex",
+						"exclude_circles"
+					],
+					[
+						"TAG",
+						"TAG_COWORKER"
+					],
+					[
+						"pla",
+						"placeholder_polyfill"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n\nclass Rest_search_manager extends Manager_base{\n\n	private $base_url;\n	private $auto_commit_limit;\n	private $buffers;\n	private $errors;\n	private $history;\n	private $counter;\n	private $debug = false;\n	private $last_query;\n	private $index_queue;\n	// debug commit\n	private $debug_commit = FALSE;\n	\n	const INDEX_PAGE_SIZE = 100;\n	const INDEX_CONCURRENCY = 5;\n	\n	public function __construct()\n	{\n		parent::__construct();\n		$CI = &get_instance();\n		$CI->load->library(array('dao/product_dao', \n								 'manager/user_manager', \n								 'rest_manager/rest_product_manager',\n								 'rest_dao/rest_shijian_dao',\n								 'rest_dao/rest_qun_dao',\n								 'rest_dao/rest_product_dao', \n								 'dao/category_dao', \n								 'dao/solr_query_dao', \n								 'dao/feed_dao', \n								 'dao/connection_dao', \n								 'dao/user_dao', \n								 'manager/connection_manager', \n								 'dao/message_dao', \n								 'dao/group_dao', \n								 'dao/event_dao', \n								 'dao/ad_dao', \n								 'rest_dao/rest_ad_dao', \n								 'dao/feed_news_dao', \n								 'manager/category_manager', \n								 'manager/import_manager',\n								 'rest_manager/rest_shipments_manager'\n								));\n		$CI->load->helper(array('http', 'common'));\n		$CI->config->load('solr', TRUE);\n		$this->base_url = $CI->config->item('base_url', 'solr');\n		$this->auto_commit_limit = $CI->config->item('auto_commit_limit', 'solr');\n		$this->product_dao = $CI->product_dao;\n		$this->user_manager = $CI->user_manager;\n		$this->rest_product_manager = $CI->rest_product_manager;\n		$this->connection_manager = $CI->connection_manager;\n		$this->category_manager = $CI->category_manager;\n		$this->import_manager = $CI->import_manager;\n		$this->category_dao = $CI->category_dao;\n		$this->feed_dao = $CI->feed_dao;\n		$this->solr_query_dao = $CI->solr_query_dao;\n		$this->connection_dao = $CI->connection_dao;\n		$this->user_dao = $CI->user_dao;\n		$this->message_dao = $CI->message_dao;\n		$this->group_dao = $CI->group_dao;\n		$this->event_dao = $CI->event_dao;\n		$this->ad_dao = $CI->ad_dao;\n		$this->feed_news_dao = $CI->feed_news_dao;\n		$this->rest_shijian_dao = $CI->rest_shijian_dao;\n		$this->rest_qun_dao = $CI->rest_qun_dao;\n		$this->rest_ad_dao = $CI->rest_ad_dao;\n		$this->rest_shipments_manager = $CI->rest_shipments_manager;\n		\n		$this->buffers = array();\n		$this->errors = array();\n		$this->history = array();\n		$this->index_queue = array();\n		$this->counter = 0;\n	}\n	\n	public function __destruct()\n	{\n		$this->commit();\n	}\n	\n	private function _add_index_queue($url){\n		$this->index_queue[] = $url;\n	}\n	\n	private function _run_index_queue(){\n		$mh = curl_multi_init();\n		$running = 0;\n		$curls = array();\nflush_echo(\"Starting queue with size: \" . count($this->index_queue) . \"<br/>\\n\");\n		$i = 0;\n		$k = 0;\n		do{\n			$limit = self::INDEX_CONCURRENCY - $running;\nflush_echo(\"Can create $limit more threads\");\n			for($j = 0; $i < count($this->index_queue) && $j < $limit; $i++, $j++){\n				$url = $this->index_queue[$i];\n				$curls[$i] = curl_init($url);\n				flush_echo(\"Starting: $url<br/>\\n\");\n				curl_setopt($curls[$i], CURLOPT_RETURNTRANSFER, TRUE);\n				curl_multi_add_handle($mh, $curls[$i]);\n			}\n			curl_multi_exec($mh,$running);\n//		    $ready=curl_multi_select($mh, 10); // this will pause the loop\n			sleep(1);\n			$info=curl_multi_info_read($mh);\nflush_echo(\"Running : $running, INFO : \" . ($info === FALSE ? 'FALSE' : var_export($info, true)));\nflush_echo(\"Memory usage : \" . memory_get_usage() . \"  Peak usage : \" . memory_get_peak_usage());\n	        while($info){\n	            $status=curl_getinfo($info['handle'],CURLINFO_HTTP_CODE);\n	            $results = curl_multi_getcontent($info['handle']);\n				flush_echo(\"Done ============== status : $status =======<br>\\n\");\n				flush_echo($results . \"<br><br>\\n\\n\");\n				// remove and close handle\n				curl_multi_remove_handle($mh, $info['handle']);\n				curl_close($info['handle']);\n				$info=curl_multi_info_read($mh);\n	        }\n	        curl_multi_exec($mh,$running);\n	        \n		}while($i < count($this->index_queue) || $running > 0);// && $k++ < 10);\n		// Close the multi handle\n		curl_multi_close($mh);\n	}\n\n	/**\n	 * Method to index all data to solr\n	 * [default database]\n	 * \n	 * @param  string $type     [product, user, ad, message, feed, category]\n	 * @param  [type] $start_id [NULL]\n	 * @return NULL\n	 *\n	 * @author Jimmy (2013-01-24)\n	 */\n	public function index_all($type = 'product', $start_id = NULL) {\n		// set time limit\n		set_time_limit(0);\n\n		// check if start_id is null\n		if ($start_id == NULL) {\n			// check dao class exists\n			$dao = $type . \"_dao\";\n			if ( ! isset($this->$dao)) {\n				flush_echo(\"\\$this->$dao is not exits, please check the code in \" . __FILE__);\n				return;\n			}\n			// find max & min id\n			$id_info = $this->$dao->find_id_info();\n			if (empty($id_info)) {\n				flush_echo(\"Can't find max and min id info, index \" . $tpye . \" stop.<br />\\n\");\n				return;\n			}\n			flush_echo(\"ID from $id_info->min_id to $id_info->max_id to be processed, about \" . () . \" pages<br />\\n\");\n			// add url into index queue\n			for ($i = $id_info->min_id; $i <= $id_info->max_id; $i+=self::INDEX_PAGE_SIZE) { \n				// $this->_add_index_queue(site_url('admin/search/index_all_' . $type . 's/' . $i));\n				echo site_url('admin/search/index_all_' . $type . 's/' . $i) . '<br />';\n			}\n			// $this->_run_index_queue();\n		}\n	}\n	\n	public function index_all_products($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$products = $this->product_dao->load_all(1, 1, FALSE); // Get the total number of products\n			$pages = ceil($products['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_products/' . $i));\n			}\n			$this->_run_index_queue();\n		} else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$products = $this->product_dao->load_all($page, self::INDEX_PAGE_SIZE);\n			foreach($products['result'] as $product){\n				$this->index_product($product);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	/**\n	 * Method to index product score by user register day\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-10-18\n	 */\n	public function index_products_by_user_register_day(){\n		ignore_user_abort(TRUE);\n		$mod_now = round(now() / 3600 / 24) % 30;\n		$counter = 0;\n		$page = 1;\n		do{\n			flush_echo(\"Page : $page<br/>\\n\");\n			$products = $this->product_dao->load_by_user_register_day($mod_now, $page, self::INDEX_PAGE_SIZE);\n			foreach($products['result'] as $product){\n				$this->index_product($product);\n				$counter++;\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n		}while ($products['page_count'] > $page++);\n		flush_echo(\"\\nTOTAL INDEXED: \" . $counter . \"\\nFINISHED INDEX PRODUCTS BY USER REGISTER DAY ================= \" . datetime_to_mysql() . \" ===== <br />\\n\");\n		$this->commit();\n	}\n	\n	/**\n	 * Method to index product by user_id\n	 *\n	 * Author：Shaquille Young\n	 * Creation Time：2012-10-11\n	 */\n	public function index_products_by_user_id($user_id){\n		header(\"Content-Type: text/html; charset=UTF-8\");\n		ignore_user_abort(TRUE);\n		$counter = 0;\n		$page = 1;\n		do{\n			flush_echo(\"Page : $page<br/>\\n\");\n			$products = $this->CI->rest_product_dao->load_by_user_id($user_id, $page, self::INDEX_PAGE_SIZE);\n			foreach($products['result'] as $product){\n// 				//delete solr test\n// 				$CI = &get_instance();\n// 				$CI->load->library(\"manager/product_manager\");\n// 				$this->CI->product_manager->_delete_solr($product->id);\n				\n				$this->index_product($product);\n				$counter++;\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n		}while ($products['page_count'] > $page++);\n		flush_echo(\"\\n总共 \" . $counter . \"\\n个产品重建索引,\" . \"<a href='\" . site_url('user2') . \"#search/productsdetail/user_id=\" . $user_id . \"'>查看</a>\" . \" ================= \" . datetime_to_mysql() . \" ===== <br />\\n\");\n		echo \"<a href='javascript:history.back(-1)'>返回上一页</a>\";\n		$this->commit();\n	}\n\n	public function index_all_users($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$users = $this->user_dao->load_all(1, 1, FALSE); // Get the total number of products\n			$pages = ceil($users['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_users/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$users = $this->user_dao->load_all($page, self::INDEX_PAGE_SIZE);\n			foreach($users['result'] as $user){\n				$user = $this->user_manager->post_load_by_params($user, array('websites', 'category', 'count_connections'));\n				$this->index_user($user);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	/**\n	 * Method to index user score by register day\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-10-18\n	 */\n	public function index_users_by_register_day(){\n		ignore_user_abort(TRUE);\n		$counter = 0;\n		$page = 1;\n		do{\n			flush_echo(\"Page : $page<br/>\\n\");\n			$users = $this->user_dao->load_by_register_day($page, self::INDEX_PAGE_SIZE);\n			foreach($users['result'] as $user){\n				$user = $this->user_manager->post_load_by_params($user, array('websites', 'category', 'count_connections'));\n				$this->index_user($user);\n				$counter++;\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n		}while ($users['page_count'] > $page++);\n		flush_echo(\"\\nTOTAL INDEXED: \" . $counter . \"\\nFINISHED INDEX USERS BY REGISTER DAY ================= \" . datetime_to_mysql() . \" ===== <br />\\n\");\n		$this->commit();\n	}\n	\n	public function index_all_feeds($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$feeds = $this->feed_dao->load_all(1, 1, FALSE); // Get the total number of products\n			$pages = ceil($feeds['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_feeds/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$feeds = $this->feed_dao->load_all($page, self::INDEX_PAGE_SIZE);\n			foreach($feeds['result'] as $feed){\n				if(!empty($feed) && ($feed->type == 'user' || $feed->type == 'product' || $feed->type == 'group' || $feed->type == 'event' || $feed->type == 'group_topic' || $feed->type == 'event_topic')) // TODO: Cater more kinds of feeds. eg, group, event?\n				{\n					$this->index_feed($feed);\n				}\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	/**\n	 * Method to index all feed news to solr\n	 * \n	 * @param int $page\n	 */\n	public function index_all_feed_news($page = NULL){\n		set_time_limit(0);\n		if($page == NULL){\n			$feed_news = $this->feed_news_dao->load_all(1, 1, FALSE); // Get the total number of feed news\n			$pages = ceil($feed_news['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_feed_news/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$feed_news = $this->feed_news_dao->load_all($page, self::INDEX_PAGE_SIZE);\n			foreach($feed_news['result'] as $news){\n				$this->index_feed_news($news);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_all_messages($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$conversations = $this->message_dao->load_all_conversations(1, 1); // Get the total number of products\n			$pages = ceil($conversations['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_messages/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$messages = $this->message_dao->load_all_conversations($page, 100);\n			foreach($messages['result'] as $message){\n				$this->index_message($message);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n\n	public function index_all_categories($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$categories = $this->category_dao->load_all_categories(1, 1); // Get the total number\n			$pages = ceil($categories['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_categories/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$categories = $this->category_dao->load_all_categories($page, 100);\n			foreach($categories['result'] as $category){\n				$this->index_category($category);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_all_groups($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$groups = $this->group_dao->load_all(1, 1); // Get the total number of products\n			$pages = ceil($groups['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_groups/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$groups = $this->group_dao->load_all($page, 100);\n			foreach($groups['result'] as $group){\n				$this->index_group($group);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_all_events($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$events = $this->event_dao->load_all(1, 1); // Get the total number of products\n//			_debug($events);\n			$pages = ceil($events['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_events/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$events = $this->event_dao->load_all($page, 100);\n			foreach($events['result'] as $event){\n				$this->index_event($event);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_all_shijian($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$shijians = $this->rest_shijian_dao->load_all(1, 1); // Get the total number of products\n//			_debug($shijians);\n			$pages = ceil($shijians['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_shijian/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$shijians = $this->rest_shijian_dao->load_all($page, 100);\n			foreach($shijians['result'] as $shijian){\n				$this->index_shijian($shijian);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_all_ads($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$ads = $this->rest_ad_dao->load_all(1, 1);\n			$pages = ceil($ads['num_rows'] / self::INDEX_PAGE_SIZE);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/search/index_all_ads/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$ads = $this->rest_ad_dao->load_all($page, 100);\n			foreach($ads['result'] as $ad){\n				$this->index_ad($ad);\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	/**\n	 * Method to index all customs\n	 * \n	 * @param string $start_id\n	 * \n	 * @author jimmy (2013-01-19)\n	 */\n	public function index_all_customs($start_id = NULL) {\n		set_time_limit(0);\n		if($start_id == NULL){\n			// get max and min id info\n			$id_info = $this->rest_shipments_manager->find_id_info();\n			if (empty($id_info)) {\n				flush_echo(\"Can't find max and min id info, index stop.<br/>\\n\");\n				return;\n			}\n			flush_echo(\"Id from $id_info->min_id to $id_info->max_id to be processed<br/>\\n\");\n			for($i = $id_info->min_id; $i <= $id_info->max_id; $i+=self::INDEX_PAGE_SIZE){\n				$this->_add_index_queue(site_url('admin/search/index_all_customs/' . $i));\n			}\n			$this->_run_index_queue();\n		} else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Start id: $start_id<br/>\\n\");\n			$customs = $this->rest_shipments_manager->find_all_from_id($start_id, self::INDEX_PAGE_SIZE);\n			foreach($customs['result'] as $custom){\n				$this->index_shipments($custom);\n			}\n			flush_echo(\"ID from $start_id to \".($start_id + self::INDEX_PAGE_SIZE).\" DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	/**\n	 * Index a single product\n	 * @param unknown_type $product accepts an numerical id or an object\n	 *\n	 * \n	 * admin/cron/match_solr_and_db/product/2014/3014/re-index\n	 * products total: 995\n	 * sql total: 43485\n	 * 43 sql per product\n	 * \n	 * \n	 * \n	 */\n	public function index_product($product, $return = FALSE)\n	{\n		if(is_numeric($product)){\n			$product =  $this->rest_product_manager->load_details($product);\n		}\n//flush_echo(\"\\nINDEXING prod : {$product->id}<br/>\\n\");\n		// Preprocessing of the object for indexing\n		unset($product->picture);\n		unset($product->pictures);\n		unset($product->url);\n		unset($product->short_description);\n		unset($product->has_connected);\n		unset($product->shared);\n		unset($product->has_follow);\n		unset($product->category_changes);\n		unset($product->category_parent);\n		unset($product->noindex);\n		unset($product->invited);\n		unset($product->pro_level);\n		unset($product->has_references);\n//		unset($product->specifications);\n		unset($product->analytics);\n		unset($product->update_time);\n		if(isset($product->category) && !empty($product->category))\n		{\n			$product->category = $product->category->name;\n			$product->category_s = strtolower($product->category);\n		}\n		$product = $this->_process_category($product);\n		$product = $this->_process_specifications($product);\n// 		$product->real_tags = $product->tags; // TODO: this field is never used\n		$product->company = $product->user->company_name;\n		$product->member = $product->user->member;\n		$product->connection_ids = $this->connection_manager->load_connections_ids($product->user_id);\n		$product->connections_level_2_ids = $this->connection_manager->load_second_level_connections($product->user_id);\n		// NOTICE: this field \"user_score\" must before field \"user\"\n		$product->user_score = $this->_get_user_score($product->user, $return);\n	\n		$product->user = $product->user->full_name;\n		$product->description = strip_tags($product->description); // Remove tags when the product is uploaded from alibaba site\n		//TODO: get user & product score\n		$product->product_score = $this->_get_product_score($product, $return);\n		// Adding the String type fields for exact match\n		$product->title_s = strtolower($product->title);\n		$product->description_s = strtolower($product->description);\n	\n		//update datebase product product_score\n		$update_product = new stdClass();\n		$update_product->id = $product->id;\n		$update_product->product_score = $product->product_score;\n		$this->rest_product_manager->save($update_product);\n	\n		if($return) return $product;\n	\n		// Submit for indexing\n		$this->_index('product', $product);\n	}\n	\n	public function index_shipments($shipments, $return = FALSE)\n	{\n		if(is_numeric($shipments)){\n			$shipments =  $this->rest_shipments_manager->load_details($shipments);\n//			_debug($shipments);\n		}\n\n		$CI = &get_instance();\n		$CI->load->library(array('rest_manager/rest_shipper_manager'));\n		$this->rest_shipper_manager = $CI->rest_shipper_manager;\n\n		$shipments->shipper = $this->rest_shipper_manager->load_for_solr($shipments->shipper_id);\n		$shipments->consignee = $this->rest_shipper_manager->load_for_solr($shipments->consignee_id);\n\n		// Preprocessing of the object for indexing\n		$data = new stdClass();\n		$data->id = $shipments->id;\n		$data->item_id = $shipments->item_id;\n		$data->shipper_name = $shipments->shipper->name;\n		$data->consignee_name = $shipments->consignee->name;\n		$data->shipper_id = $shipments->shipper_id;\n		$data->consignee_id = $shipments->consignee_id;\n		$data->description = trim($shipments->description);\n		$data->shipper_address = trim($shipments->shipper->address);\n		$data->consignee_address = trim($shipments->consignee->address);\n		$data->shipper_company_id = $shipments->shipper->company_id;\n		$data->consignee_company_id = $shipments->consignee->company_id;\n		$data->shipper_user_id = $shipments->shipper->user_id;\n		$data->consignee_user_id = $shipments->consignee->user_id;\n		\n		$data->shipper_company = $shipments->shipper->company_id && $shipments->shipper->name ? $shipments->shipper->name : '';\n		$data->consignee_company = $shipments->consignee->company_id && $shipments->consignee->name ? $shipments->consignee->name : '';\n		\n		$data->shipper_user =  $shipments->shipper->user_id && $shipments->shipper->user ? $shipments->shipper->user->full_name : '';\n		$data->consignee_user =  $shipments->consignee->user_id && $shipments->consignee->user ? $shipments->consignee->user->full_name : '';\n		$data->bol = $shipments->bol;\n		$data->quantity = $shipments->quantity;\n		$data->teu = $shipments->teu;\n		$data->actual_arrival_date = $shipments->actual_arrival_date;\n		$data->creation_time = $shipments->creation_time;\n		\n		$data->shipper_count_shipments = $this->rest_shipments_manager->count_shipments_by_company_id_and_type($data->shipper_id, 'shipper');\n		$data->consignee_count_shipments = $this->rest_shipments_manager->count_shipments_by_company_id_and_type($data->consignee_id, 'consignee');\n\n		$data->origin_ports_country = $shipments->origin_ports ? trim($shipments->origin_ports->country) : '';\n		$data->origin_ports_by_country = $shipments->origin_ports ? trim($shipments->origin_ports->ports_by_country) : '';\n		$data->destination_ports = $shipments->destination_ports ? trim($shipments->destination_ports->port) : '';\n		\n//		_debug($data);\n		if($return) return $data;\n	\n		// Submit for indexing\n		$this->_index('shipments', $data);\n	}\n	\n	/**\n	 * Method to get product score\n	 * @param obj $product\n	 * @param boolean $detail\n	 * @return string\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-10-18\n	 */\n	private function _get_product_score($product, $detail = FALSE){\n		$CI = &get_instance();\n		$CI->config->load('score', TRUE);\n		$score_config = $CI->config->item('product', 'score');\n		$score_base = 100;\n		$score = array();\n		$score['score'] = 0;\n		foreach ($score_config as $key => $val){\n			$score[\"percent_$key\"] = $val[0] . '%';\n			if($key == 'description' || $key == 'title'){\n				$length = strlen($product->$key);\n				$score[$key] = scale($length, $val[1], $val[2]) - scale($length, $val[3], $val[4]) * $val[5];\n				$score[$key] = $score[$key] / $score_base * $val[0];\n			}elseif($key == 'pictures'){\n				$length = isset($product->$key) ? count($product->$key) : 0;\n				$score[$key] = scale($length, $val[1], $val[2]);\n				$score[$key] = $score[$key] / $score_base * $val[0];\n			}else{\n				$score[$key] = empty($product->$key) ? 0 : $val[0];\n			}\n			$score['score'] += $score[$key];\n		}\n		$score['percent_score'] = '';\n		\n		return $detail ? $score : $score['score'];\n	}\n	\n	/**\n	 * Method to get user score\n	 * @param obj $user\n	 * @param boolean $detail\n	 * @return Ambiguous\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-10-18\n	 */\n	private function _get_user_score($user, $detail = FALSE){\n		$CI = &get_instance();\n		$CI->config->load('score', TRUE);\n		$score_config = $CI->config->item('user', 'score');\n		$score_base = 100;\n		$score = array();\n		$score['score'] = 0;\n		foreach ($score_config as $key => $val){\n			$score[\"percent_$key\"] = $val[0] . '%';\n			if($key == 'progress'){\n				$score[\"result_$key\"] = $user->$key;\n				$score[$key] = $user->$key / $score_base * $val[0];\n			}else{\n				$fn = 'get_' . $key;\n				$score[\"result_$key\"] = $this->user_dao->{$fn}($user->id);\n				$score[$key] = scale($score[\"result_$key\"], $val[1], $val[2]) / $score_base * $val[0];\n			}\n			$score['score'] += $score[$key];\n		}\n		$score['percent_score'] = '';\n		$score['result_score'] = '';\n		\n		return $detail ? $score : $score['score'];\n	}\n	\n	/**\n	 * Method to show product/user score on backend\n	 * Page : admin/search/score\n	 * @param int $page_num\n	 * @param int $page_size\n	 * @return array\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-10-18\n	 */\n	public function score($page_num = 1, $page_size = Dao_base::DEFAULT_PAGE_SIZE){\n		$products = $this->product_dao->load_all($page_num, $page_size);\n		foreach($products['result'] as $product){\n			$product = $this->index_product($product, TRUE);\n		}\n		return $products;\n	}\n\n	public function index_user($user, $return = FALSE)\n	{\n		if(is_numeric($user)){\n			$user =  $this->user_manager->load_details($user);\n		}\n		// Preprocessing of the object for indexing\n		$solr_user = new stdClass();\n		$solr_user->id = $user->id;\n		$solr_user->email = !empty($user->email) ? strtolower($user->email) : '';\n		$solr_user->enabled = $user->enabled;\n		$solr_user->activated = $user->activated;\n		$solr_user->first_name = $user->first_name;\n		$solr_user->last_name = $user->last_name;\n		$solr_user->full_name = $user->full_name;\n		$solr_user->location = $user->location;\n		$solr_user->position = $user->position;\n//		$solr_user->industry = $user->industry;\n		$solr_user->summary = $user->summary;\n		$solr_user->member = $user->member;\n		$solr_user->website = $user->websites;\n		$solr_user->creation_time = $user->creation_time;\n		$solr_user->last_login_time = $user->last_login_time;\n		$solr_user->buy_category = $user->buy_category;\n		$solr_user->sell_category = $user->sell_category;\n		$user_search = $this->user_manager->load_actions_by_type_and_user_id('keywords', $user->id, 1, 30);\n		$searchs = array();\n		if(!empty($user_search) && $user_search['num_rows'] > 0)\n		{\n			foreach($user_search['result'] as $key=>$val)\n			{\n				$searchs[] = $val->value;\n			}\n		}\n		$solr_user->search = $searchs;\n		$solr_user->company_name = $user->company_name;\n		$solr_user->connections = $this->connection_manager->load_connections_ids($user->id);\n		$solr_user->connections_level_2 = $this->connection_manager->load_second_level_connections_ids($user->id);\n		\n		$solr_user->imported_emails = $this->import_manager->find_import_emails_by_user_id_for_solr($user->id);\n		\n		$page = 1;\n		do{\n			$user_products = $this->rest_product_manager->find_basic_by_user_id($user->id, $page);\n			$products = $user_products['result'];\n			$value = '';\n			foreach($products as $product){\n				$value .= $product->title . ' ' . $product->description . ' ';\n			}\n			$solr_user->products = $value;\n		}while($user_products['page_count'] > $page ++);\n		\n		$solr_user = $this->_user_process_category($solr_user);\n		\n		$solr_user->score = $this->_get_user_score($user, $return);\n		unset($user);\n//		echo $solr_user->id.\"<br/>\";\n//		_debug($solr_user);\n//		$user = $this->_process_specifications($user);\n\n		if($return) return $solr_user;\n		\n		// Submit for indexing\n		$this->_index('user', $solr_user);\n	}\n	\n	public function index_feed($feed)\n	{\n		if(is_numeric($feed)){\n			$feed =  $this->feed_dao->load($feed);\n		}\n		// check empty feed\n		if (empty($feed)) return;\n		\n		unset($feed->comments);\n		unset($feed->jtmpl);\n		unset($feed->like);\n		unset($feed->user->analytics);\n		unset($feed->picture);\n		$feed->user = $this->_getCombineArray($feed->user);\n		switch($feed->type)\n		{\n			case 'product':\n				$feed->target_user_id = $feed->target->user_id;\n				break;\n		}\n		unset($feed->target->analytics);\n		unset($feed->target->user);\n		$feed->target = $this->_getCombineArray($feed->target);\n		$removed_id = $this->feed_dao->removed_id($feed->id);\n		$feed->removed_id = isset($removed_id->removed_id) ? explode(',', $removed_id->removed_id) : '';\n		\n//		_debug($feed, false);\n		// Submit for indexing\n		$this->_index('feed', $feed);\n	}\n	\n	public function index_feed_news($feed_news)\n	{\n		if(is_numeric($feed_news)){\n			$feed_news = $this->feed_news_dao->load($feed_news);\n		}\n		\n		if(is_object($feed_news)){\n			$feed_news->categories = '';\n			\n			$feed_news->categories = array();\n			$feed_news->category_ids = array();\n			$categories = $this->feed_news_dao->find_categories_by_fn_id($feed_news->id);\n			if($categories['num_rows'] > 0){\n				foreach($categories['result'] as $key => $category){\n					 $feed_news->categories[] = $category->category_name;\n					 $feed_news->category_ids[] = $category->category_id;\n				}\n			}\n\n			// Submit for indexing\n			$this->_index('feed_news', $feed_news);\n		}\n	}\n	\n	public function index_message($message)\n	{\n		if(is_numeric($message)){\n			$message =  $this->message_dao->load_by_conversation_id($message);\n		}\n		unset($message->last_message);\n		$message->sent_from_s = $message->sent_from;\n		unset($message->sent_from);\n		$all_messages = $this->message_dao->find_message_by_conversation_id($message->id, 0);\n		$messages = array();\n		if($all_messages['num_rows'] > 0)\n		{\n			foreach($all_messages['result'] as $key=>$val)\n			{\n				$messages[$key] = $val->message;\n			}\n		}\n		$message->messages = $messages;\n		$message->conversation_type = isset($message->type) ? $message->type : '';\n		$message->starter = $message->starter->full_name;\n		$users = array();\n		if(!empty($message->users))\n		{\n			foreach($message->users as $k=>$v)\n			{\n				$users[$k] = $v->full_name;\n			}\n		}\n		$message->users = $users;\n		if($message->target_id > 0)\n		{\n			$target = array();\n			switch($message->target_type)\n			{\n				case 'product':\n					$target[] = @$message->target->title; // 加上@是因为有可能这条有关于产品的message里的产品被删除掉了\n					$target[] = @$message->target->description;\n				break;\n				case 'feed':\n					switch($message->target->type)\n					{\n						case 'product':\n							$target[] = @$message->target->target[0]->title;\n							$target[] = @$message->target->target[0]->description;\n						break;\n						case 'user':\n							$target[] = @$message->target->target[0]->full_name;\n					}\n					\n			}\n			\n			$message->target = $target;\n		}\n		unset($message->type);\n		unset($message->status);\n		unset($message->popular_status);\n		unset($all_messages);\n//		_debug($message, false);\n		\n		// Process the join index for users\n		$join_indexes = $this->message_dao->find_user_join_index_by_conversation_id($message->id);\n		foreach($join_indexes['result'] as $join_index){\n			if($message->message_count < $join_index->join_index){\n				foreach($message->user_ids as $key => $value) {\n					if ($value == $join_index->user_id) unset($message->user_ids[$key]);\n				}\n			}\n		}\n		\n		// Process the spammed users (Jimmy 2012-09-11)\n		$message->spam_ids = $this->message_dao->find_spam_user_ids($message->id);\n		\n		// Submit for indexing\n		$this->_index('message', $message);\n	}\n	\n	public function index_category($category)\n	{\n		if(is_numeric($category)){\n			if($category == -1) return;\n			$category =  $this->category_dao->load($category);\n		}\n		elseif($category->id == -1)\n		{\n			return;\n		}\n		$category_product_title_and_description = $this->product_dao->find_by_category_id($category->id, 0);\n		\n		$product_title = array();\n		$product_description = array();\n		if($category_product_title_and_description['num_rows'] > 0)\n		{\n			foreach($category_product_title_and_description['result'] as $key=>$val)\n			{\n				$product_title[$key] = $val->title;\n				$product_description[$key] = $val->description;\n			}\n		}\n		$category->name_t = $category->name;\n		$category->product_title = $product_title;\n		$category->product_description = $product_description;\n//		unset($category->adjacencies);\n//		unset($category->leaf);\n		unset($category->hasChildren);\n		// Submit for indexing\n		$this->_index('category', $category);\n	}\n	\n	public function index_group($group)\n	{\n		if(is_numeric($group)){\n			$group =  $this->group_dao->load($group);\n		}\n		unset($group->last_login_time);\n		unset($group->url);\n		unset($group->short_body);\n		unset($group->is_member);\n		unset($group->picture);\n		if(!empty($group->category_id) && $group->category_id > 0)\n		{\n			$category = $this->category_dao->load($group->category_id);\n			$group->category = $category->name;\n			$group = $this->_process_category($group);\n		}\n		$group->creator = $group->creator->full_name;\n		\n		$member_ids = array();\n		$members = array();\n		$member = $this->group_dao->load_member($group->id, 0);\n		if($member['num_rows'] > 0)\n		{\n			foreach($member['result'] as $key=>$val)\n			{\n				$member_ids[$key] = $val->user_id;\n				$members[$key] = $val->original_user->full_name;\n			}\n		}\n		$group->member_ids = $member_ids;\n		$group->members = $members;\n		$group->member_count = count($members);\n		\n		$topic_subjects = array();\n		$topic_bodys = array();\n		$topics = $this->group_dao->load_topics($group->id, 0);\n		if(!empty($topics) && $topics['num_rows'] > 0)\n		{\n			foreach($topics['result'] as $k=>$v)\n			{\n				$topic_subjects[$k] = $v->subject;\n				$topic_bodys[$k] = $v->body;\n			}\n		}\n		$group->topic_subjects = $topic_subjects;\n		$group->topic_bodys = $topic_bodys;\n		\n		$posts = array();\n		$post = $this->group_dao->load_all_comment_by_group_id($group->id);\n		if(!empty($post) && $post['num_rows'] > 0)\n		{\n			foreach($post['result'] as $ke=>$va)\n			{\n				$posts[$ke] = $va->body;\n			}\n		}\n		$group->posts = $posts;\n//_debug($group);\n		// Submit for indexing\n		$this->_index('group', $group);\n	}\n	\n	public function index_event($event)\n	{\n		if(is_numeric($event)){\n			$event =  $this->event_dao->load($event);\n		}\n		unset($event->last_login_time);\n		unset($event->url);\n		unset($event->short_body);\n		unset($event->is_member);\n		unset($event->picture);\n		if(!empty($event->category_id) && $event->category_id > 0)\n		{\n			$category = $this->category_dao->load($event->category_id);\n			$event->category = $category->name;\n			$event = $this->_process_category($event);\n		}\n		$event->creator = $event->creator->full_name;\n		\n		$member_ids = array();\n		$members = array();\n		$member = $this->event_dao->load_member($event->id, 0);\n		if($member['num_rows'] > 0)\n		{\n			foreach($member['result'] as $key=>$val)\n			{\n				$member_ids[$key] = $val->user_id;\n				$members[$key] = $val->original_user->full_name;\n			}\n		}\n		$event->member_ids = $member_ids;\n		$event->members = $members;\n		$event->member_count = count($members);\n		\n		$topic_subjects = array();\n		$topic_bodys = array();\n		$topics = $this->event_dao->load_topics($event->id, 0);\n		if(!empty($topics) && $topics['num_rows'] > 0)\n		{\n			foreach($topics['result'] as $k=>$v)\n			{\n				$topic_subjects[$k] = $v->subject;\n				$topic_bodys[$k] = $v->body;\n			}\n		}\n		$event->topic_subjects = $topic_subjects;\n		$event->topic_bodys = $topic_bodys;\n		\n		$posts = array();\n		$post = $this->event_dao->load_all_comment_by_event_id($event->id);\n		if(!empty($post) && $post['num_rows'] > 0)\n		{\n			foreach($post['result'] as $ke=>$va)\n			{\n				$posts[$ke] = $va->body;\n			}\n		}\n		$event->posts = $posts;\n\n		// Submit for indexing\n		$this->_index('event', $event);\n	}\n	\n	public function index_shijian($shijian)\n	{\n		if(is_numeric($shijian)){\n			$shijian =  $this->rest_shijian_dao->load($shijian);\n		}\n\n		unset($shijian->short_description);\n		unset($shijian->logo);\n		unset($shijian->photos);\n		unset($shijian->guests);\n		unset($shijian->exhibitors);\n		if(!empty($shijian->category_id) && $shijian->category_id > 0)\n		{\n			$category = $this->category_dao->load($shijian->category_id);\n			$shijian->category = $category->name;\n			$shijian->industry = $category->name;\n			$shijian = $this->_process_category($shijian);\n		}\n		$shijian->vip = $shijian->user->member;\n		$shijian->user = $shijian->user->full_name;\n		$shijian->connection_ids = $this->connection_manager->load_connections_ids($shijian->user_id);\n		$shijian->connections_level_2_ids = $this->connection_manager->load_second_level_connections($shijian->user_id);\n		\n		$guest_ids = array();\n		$guests = array();\n		$guest = $this->rest_shijian_dao->load_members_by_status($shijian->id, 'guest', 0);\n		if($guest['num_rows'] > 0)\n		{\n			foreach($guest['result'] as $key=>$val)\n			{\n				$guest_ids[$key] = $val->user_id;\n				$guests[$key] = $val->full_name;\n			}\n		}\n		$shijian->guest_ids = $guest_ids;\n		$shijian->guests = $guests;\n		$shijian->guest_count = $guest['num_rows'];\n		\n		$exhibitor_ids = array();\n		$exhibitors = array();\n		$exhibitor = $this->rest_shijian_dao->load_members_by_status($shijian->id, 'exhibitor', 0);\n		if($exhibitor['num_rows'] > 0)\n		{\n			foreach($exhibitor['result'] as $key=>$val)\n			{\n				$exhibitor_ids[$key] = $val->user_id;\n				$exhibitors[$key] = $val->full_name;\n			}\n		}\n		$shijian->exhibitor_ids = $exhibitor_ids;\n		$shijian->exhibitors = $exhibitors;\n		$shijian->exhibitor_count = $exhibitor['num_rows'];\n\n		// Submit for indexing\n		$this->_index('shijian', $shijian);\n	}\n	\n	public function index_qun($qun)\n	{\n		if(is_numeric($qun)){\n			$qun =  $this->rest_qun_dao->load($qun);\n		}\n\n		unset($qun->short_description);\n		unset($qun->logo);\n		if(!empty($qun->category_id) && $qun->category_id > 0)\n		{\n			$category = $this->category_dao->load($qun->category_id);\n			$qun->category = $category->name;\n			$qun->industry = $category->name;\n			$qun = $this->_process_category($qun);\n		}\n		$qun->vip = $qun->user->member;\n		$qun->user = $qun->user->full_name;\n\n		$qun->connection_ids = $this->connection_manager->load_connections_ids($qun->user_id);\n		$qun->connections_level_2_ids = $this->connection_manager->load_second_level_connections($qun->user_id);\n		\n		$member_ids = array();\n		$members = array();\n		$member = $this->rest_qun_dao->load_members($qun->id, 0);\n		if($member['num_rows'] > 0)\n		{\n			foreach($member['result'] as $key=>$val)\n			{\n				$member_ids[$key] = $val->user_id;\n				$members[$key] = $val->full_name;\n			}\n		}\n		$qun->member_ids = $member_ids;\n		$qun->members = $members;\n		$qun->member_count = count($members);\n		\n		$topic_subjects = array();\n		$topic_bodys = array();\n		$topics = $this->rest_qun_dao->load_topics($qun->id, 0);\n		if(!empty($topics) && $topics['num_rows'] > 0)\n		{\n			foreach($topics['result'] as $k=>$v)\n			{\n				$topic_subjects[$k] = $v->subject;\n				$topic_bodys[$k] = $v->body;\n			}\n		}\n		$qun->topic_subjects = $topic_subjects;\n		$qun->topic_bodys = $topic_bodys;\n		\n		$posts = array();\n		$post = $this->rest_qun_dao->load_all_comments_by_qun_id($qun->id);\n		if(!empty($post) && $post['num_rows'] > 0)\n		{\n			foreach($post['result'] as $ke=>$va)\n			{\n				$posts[$ke] = $va->body;\n			}\n		}\n		$qun->posts = $posts;\n\n		// Submit for indexing\n		$this->_index('qun', $qun);\n	}\n	\n	public function index_ad($ad)\n	{\n		if(is_numeric($ad)){\n			$ad =  $this->rest_ad_dao->load($ad);\n		}\n		\n		unset($ad->pictures);\n		unset($ad->crop);\n\n		if(!empty($ad->category_id) && $ad->category_id > 0)\n		{\n			$category = $this->category_dao->load($ad->category_id);\n			$ad->category = $category->name;\n			$ad = $this->_process_category($ad);\n		}\n		\n		if(!empty($ad->target_type) && !empty($ad->target_id))\n		{\n			switch($ad->target_type)\n			{\n				case 'user':\n					$target = $this->user_dao->load($ad->target_id);\n					if($target)	$ad->target = $target->full_name;\n					break;\n				case 'product':\n					$target = $this->product_dao->load($ad->target_id);\n					if($target) $ad->target =  array($target->title, $target->description);\n					break;\n			}\n		}\n		\n		// #580: Add \"type\" field to ad schema.xml and update solr query \"user_site_suggest_ad\" : &bq=type:paid^10\n		$slot = $this->rest_ad_dao->find_ad_slot_by_ad_id($ad->id);\n		// TODO: set default value 'free'? $ad->type = $slot ? $slot->type : 'free';\n		if($slot){\n			$ad->type = $slot->type;\n			if($slot->end_time) $ad->expired_time = mysqldatetime_to_datetime($slot->end_time);\n		}\n		\n		// Submit for indexing\n		$this->_index('ad', $ad);\n	}\n	\n	public function index_match_mysql_solr_product($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$products = $this->product_dao->load_all(1, 1, FALSE); // Get the total number of products\n			$pages = ceil($products['num_rows'] / 5);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/solr/index_match_mysql_solr_product/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$products = $this->product_dao->load_id($page, 5, FALSE);\n			foreach($products['result'] as $product){\n				$result = $this->search('match_mysql_solr_product', array('id' => $product->id));\n				if(!empty($result))\n				{\n					if($result->response->numFound <= 0)\n					{\n						$this->index_product($product->id);\n						flush_echo(\"\\n product id=\". $product->id);\n					}\n					else\n					{\n						flush_echo(\"\\n exist product id=\".$product->id);\n					}\n				}\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function index_match_mysql_solr_user($page = NULL)\n	{\n		set_time_limit(0);\n		if($page == NULL){\n			$users = $this->user_dao->load_all(1, 1, FALSE); // Get the total number of products\n			$pages = ceil($users['num_rows'] / 5);\n			\n			flush_echo(\"Total pages to be processed: $pages<br/>\\n\");\n			for($i = 1; $i <= $pages; $i++){\n				$this->_add_index_queue(site_url('admin/solr/index_match_mysql_solr_user/' . $i));\n			}\n			$this->_run_index_queue();\n		}else {\n			ignore_user_abort(TRUE);\n			flush_echo(\"Page : $page<br/>\\n\");\n			$users = $this->user_dao->load_id($page, 5, FALSE);\n			foreach($users['result'] as $user){\n				$result = $this->search('match_mysql_solr_user', array('id' => $user->id));\n				if(!empty($result))\n				{\n					if($result->response->numFound <= 0)\n					{\n						$this->index_user($user->id);\n						flush_echo(\"\\n user id=\". $user->id);\n					}\n					else\n					{\n						flush_echo(\"\\n exist user id=\".$user->id);\n					}\n				}\n			}\n			flush_echo(\"Page : $page DONE<br/>\\n\");\n			$this->commit();\n		}\n	}\n	\n	public function search($query_name, $params, $page_num  = 1, $page_size = 20, $filters = '', $hightlight = FALSE)\n	{\n		$q = $this->solr_query_dao->find_query($query_name);\n		return $this->search_with_query($q->type, $q->query, $params, $page_num, $page_size, $filters, $q->parser, $hightlight, $query_name);\n	}\n	\n	public function find_filters($filter, $query_name, $params){\n		$q = $this->solr_query_dao->find_query($query_name);\n\n		if(!is_array($filter))\n		{\n			$filter = array($filter);\n		}\n		$facet_field = '';\n		foreach($filter as $key => $value)\n		{\n			$facet_field .= \"&facet.field={$value}\";\n		}\n\n		if(!empty($params))\n		{\n			foreach($params as $key => $value){\n				if(is_array($value))\n				{\n					if(!empty($value))\n					{\n						foreach($value as $k=>$v)\n						{\n							if($v == '\"')\n							{\n								$value[$k] = '\\\"';\n							}\n							else\n							{\n								$value[$k] = urlencode($v);\n							}\n						}\n						$vv = implode('\" OR \"', $value);\n						$params[$key] = '(\" ' . $vv . '\")';\n					}\n					else\n					{\n						$params[$key] = \"(0)\";\n					}\n				}\n				else\n				{\n					if(str_start_with($value, \"\\\\\")){ // Slash indicates RAW param, do not encode it\n						$params[$key] = substr($value, 1);\n					}else {\n						if($value == '\"')\n						{\n							$params[$key] = '\\\"';\n						}\n						else\n						{\n							$params[$key] = urlencode($value);\n						}\n					}\n				}\n			}\n		}\n		// Replace the space and new lines to make the query more readable when editing.\n		$query = $q->query;\n		$this->last_query = $query;\n		$query = str_replace('%', '%25', $query);\n		$query = str_replace(' ', '%20', $query);\n		$query = str_replace(\"\\n\", '', $query);\n		$query = str_replace(\"\\r\", '', $query);\n		\n		// Extraction of parameter variables\n		if(!empty($params)) extract($params);\n		if($query != \"\") eval(\"\\$query = \\\"$query\\\";\");\n		\n		$solr_search_url = $this->_solr_search_url($q->type);\n\n		$score = strpos($query_name, 'feed') !== false ? 'creation_time' : 'score';\n		\n		$query .= \"&facet=true{$facet_field}&facet.mincount=1&facet.missing=true\";\n		$data = \"q={$query}&version=2.2&start=0&rows=0&indent=on&fl=id,{$score}&qt=dismax&wt=json\" . ($this->debug ? '&debugQuery=on' : '');\n\n		$this->history[] = $solr_search_url . \"?\" . $data;\n		\n		$result = $this->_post_to_solr($solr_search_url, $data, array());\n//		echo $this->history[count($this->history) - 1];\n		$response = json_decode($result, FALSE);\n//		_debug($response);\n		$results = array();\n		$category_ids = array();\n		\n		if(!empty($response->facet_counts->facet_fields->{$filter[0]}[0]))\n		{\n			$result_array_ids = $response->facet_counts->facet_fields->{$filter[0]};\n			\n			foreach($result_array_ids as $ke=>$va)\n			{\n				if(($ke % 2) == 0)\n				{\n					if(!empty($va))\n					{\n						$category_ids[] = $va;\n					}\n				}\n			}\n			\n			$category_names = $this->category_manager->find_by_ids($category_ids, 0, 20, FALSE);\n			if(!empty($category_names) && $category_names['num_rows'] > 0)\n			{\n				$categories = $category_names['result'];\n				foreach($categories as $k=>$v)\n				{\n					$categories_name[$v->id] = $v->name;\n					$categories_depth[$v->id] = $v->depth;\n				}\n//				_debug($categories_name);\n				$count = 0;\n				foreach($result_array_ids as $key=>$val)\n				{\n					if(($key % 2) == 0)\n					{\n						if(empty($val))\n						{\n							$name = lang(\"others\");\n							$depth = '';\n							$keyword = '_';\n							$results[$count]->id = '';\n						}\n						else\n						{\n							if(array_key_exists($val, $categories_name) && array_key_exists($val, $categories_depth))\n							{\n								$name = $categories_name[$val];\n								$depth = $categories_depth[$val];\n								$keyword = $name;\n								$results[$count]->id = $val;\n							}\n							else\n							{\n								continue ;\n							}\n						}\n						$results[$count]->name = $name;\n						$results[$count]->depth = $depth;\n						$results[$count]->count = $result_array_ids[$key+1];\n						$results[$count]->keyword = $keyword;\n						$count++;\n					}\n				}\n			}\n		}\n//		_debug($results);\n		if(!empty($results))\n		{\n			$last_v = array_pop($results);\n			array_unshift($results, $last_v);\n		}\n		return $results;\n		\n	}\n	\n	public function user_site_find_filters($filter, $query_name, $params){\n		$q = $this->solr_query_dao->find_query($query_name);\n\n		if(!empty($params))\n		{\n			if($query_name == 'user_site_user' || $query_name == 'user_site_suggest_user' || $query_name == 'user_site_product' || $query_name == 'user_site_suggest_product'){\n				$params['suggest_user_ids'] = $this->import_manager->find_suggest_user_ids($params['user_id']);\n			}\n//			_debug($params);\n			foreach($params as $key => $value){\n				if(is_array($value))\n				{\n					if(!empty($value))\n					{\n						foreach($value as $k=>$v)\n						{\n							if($v == '\"')\n							{\n								$value[$k] = '\\\"';\n							}\n							else\n							{\n								$value[$k] = urlencode($v);\n							}\n						}\n						$vv = implode('\" OR \"', $value);\n						$params[$key] = '(\"' . $vv . '\")';\n					}\n					else\n					{\n						$params[$key] = \"(0)\";\n					}\n				}\n				else\n				{\n					if(str_start_with($value, \"\\\\\")){ // Slash indicates RAW param, do not encode it\n						$params[$key] = substr($value, 1);\n					}else {\n						if($value == '\"')\n						{\n							$params[$key] = '\\\"';\n						}\n						else\n						{\n							$params[$key] = urlencode($value);\n						}\n					}\n				}\n			}\n		}\n\n		// Replace the space and new lines to make the query more readable when editing.\n		$query = $q->query;\n		$this->last_query = $query;\n		$query = str_replace('%', '%25', $query);\n		$query = str_replace(' ', '%20', $query);\n		$query = str_replace(\"\\n\", '', $query);\n		$query = str_replace(\"\\r\", '', $query);\n		\n		// Extraction of parameter variables\n		if(!empty($params)) extract($params);\n		if($query != \"\") eval(\"\\$query = \\\"$query\\\";\");\n		\n		$solr_search_url = $this->_solr_search_url($q->type);\n		/*\n		$query = '';\n		if(!empty($user_id))\n		{\n			switch($type)\n			{\n				case 'product':\n					$query = \"&fq=user_id:{$user_id}\";\n					break;\n				case 'user':\n					$query = \"&fq=connections:{$user_id}\";\n					break;\n			}\n		}\n		*/\n		\n		$score = strpos($query_name, 'feed') !== false ? 'creation_time' : 'score';\n		\n		$query .= \"&facet=true&facet.field={$filter}&facet.mincount=1&facet.missing=true\";\n		$data = \"q={$query}&version=2.2&start=0&rows=0&indent=on&fl=id,{$score}&qt={$q->parser}&wt=json\" . ($this->debug ? '&debugQuery=on' : '');\n\n		$data = preg_replace('/:\\^/i', ':0^', $data);\n		$data = preg_replace('/:\\%/i', ':0%', $data);\n		$data = preg_replace('/:\\&/i', ':0&', $data);\n		\n		$this->history[] = $solr_search_url . \"?\" . $data;\n		\n		$result = $this->_post_to_solr($solr_search_url, $data, array());\n//		echo $this->history[count($this->history) - 1];\n		$response = json_decode($result, FALSE);\n//		_debug($response);\n		$results = array();\n		if(!empty($response->facet_counts->facet_fields->$filter))\n		{\n			$result_array = $response->facet_counts->facet_fields->$filter;\n			$count = 0;\n			foreach($result_array as $key=>$val)\n			{\n				if(($key % 2) == 0)\n				{\n					if (empty($results[$count])) $results[$count] = new stdClass();\n					\n					if(empty($val))\n					{\n						$val = lang(\"others\");\n						$keyword = '_';\n						$results[$count]->id = '';\n					}\n					else\n					{\n						$keyword = $val;\n						$results[$count]->id = $this->category_manager->load_id_by_keyword($keyword);\n					}\n					$results[$count]->name = $val;\n					$results[$count]->count = $result_array[$key+1];\n					$results[$count]->keyword = $keyword;\n					$count++;\n				}\n			}\n		}\n		$last_v = array_pop($results);\n		array_unshift($results, $last_v);\n		\n		return $results;\n	}\n	\n	public function find_query($query_name)\n	{\n		return $this->solr_query_dao->find_query($query_name);\n	}\n	\n	public function load_all_solr_name()\n	{\n		return $this->solr_query_dao->load_all_solr_name();\n	}\n	\n	public function search_with_query($type, $query, $params, $page_num = 1, $page_size = 20, $filters = '', $parser = 'dismax', $hightlight = FALSE, $query_name = NULL)\n	{\n		$sort = '';\n		if(!empty($params))\n		{\n			if(isset($params['sort']))\n			{\n				$sort = $params['sort'];\n				unset($params['sort']);	\n			}\n			\n			foreach($params as $key => $value){\n				if(is_array($value))\n				{\n					if(!empty($value))\n					{\n						foreach($value as $k=>$v)\n						{\n							if($v == '\"')\n							{\n								$value[$k] = '\\\"';\n							}\n							else\n							{\n								$value[$k] = urlencode($v);\n							}\n						}\n						$vv = implode('\" OR \"', $value);\n						$params[$key] = '(\"' . $vv . '\")';\n					}\n					else\n					{\n						$params[$key] = \"(0)\";\n					}\n				}\n				else\n				{\n					if(str_start_with($value, \"\\\\\")){ // Slash indicates RAW param, do not encode it\n						$params[$key] = substr($value, 1);\n					}else {\n						if($value == '\"')\n						{\n							$params[$key] = '\\\"';\n						}\n						else\n						{\n							$params[$key] = urlencode($value);\n						}\n					}\n				}\n			}\n		}\n\n		// Replace the space and new lines to make the query more readable when editing.\n		$this->last_query = $query;\n		$query = str_replace('%', '%25', $query);\n		$query = str_replace(' ', '%20', $query);\n		$query = str_replace(\"\\n\", '', $query);\n		$query = str_replace(\"\\r\", '', $query);\n\n		// Extraction of parameter variables\n		if(!empty($params)) extract($params);\n		if($query != \"\") eval(\"\\$query = \\\"$query\\\";\");\n\n		if(!empty($filters) && is_array($filters))\n		{\n			foreach($filters as $name => $value){\n				if(empty($value)){\n					$query .= \"&fq=-$name:*\";\n				}else{\n					if(!is_array($value))\n					{\n						if(strpos($value,'[') >= 0)\n						{\n							$query .= \"&fq=$name:$value\";\n						}\n						else\n						{\n							$query .= \"&fq=$name:(\\\"\".urlencode($value).\"\\\")\";\n						}\n					}\n					else\n					{\n						foreach($value as $k=>$v)\n						{\n							$value[$k] = urlencode($v);\n						}\n						$vv = implode('\" OR \"', $value);\n						$query .= \"&fq=$name:(\\\"\" . $vv . \"\\\")\";\n					}\n				}\n			}\n		}\n\n		$start = ($page_num - 1) * $page_size;\n		\n		$solr_search_url = $this->_solr_search_url($type);\n		$query = trim($query);\n		// 开启hl之后user_site_suggest_user导致首页速度下降8妙\n		$hl = '';\n		if($hightlight)\n		{\n			if($type==\"product\") $hl = \"&hl=true&hl.fl=*&hl.simple.pre=<strong class='hl'>&hl.simple.post=</strong>&hl.fragsize=300\";\n		}\n		$sr = '';\n		if($sort)\n		{\n			$sr = \"&sort={$sort}\";\n		}\n		$score = strpos($query_name, 'feed') !== false ? 'creation_time' : 'score';\n//		if($query_name == 'user_site_suggest_user' && strpos($query_name, '&') == 0) $query = '*' . $query;\n		$data = \"q={$query}&version=2.2{$sort}&start={$start}&rows={$page_size}&indent=on&fl=id,{$score}{$hl}&qt={$parser}&wt=json\" . ($this->debug ? '&debugQuery=on' : '');\n		\n		$data = preg_replace('/:\\^/i', ':0^', $data);\n		$data = preg_replace('/:\\%/i', ':0%', $data);\n		$data = preg_replace('/:\\&/i', ':0&', $data);\n\n		$this->history[] = $solr_search_url . \"?\" . $data;\n		\n		$result = $this->_post_to_solr($solr_search_url, $data, array());\n//		_debug($this->history[count($this->history) - 1]);\n//		if($type == 'user') _fire_info($this->history[count($this->history) - 1]);\n		return json_decode($result, FALSE);\n	}\n	\n	public function get_last_query(){\n		return htmlspecialchars($this->history[count($this->history) - 1]);\n	}\n	\n	public function find_solr_query($filters, $page_number){\n		return $this->solr_query_dao->find_by_keyword($filters, $page_number);\n	}\n	\n	public function load_all_solr_query(){\n		return $this->solr_query_dao->load_all();\n	}\n	\n	public function load($id)\n	{\n		return $this->solr_query_dao->load($id);\n	}\n	\n	public function remove($id)\n	{\n		return $this->solr_query_dao->remove($id);\n	}\n	\n	public function save_solr_query($query){\n		if(!isset($query->id))\n		{\n			$version = $this->solr_query_dao->find_one_version_by_name_type_parser($query->name, $query->type, $query->parser);\n			if(isset($version->version))\n			{\n				$query->version = $version->version + 1;\n			}\n			else\n			{\n				$query->version = 1;\n			}\n		}\n		return $this->solr_query_dao->save($query);\n	}\n	\n	public function get_errors()\n	{\n		return $this->errors;\n	}\n	\n	public function reset_errors()\n	{\n		$this->errors = array();\n	}\n	\n	public function get_history()\n	{\n		return $this->history;\n	}\n	\n	public function reset_history()\n	{\n		$this->history = array();\n	}\n	\n	public function commit() {\n		$all_success = true;\n		foreach ($this->buffers as $type => $content){\n			$content = \"<add>\\n\" . $content . \"</add>\\n\";\nif ($this->debug_commit) flush_echo(\"============================== Content ============================== <br/><br/><br/><br/><br/><br/>$content<br/><br/><br/><br/><br/>\\n\");\n			$url = $this->_solr_update_url($type);\n			$response = $this->_post_to_solr($url, $this->apachesolr_strip_ctl_chars(utf8_encode($content)));\n			\nif ($this->debug_commit) flush_echo(\"============================== RESPONSE ============================== <br/><br/><br/><br/><br/><br/>\" . htmlspecialchars($response) . \"<br/><br/><br/><br/><br/>\\n\");\n			\n			$success = preg_match('/<int name=\"status\">0<\\/int>/', $response);\n			if(!$success) {\n				$this->errors[] = $response;\n				$all_success = false;\n			}\n//			unset($this->buffers[$type]);\n			$this->buffers[$type] = NULL; // Free up the memory faster, this is not a definative correct solution, but unset seems gives memory leak still\n			$response  = $this->_post_to_solr($url, \"<commit />\");\n//			$response .= $this->_post_to_solr($url, '<optimize />'); // Comment out, this is really slow. And should only do it in cron job everyday.\nif ($this->debug_commit) flush_echo(\"===RESULT==<br/>\\n$response<br/>\\n\");\n		}\n		$this->buffers = array(); // Enforce the empty of the buffers, in effort to rule out memory leak as a full memory profiling would be too time consuming.\n		return $all_success;\n	}\n	\n	/**\n	 * Method to optimize solar data\n	 * @return boolean\n	 *\n	 * Author：Jimmy Zhao\n	 * Creation Time：2011-9-27\n	 */\n	public function optimize(){\n		$types = array('product', 'user', 'feed', 'message', 'category', 'group', 'event', 'ad');\n		foreach ($types as $type){\n			$url = $this->_solr_update_url($type);\n			flush_echo('optimizing ' . $type . '<br />');\n			$this->_post_to_solr($url, '<optimize />'); // Comment out, this is really slow. And should only do it in cron job everyday.\n		}\n		return TRUE;\n	}\n	\n	public function set_debug($is_debug){\n		$this->debug = $is_debug;\n	}\n	\n	/**\n	 * Method to set debug commit\n	 *\n	 * @param boolean $is_debug_commit\n	 *\n	 * @author jimmy (2012-10-29)\n	 */\n	public function set_debug_commit($is_debug_commit){\n		$this->debug_commit = $is_debug_commit;\n	}\n	\n	/**\n	 * Method to set migrate \n	 *\n	 * @param boolean $is_migrate\n	 *\n	 * @author jimmy (2012-11-1)\n	 */\n	public function set_migrate($is_migrate){\n		// TODO: check if is migrating solr, change the base url\n		if ($is_migrate) {\n			$this->CI->config->load('solr', TRUE);\n			$this->base_url = $this->CI->config->item('migrate_url', 'solr');\n		}\n	}\n	\n	private function _process_category($product){\n		$categories = $this->category_dao->find_category_route($product->category_id);\n		$ids = array();\n		$strs = array();\n		if($categories){\n			foreach($categories as $key => $category){\n				if(!$category) continue;\n				$ids[] = $key;\n				$strs[] = $category->name;\n			}\n			$product->category_ids = $ids;\n			$product->categories = $strs;\n			$product->real_categories = $strs;\n		}\n		return $product;\n	}\n	\n	private function _user_process_category($user){\n		$buy_category = array();\n		if(!empty($user->buy_category) && $user->buy_category['num_rows'] > 0)\n		{\n			foreach($user->buy_category['result'] as $k=>$val)\n			{\n				$buy_category[] = $val->name;\n				$buy_category_id[] = $val->id;\n				$buy_categories = $this->category_dao->find_category_route($val->id);\n				$buy_ids = array();\n				$buy_strs = array();\n				if($buy_categories){\n					foreach($buy_categories as $key => $category){\n						if(!$category) continue;\n						$buy_ids[] = $key;\n						$buy_strs[] = $category->name;\n					}\n				}\n			}\n			$user->buy_category_id = $buy_category_id;\n			$user->buy_categories = $buy_strs;\n			$user->buy_category_ids = $buy_ids;\n			$user->real_buy_categories = $buy_strs;\n		}\n		$user->buy_category = $buy_category;\n		\n		$sell_category = array();\n		if(!empty($user->sell_category) && $user->sell_category['num_rows'] > 0)\n		{\n			foreach($user->sell_category['result'] as $k=>$val)\n			{\n				$sell_category[] = $val->name;\n				$sell_category_id[] = $val->id;\n				$sell_categories = $this->category_dao->find_category_route($val->id);\n				$sell_ids = array();\n				$sell_strs = array();\n				if($sell_categories){\n					foreach($sell_categories as $key => $category){\n						if(!$category) continue;\n						$sell_ids[] = $key;\n						$sell_strs[] = $category->name;\n					}\n				}\n			}\n			$user->sell_category_id = $sell_category_id;\n			$user->sell_categories = $sell_strs;\n			$user->sell_category_ids = $sell_ids;\n			$user->real_sell_categories = $sell_strs;\n		}\n		$user->sell_category = $sell_category;\n		\n		return $user;\n	}\n	\n	private function _process_specifications($product){\n		if($product->specifications && $product->specifications !== 'null' && $product->specifications !== 'NULL')\n		{\n			// check and process specifications\n			if ( ! is_array($product->specifications)) {\n				$this->CI->rest_product_dao->process_specifications($product);\n			}\n			\n			$specs = $product->specifications;\n			unset($product->specifications);\n			foreach($specs as $key => $value){\n				if($value[0])\n				{\n					$product->{strtolower($value[0] . '_t')} = $value[1];\n				}\n			}\n		}\n		return $product;\n	}\n	\n	private function _solr_update_url($type){\n		return $this->base_url . $type . \"/update\";\n	}\n	\n	private function _solr_search_url($type){\n		return $this->base_url . $type . \"/select/\";\n	}\n	\n	private function _check_auto_commit(){\n		$this->counter ++;\n//flush_echo(\"Checking auto commit {$this->counter} against {$this->auto_commit_limit}<br/>\\n\");\n		\n		if($this->counter > $this->auto_commit_limit){\nflush_echo(\"Auto committing...<br/>\\n\");\n			$this->counter = 0;\n			return $this->commit();\n		}\n		return TRUE;\n	}\n	\n	private function _index($type, $obj)\n	{\n		$xml = $this->_get_xml($obj);\n		if(!array_key_exists($type, $this->buffers)){\n			$this->buffers[$type] = '';\n		}\n		$this->buffers[$type] = $this->buffers[$type] . $xml;\n		$this->_check_auto_commit();\n	}\n	\n	public function delete($type, $id){\n		if(!array_key_exists($type, $this->buffers)){\n			$this->buffers[$type] = '';\n		}\n		$this->buffers[$type] = $this->buffers[$type] . \"<delete><id>$id</id></delete>\";\n		$this->_check_auto_commit();\n	}\n	\n	private function _get_xml($obj){\n		$xml = \"<doc>\\n\";\n		foreach($obj as $field => $value){\n			// Converts all datetime to UTC and solr accepted format first.\n			if($value instanceof DateTime){\n				$date = new DateTime('@' . $value->getTimestamp());\n				$value = $date->format('Y-m-d\\TH:i:s\\Z');\n			}\n			\n			// If the\n			if(is_array($value)){\n				foreach($value as $key => $item){\n					if($item !== null && $item !== \"\"){\n						if(is_numeric($item) && is_string($key)){\n							// FIX: Error 400 Undeclared general entity \"deg/ge/le...\" : htmlspecialchars($field)\n							$xml .= \"<field name=\\\"\" . htmlspecialchars($field) . \"\\\" boost=\\\"$item\\\">\" . htmlspecialchars($key) . \"</field>\\n\";\n						}else {\n							//FIXME: CHECK THIS: should any object be indexed?\n							if(!is_object($item)){\n//								echo 'sdf===';\n//								_debug($field, false);\n//								_debug($item, false);\n								$xml .= \"<field name=\\\"\" . htmlspecialchars($field) . \"\\\">\" . htmlspecialchars($item) . \"</field>\\n\";\n							}\n						}\n					}\n				}\n			}else {\n				//FIXME: CHECK THIS: should any object be indexed?\n				if(!is_object($value) && $value !== null && $value !== \"\") $xml .= \"<field name=\\\"\" . htmlspecialchars($field) . \"\\\">\" . htmlspecialchars($value) . \"</field>\\n\";\n			}\n		}\n		$xml .= \"</doc>\\n\";\n		return $xml;\n	}\n	\n	public function _start_solr(){\n		// THIS FUNCTION IS SUSPENDED FOR THE RISK OF STARTING TOO MANY JAVA PROCESSES.\n		return;\n		if($this->_is_windows()){\n			pclose(popen('cd solr&java -jar start.jar > ../logs/solr.log 2>&1', 'r'));\n		}else {\n			$dir = dirname($_SERVER['SCRIPT_FILENAME']);\n			pclose(popen('cd ' . $dir . '/solr;java -jar start.jar > ' . $dir . '/logs/solr.log 2>&1 &', 'r'));\n		}\n	}\n	\n	private function _is_windows(){\n		return in_array(PHP_OS, array('WIN32', 'WINNT', 'Windows'));\n	}\n	\n	private function _post_to_solr($url, $data, $header = array(\"Content-type:text/xml; charset=utf-8\")) {\n		$repeat = FALSE;\n//flush_echo(\"Posting to $url, data lenghth : \" . strlen($data), '<br/>\\n');\n		do{\n			\n			$ch = curl_init();\n\n			curl_setopt($ch, CURLOPT_URL, $url);\n			curl_setopt($ch, CURLOPT_HTTPHEADER, $header);\n			curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);\n			curl_setopt($ch, CURLOPT_POST, 1);\n			curl_setopt($ch, CURLOPT_POSTFIELDS, $data);\n			curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);\n			curl_setopt($ch, CURLINFO_HEADER_OUT, 1);\n		\n			$result = curl_exec($ch);\n			if(!$repeat && curl_errno($ch) == 7){ // Cannot connect to host, might because of solr not started, try start solr, only try once\n				$this->error[] = \"Cannot connect to host, might because of solr not started, try start solr.\";\n				$repeat = TRUE;\n				$this->_start_solr();\n				sleep(10);\n			}else {\n				$repeat = FALSE;\n			}\n		}while($repeat);\n		\n		if (curl_errno($ch)) {\n			echo curl_errno($ch);\n			echo curl_error($ch);\n			return curl_error($ch);\n		}else {\n			return $result;\n		}\n	\n	}\n	\n	private function _getCombineArray($obj){\n//		if(!is_array($obj) && ! $obj instanceof Object) _debug($obj, false);\n		if(empty($obj))\n		{\n			return '';\n		}\n		else\n		{\n			$text = array();\n			foreach($obj as $field => $value){\n				if($value instanceof DateTime){\n					$date = new DateTime('@' . $value->getTimestamp());\n					$value = $date->format('Y-m-d\\TH:i:s\\Z');\n				}\n				if(is_array($value) && !empty($value)){\n					$text = array_merge($text, $this->_getCombineArray($value));\n				}else {\n					if(!empty($value)) $text[] = $value;\n				}\n			}\n			return $text;\n		}\n	}\n	\n	private function apachesolr_strip_ctl_chars($text) {\n  // See:  http://w3.org/International/questions/qa-forms-utf-8.html\n  // Printable utf-8 does not include any of these chars below x7F\n  		return preg_replace('@[\\x00-\\x08\\x0B\\x0C\\x0E-\\x1F]@', ' ', $text);\n	}\n\n	/**\n	 * Method to debug index to solr info\n	 *\n	 * @param string $type\n	 * @param int $id\n	 * @param string $action\n	 *\n	 * @author jimmy (2012-10-23)\n	 */\n	public function index_debug($type, $id, $action = 'index') {\n		if ($action == 'index') {\n			$func = 'index_' . $type;\n			$this->$func($id);\n		} elseif ($action == 'delete') {\n			$this->delete($type, $id);\n		}\n		echo 'counter: ' . $this->counter;\n		echo br(2);\n		echo 'buffers: <pre>';\n		print_r($this->buffers);\n		echo '</pre>';\n		$this->set_debug_commit(TRUE);\n		$this->commit();\n	}\n}\n",
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+					"file_size": 67145,
+					"file_write_time": 1358996589000000,
+					"settings":
+					{
+						"buffer_size": 64879,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+					"settings":
+					{
+						"buffer_size": 16149,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"git:",
+						"Git: Log All"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"git: ",
+						"Git: Commit history"
+					],
+					[
+						"package control: In",
+						"Package Control: Install Package"
+					],
+					[
+						"paca",
+						"Package Control: Install Package"
+					],
+					[
+						"github",
+						"Github: Blame"
+					],
+					[
+						"pace",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings - User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"set sy",
+						"Set Syntax: PHP"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
+				"/home/jimmy/www/gentilis/app/views/user2/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/user2/jquery-html5-placeholder-fix.js",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/qq/API/comm/inc.php",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/config.php",
+				"/home/jimmy/www/gentilis/app/libraries/Template.php",
+				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
+				"/home/jimmy/www/gentilis/app/config/database.php",
+				"/home/jimmy/www/itomg/placeHolder/placeholder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/jimmy/www/itomg/.buildpath",
+				"/home/jimmy/www/itomg/index.php",
+				"/home/jimmy/www/gentilis/.htaccess",
+				"/home/jimmy/www/gentilis/.gitignore",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/chinese/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/js/reviewsaddviewmodel.js",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_review_manager.php",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-rate.js",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358924169.english.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_connections.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/js/connections.js",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/connections.php",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/tags.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_dao.php",
+				"/home/jimmy/www/gentilis/sql/schema/delta/162-163.sql",
+				"/home/jimmy/www/gentilis/sql/schema/delta/163-164.sql",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_review_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_dashboard_manager.php",
+				"/home/jimmy/www/gentilis/sql/data/populate/fix1125_colleague_to_coworker.sql",
+				"/home/jimmy/www/gentilis/app/modules/api/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_privacy.php",
+				"/home/jimmy/www/gentilis/app/modules/user/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user/views/connections/t_connections_email_import.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/jtmpl/jtmpl_vm_reviewsadd.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/footer/jtmpl/jtmpl_vm_privacy_policy.html",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-tags.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/register/js/registerimportandinvite.js",
+				"/home/jimmy/www/gentilis/app/modules/api/language/chinese/common_lang.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/app/libraries/openinviter/openinviter.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_register.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/active_user_success.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358754955.english.js",
+				"/home/jimmy/www/gentilis/app/config/user_agents.php",
+				"/home/jimmy/www/gentilis/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/search/js/searchratingsviewmodel.js",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/auto_email_monthly_login_reminder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/*.js",
+					"/home/jimmy/www/gentilis/**.js",
+					"/home/jimmy/www/gentilis/**.php",
+					"/home/jimmy/www/gentilis"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"');\n",
+					"}\n",
+					"input",
+					"stylesheet",
 					"s_home4_dialog_signup",
 					"s_home4_dialog_signup_tmpl",
 					"fix",
@@ -395,275 +970,144 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/jimmy/www/gentilis/app/views/user2/index.php",
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 							"settings":
 							{
-								"buffer_size": 3613,
+								"buffer_size": 64879,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2875,
-										2875
+										5041,
+										5025
 									]
 								],
 								"settings":
 								{
-									"origin_encoding": "ASCII",
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
-								"translation.x": 33.0,
-								"translation.y": 1046.0,
+								"translation.x": 0.0,
+								"translation.y": 2253.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
 							"settings":
 							{
-								"buffer_size": 2644,
+								"buffer_size": 16149,
 								"regions":
 								{
-									"match":
+								},
+								"selection":
+								[
+									[
+										6266,
+										6266
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
 									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												305,
-												331
-											],
-											[
-												589,
-												615
-											],
-											[
-												893,
-												919
-											],
-											[
-												1177,
-												1203
-											],
-											[
-												1476,
-												1497
-											],
-											[
-												1760,
-												1781
-											],
-											[
-												1918,
-												1939
-											],
-											[
-												2153,
-												2174
-											],
-											[
-												2334,
-												2355
-											],
-											[
-												2528,
-												2549
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
 									[
-										1313,
-										1313
-									]
-								],
-								"settings":
-								{
-									"detect_indentation": false,
-									"output_tag": 5,
-									"result_base_dir": "",
-									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 731.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
-							"settings":
-							{
-								"buffer_size": 6165,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										110
+									],
+									"gjslint_options":
 									[
-										35,
-										35
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-							"settings":
-							{
-								"buffer_size": 1376,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										822,
-										822
-									]
-								],
-								"settings":
-								{
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 204.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-							"settings":
-							{
-								"buffer_size": 10179,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"pep8": true,
+									"pep8_ignore":
 									[
-										4045,
-										4045
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2193.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
-							"settings":
-							{
-								"buffer_size": 3534,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
 									[
-										2796,
-										2796
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 714.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
-							"settings":
-							{
-								"buffer_size": 5657,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3857,
-										3857
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2091.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
-							"settings":
-							{
-								"buffer_size": 7419,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2882.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -702,7 +1146,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,0,0,0,0,2880,900",
+			"position": "0,1,0,0,0,1801,4,2441,484,2880,900",
 			"replace":
 			{
 				"height": 64.0
@@ -713,6 +1157,26 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"cron.hp",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"customsdaobase",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"rest_searchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
 					[
 						"root",
 						"gentilis/app/modules/user2/controllers/root.php"
@@ -923,6 +1387,752 @@
 			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"window_id": 1,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"start",
+						"start_id"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"rest_conne",
+						"rest_connection_tag_manager"
+					],
+					[
+						"ex",
+						"exclude_circles"
+					],
+					[
+						"TAG",
+						"TAG_COWORKER"
+					],
+					[
+						"pla",
+						"placeholder_polyfill"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+					"settings":
+					{
+						"buffer_size": 64554,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"git:",
+						"Git: Log All"
+					],
+					[
+						"package control",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"git: ",
+						"Git: Commit history"
+					],
+					[
+						"package control: In",
+						"Package Control: Install Package"
+					],
+					[
+						"paca",
+						"Package Control: Install Package"
+					],
+					[
+						"github",
+						"Github: Blame"
+					],
+					[
+						"pace",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings - User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"set sy",
+						"Set Syntax: PHP"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/build.xml",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/jimmy/www/gentilis/app/modules/user2/controllers/root.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
+				"/home/jimmy/www/gentilis/app/views/user2/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/user2/jquery-html5-placeholder-fix.js",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/qq/API/comm/inc.php",
+				"/home/jimmy/www/gentilis/app/libraries/oauth/config.php",
+				"/home/jimmy/www/gentilis/app/libraries/Template.php",
+				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
+				"/home/jimmy/www/gentilis/app/config/database.php",
+				"/home/jimmy/www/itomg/placeHolder/placeholder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/jimmy/www/itomg/.buildpath",
+				"/home/jimmy/www/itomg/index.php",
+				"/home/jimmy/www/gentilis/.htaccess",
+				"/home/jimmy/www/gentilis/.gitignore",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/language/chinese/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/js/reviewsaddviewmodel.js",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_review_manager.php",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-rate.js",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358924169.english.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_connections.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/js/connections.js",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/connections.php",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/tags.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_user_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_dao.php",
+				"/home/jimmy/www/gentilis/sql/schema/delta/162-163.sql",
+				"/home/jimmy/www/gentilis/sql/schema/delta/163-164.sql",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_review_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_dashboard_manager.php",
+				"/home/jimmy/www/gentilis/sql/data/populate/fix1125_colleague_to_coworker.sql",
+				"/home/jimmy/www/gentilis/app/modules/api/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_privacy.php",
+				"/home/jimmy/www/gentilis/app/modules/user/language/english/common_lang.php",
+				"/home/jimmy/www/gentilis/app/modules/user/views/connections/t_connections_email_import.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/reviews/jtmpl/jtmpl_vm_reviewsadd.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/footer/jtmpl/jtmpl_vm_privacy_policy.html",
+				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-tags.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/register/js/registerimportandinvite.js",
+				"/home/jimmy/www/gentilis/app/modules/api/language/chinese/common_lang.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Connection_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
+				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/app/libraries/openinviter/openinviter.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/cp/t_cp_register.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/active_user_success.php",
+				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.css",
+				"/home/jimmy/www/gentilis/js/user2/min/app.1358754955.english.js",
+				"/home/jimmy/www/gentilis/app/config/user_agents.php",
+				"/home/jimmy/www/gentilis/index.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/search/js/searchratingsviewmodel.js",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/auto_email_monthly_login_reminder.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/*.js",
+					"/home/jimmy/www/gentilis/**.js",
+					"/home/jimmy/www/gentilis/**.php",
+					"/home/jimmy/www/gentilis"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"}\n",
+					"input",
+					"stylesheet",
+					"s_home4_dialog_signup",
+					"s_home4_dialog_signup_tmpl",
+					"fix",
+					">\n",
+					"join",
+					"holder-fix",
+					"placeholder-fix",
+					"        \n",
+					"'coworkers'",
+					"\"coworkers\"",
+					"coworkers",
+					"lang(\"coworkers\")",
+					"you_can_tag_your_connection_as_a_coworker_by_going_to_your_profile_tab_and_clicking_on_connections._you_can_tag_any_of_your_connections_by_clicking_edit",
+					"Tag your connections as ",
+					"\"coworkers\"",
+					"coworkers",
+					"privilege",
+					"save_review",
+					"save_rating_privilege",
+					"coworkers",
+					"load_count_connections",
+					"\n\ncountConnections",
+					"jtmpl_vm_connections",
+					"jtmpl_profile_connections_helper",
+					"coworkers",
+					"abcdefghijklmnopqrstuvwxyz",
+					"\"\n",
+					"abcdefghijklmnopqrstuvwxyz",
+					"a",
+					"colleague",
+					"common_lang",
+					"'colleague",
+					"colleague",
+					"colleague\n\n\ncolleague\n\n\ncolleague\ncolleague",
+					"colleague\n\n\ncolleague\ncolleague",
+					"colleague",
+					"colleagues",
+					"colleague",
+					"find_contacts_by_keyword",
+					"/circles",
+					"circles_get",
+					"find_circles",
+					"coworkers",
+					"was_tagged_as_colleague",
+					"coworkers",
+					"TAG_COWORKER",
+					"Rest_connection_tag_dao::TAG_COWORKER",
+					"TAG_COWORKER",
+					"colleague",
+					"			\n",
+					"'');",
+					"aaaaaaaaaaaa",
+					"('-------');\n",
+					"	\n",
+					"_gaq.push",
+					"_gaq.push(['_trackEvent', 'register', 'register page']);",
+					"tail_js()",
+					"placeholderFix",
+					"\n		",
+					")\n",
+					"<?",
+					"<?php\n\n/*\n *---------------------------------------------------------------\n * APPLICATION ENVIRONMENT\n *---------------------------------------------------------------\n *\n * You can load different configurations depending on your\n * current environment. Setting the environment also influences\n * things like logging and error reporting.\n *\n * This can be set to anything, but default usage is:\n *\n *     development\n *     testing\n *     production\n *\n * NOTE: If you change these, also change the error_reporting() code below\n *\n */\n	define('ENVIRONMENT', 'development');\n/*\n *---------------------------------------------------------------\n * ERROR REPORTING\n *---------------------------------------------------------------\n *\n * Different environments will require different levels of error reporting.\n * By default development will show errors but testing and live will hide them.\n */\n\nif (defined('ENVIRONMENT'))\n{\n	switch (ENVIRONMENT)\n	{\n		case 'development':\n			error_reporting(E_ALL);\n		break;\n	\n		case 'testing':\n		case 'production':\n			error_reporting(0);\n		break;\n\n		default:\n			exit('The application environment is not set correctly.');\n	}\n}\n\n/*\n *---------------------------------------------------------------\n * SYSTEM FOLDER NAME\n *---------------------------------------------------------------\n *\n * This variable must contain the name of your \"system\" folder.\n * Include the path if the folder is not in the same  directory\n * as this file.\n *\n */\n	$system_path = 'ci';\n\n/*\n *---------------------------------------------------------------\n * APPLICATION FOLDER NAME\n *---------------------------------------------------------------\n *\n * If you want this front controller to use a different \"application\"\n * folder then the default one you can set its name here. The folder\n * can also be renamed or relocated anywhere on your server.  If\n * you do, use a full server path. For more info please see the user guide:\n * http://codeigniter.com/user_guide/general/managing_apps.html\n *\n * NO TRAILING SLASH!\n *\n */\n	$application_folder = 'app';\n\n/*\n * --------------------------------------------------------------------\n * DEFAULT CONTROLLER\n * --------------------------------------------------------------------\n *\n * Normally you will set your default controller in the routes.php file.\n * You can, however, force a custom routing by hard-coding a\n * specific controller class/function here.  For most applications, you\n * WILL NOT set your routing here, but it's an option for those\n * special instances where you might want to override the standard\n * routing in a specific front controller that shares a common CI installation.\n *\n * IMPORTANT:  If you set the routing here, NO OTHER controller will be\n * callable. In essence, this preference limits your application to ONE\n * specific controller.  Leave the function name blank if you need\n * to call functions dynamically via the URI.\n *\n * Un-comment the $routing array below to use this feature\n *\n */\n	// The directory name, relative to the \"controllers\" folder.  Leave blank\n	// if your controller is not in a sub-folder within the \"controllers\" folder\n	// $routing['directory'] = '';\n\n	// The controller class file name.  Example:  Mycontroller\n	// $routing['controller'] = '';\n\n	// The controller function you wish to be called.\n	// $routing['function']	= '';\n\n\n/*\n * -------------------------------------------------------------------\n *  CUSTOM CONFIG VALUES\n * -------------------------------------------------------------------\n *\n * The $assign_to_config array below will be passed dynamically to the\n * config class when initialized. This allows you to set custom config\n * items or override any default config values found in the config.php file.\n * This can be handy as it permits you to share one application between\n * multiple front controller files, with each file containing different\n * config values.\n *\n * Un-comment the $assign_to_config array below to use this feature\n *\n */\n	// $assign_to_config['name_of_config_item'] = 'value of config item';\n\n\n\n// --------------------------------------------------------------------\n// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE\n// --------------------------------------------------------------------\n\n/*\n * ---------------------------------------------------------------\n *  Resolve the system path for increased reliability\n * ---------------------------------------------------------------\n */\n\n	// Set the current directory correctly for CLI requests\n	if (defined('STDIN'))\n	{\n		chdir(dirname(__FILE__));\n	}\n\n	if (realpath($system_path) !== FALSE)\n	{\n		$system_path = realpath($system_path).'/';\n	}\n\n	// ensure there's a trailing slash\n	$system_path = rtrim($system_path, '/').'/';\n\n	// Is the system path correct?\n	if ( ! is_dir($system_path))\n	{\n		exit(\"Your system folder path does not appear to be set correctly. Please open the following file and correct this: \".pathinfo(__FILE__, PATHINFO_BASENAME));\n	}\n\n/*\n * -------------------------------------------------------------------\n *  Now that we know the path, set the main path constants\n * -------------------------------------------------------------------\n */\n	// The name of THIS file\n	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));\n\n	// The PHP file extension\n	// this global constant is deprecated.\n	define('EXT', '.php');\n\n	// Path to the system folder\n	define('BASEPATH', str_replace(\"\\\\\", \"/\", $system_path));\n\n	// Path to the front controller (this file)\n	define('FCPATH', str_replace(SELF, '', __FILE__));\n\n	// Name of the \"system folder\"\n	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));\n\n\n	// The path to the \"application\" folder\n	if (is_dir($application_folder))\n	{\n		define('APPPATH', $application_folder.'/');\n	}\n	else\n	{\n		if ( ! is_dir(BASEPATH.$application_folder.'/'))\n		{\n			exit(\"Your application folder path does not appear to be set correctly. Please open the following file and correct this: \".SELF);\n		}\n\n		define('APPPATH', BASEPATH.$application_folder.'/');\n	}\n\n/*\n * --------------------------------------------------------------------\n * LOAD THE BOOTSTRAP FILE\n * --------------------------------------------------------------------\n *\n * And away we go...\n *\n */\nrequire_once BASEPATH.'core/CodeIgniter.php';\n\n/* End of file index.php */\n/* Location: ./index.php */",
+					"error",
+					"case"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jimmy/www/gentilis"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+							"settings":
+							{
+								"buffer_size": 64554,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16097,
+										16097
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8199.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,664,230,1304,710,2880,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"restserar",
+						"app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"rest_search_man",
+						"app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"cron.hp",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"customsdaobase",
+						"gentilis/app/libraries/dao/Customs_dao_base.php"
+					],
+					[
+						"rest_searchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"root",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"s_home4_head",
+						"gentilis/app/modules/public/views/html/sections/home4/s_home4_head_js.php"
+					],
+					[
+						"thome4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"root.",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"fix",
+						"gentilis/js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"app.js",
+						"gentilis/app/modules/user2/app/common/js/app.js"
+					],
+					[
+						"init_app",
+						"gentilis/app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"user2index",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"template.php",
+						"gentilis/app/libraries/Template.php"
+					],
+					[
+						"view_he",
+						"gentilis/app/helpers/view_helper.php"
+					],
+					[
+						"user2index.php",
+						"gentilis/app/views/user2/index.php"
+					],
+					[
+						"t_html_home4",
+						"gentilis/app/modules/public/views/html/t_html_home4.php"
+					],
+					[
+						"database",
+						"gentilis/app/config/database.php"
+					],
+					[
+						"common_lang",
+						"gentilis/app/modules/user2/language/chinese/common_lang.php"
+					],
+					[
+						"common_lang.php",
+						"gentilis/app/modules/user2/language/english/common_lang.php"
+					],
+					[
+						"ui_rate",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_rate.html"
+					],
+					[
+						"jtmpl_ui_tags",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_tags.html"
+					],
+					[
+						"rest_connection",
+						"gentilis/app/libraries/rest_dao/Rest_connection_dao.php"
+					],
+					[
+						"rest_user_man",
+						"gentilis/app/libraries/rest_manager/Rest_user_manager.php"
+					],
+					[
+						"user.php",
+						"gentilis/app/modules/api/controllers/user.php"
+					],
+					[
+						"rate",
+						"gentilis/js/user2/app/knockout/ui/ui-rate.js"
+					],
+					[
+						"tags.php",
+						"gentilis/app/modules/api/controllers/tags.php"
+					],
+					[
+						"connections.php",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connections.js",
+						"gentilis/app/modules/user2/app/profile/js/connections.js"
+					],
+					[
+						"jtmpl_profile_connections_helper",
+						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_profile_connections_helper.html"
+					],
+					[
+						"jtmpl_common_al",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html"
+					],
+					[
+						"connections",
+						"gentilis/app/modules/api/controllers/connections.php"
+					],
+					[
+						"connection_mana",
+						"gentilis/app/libraries/manager/Connection_manager.php"
+					],
+					[
+						"rest_connection_ta",
+						"gentilis/app/libraries/rest_manager/Rest_connection_tag_manager.php"
+					],
+					[
+						"rest_connection_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"rest_connection_tag_dao",
+						"gentilis/app/libraries/rest_dao/Rest_connection_tag_dao.php"
+					],
+					[
+						"email_man",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"init_sm",
+						"gentilis/app/modules/user2/app/init/init_sm.js"
+					],
+					[
+						"jtmpl_vm_header",
+						"app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
+					],
+					[
+						"open",
+						"app/libraries/openinviter/openinviter.php"
+					],
+					[
+						"active_user_success.php",
+						"app/modules/public/views/html/active_user_success.php"
+					],
+					[
+						"t_cp_register.php",
+						"app/modules/public/views/html/cp/t_cp_register.php"
+					],
+					[
+						"template",
+						"app/libraries/Template.php"
+					],
+					[
+						"user2/index.php",
+						"app/views/user2/index.php"
+					],
+					[
+						"use",
+						"app/config/user_agents.php"
+					],
+					[
+						"placeholder",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"jquery-html5-placeholder-fix.js",
+						"js/user2/jquery-html5-placeholder-fix.js"
+					],
+					[
+						"initapp",
+						"app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"rest_search",
+						"app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"searchviewmodel",
+						"app/modules/user2/app/search/js/searchratingsviewmodel.js"
+					],
+					[
+						"load_all",
+						"uploads/email_template/template/auto_email_monthly_login_reminder.php"
+					],
+					[
+						"",
+						"/home/jimmy/www/gentilis/index.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],
