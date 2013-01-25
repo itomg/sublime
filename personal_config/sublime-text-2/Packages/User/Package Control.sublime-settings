@@ -1,15 +1,20 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
+		"CoffeeScript",
 		"ConvertToUTF8",
+		"CTags",
 		"DocBlockr",
 		"Git",
 		"Github Tools",
+		"JsFormat",
 		"JsMinifier",
 		"Package Control",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeLinter",
+		"TrailingSpaces",
 		"ZenCoding"
 	]
 }

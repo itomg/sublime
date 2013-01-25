@@ -707,12 +707,40 @@
 				"selected_items":
 				[
 					[
-						"array",
-						"array"
+						"compan",
+						"company_name"
+					],
+					[
+						"last_mon",
+						"last_month_login_frequency"
+					],
+					[
+						"_find",
+						"_find_one_by_query"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"_pr",
+						"_process_specifications"
 					],
 					[
 						"if",
 						"if	if …"
+					],
+					[
+						"false",
+						"FALSE"
+					],
+					[
+						"search",
+						"search_impressions"
+					],
+					[
+						"array",
+						"array"
 					],
 					[
 						"null",
@@ -758,27 +786,79 @@
 					"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 					"settings":
 					{
-						"buffer_size": 66581,
+						"buffer_size": 69080,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "<?php\nclass Cron extends Admin_Controller {\n\n	/**\n	 * Constructor\n	 */\n	function __construct(){\n		self::$init_once = TRUE; // ĺłé­_init_template\n		parent::__construct();\n		$this->load->library(array(\n			'manager/cron_manager',\n			'manager/inquiry_manager',\n			'manager/feed_news_manager'));\n\n		// OPEN CI PROFILER\n// 		$this->output->enable_profiler(TRUE);\n		// OPEN ERROR REPORT\n// 		error_reporting(E_ALL);\n	}\n	\n	/**\n	 * Method to read all feed news by sources\n	 */\n	function feed_news_read(){\n		set_time_limit(0);\n		$this->feed_news_manager->read_all();\n	}\n	\n	/**\n	 * Method to send inquiry all messages\n	 * \n	 * @param $debug\n	 */\n	function send_inquiry($debug = FALSE){\n		set_time_limit(0);\n		$this->inquiry_manager->send_inquiry($debug);\n	}\n	\n	// ------------------------------------------------------------------------\n	\n	/* Match solr and db Start */\n	/**\n	 * Method to match solr and db mulit \n	 *\n	 * @param string $type [user, product, message, ad, category, group, event, feed, feed_news]\n	 * @param string $action [match, preview, re-index]\n	 * @param int $backward\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function match_solr_and_db_mulit($type = 'user', $action = 'match', $backward = 0) {\n		set_time_limit(0);\n		$this->cron_manager->match_solr_and_db_mulit($type, $action, (int)$backward);\n	}\n	\n	/**\n	 * Method to match solr and db\n	 *\n	 * @param string $type [user, product, message, ad, category, group, event, feed, feed_news]\n	 * @param int $id_start\n	 * @param int $id_end\n	 * @param string $action [match, preview, re-index]\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function match_solr_and_db($type = 'user', $id_start, $id_end, $action = 'match') {\n		set_time_limit(0);\n		$this->cron_manager->match_solr_and_db($type, $id_start, $id_end, $action);\n	}\n	\n	/**\n	 * Method to index_one_to_solr\n	 *\n	 * @param string $type\n	 * @param int $id\n	 * @param string $action\n	 *\n	 * @author jimmy (2012-10-22)\n	 */\n	function index_debug($type = 'user', $id, $action = 'index') {\n		$this->load->library('rest_manager/rest_search_manager');\n		$this->rest_search_manager->index_debug($type, $id, $action);\n		echo \"DONE\";\n	}\n	/* Match solr and db End */\n	\n	// ------------------------------------------------------------------------\n	\n	/**\n	 * Method to repair imported product img \n	 * \n	 * @author jimmy Dec 14, 2012\n	 */\n	function repair_imported_product_img() {\n		set_time_limit(0);\n		$this->cron_manager->repair_imported_product_img();\n	}\n	\n	// ------------------------------------------------------------------------\n	\n	/**\n	 * Method to ask nginx to cache catalog \n	 * \n	 * @author jimmy Dec 14, 2012\n	 */\n	function cache_catalog() {\n		set_time_limit(0);\n		$this->cron_manager->cache_catalog();\n	}\n	\n	// ------------------------------------------------------------------------\n}",
-					"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
-					"file_size": 2794,
-					"file_write_time": 1357185626000000,
+					"file": "/home/jimmy/www/gentilis/app/libraries/dao/User_dao.php",
 					"settings":
 					{
-						"buffer_size": 2794,
-						"line_ending": "Unix",
-						"scratch": true
+						"buffer_size": 62827,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_product_dao.php",
+					"settings":
+					{
+						"buffer_size": 36164,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+					"settings":
+					{
+						"buffer_size": 15402,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+					"settings":
+					{
+						"buffer_size": 32058,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/manager/Product_import_manager.php",
+					"settings":
+					{
+						"buffer_size": 46146,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/solr/solr/product/conf/schema.xml",
+					"settings":
+					{
+						"buffer_size": 29964,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/config/score.php",
+					"settings":
+					{
+						"buffer_size": 1364,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/dao/Company_dao.php",
+					"settings":
+					{
+						"buffer_size": 4268,
+						"line_ending": "Windows"
 					}
 				},
 				{
 					"file": "/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
 					"settings":
 					{
-						"buffer_size": 12554,
+						"buffer_size": 12569,
 						"line_ending": "Windows"
 					}
 				}
@@ -786,9 +866,61 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 264.0,
+				"height": 75.0,
 				"selected_items":
 				[
+					[
+						"git:log",
+						"Git: Log Current File"
+					],
+					[
+						"git:st",
+						"Git: Status"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"git:stat",
+						"Git: Status"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"git: lo",
+						"Git: Log Current File"
+					],
+					[
+						"ctags",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"bookmarks",
+						"Bookmarks: Toggle"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"ctags:",
+						"CTags: Show Symbols (all)"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
 					[
 						"setting",
 						"Preferences: Settings - Default"
@@ -800,14 +932,6 @@
 					[
 						"git:diff",
 						"Git: Diff All"
-					],
-					[
-						"git:log",
-						"Git: Log All"
-					],
-					[
-						"git:st",
-						"Git: Status"
 					],
 					[
 						"git:com",
@@ -826,19 +950,11 @@
 						"Git: Commit"
 					],
 					[
-						"git:status",
-						"Git: Status"
-					],
-					[
 						"git:sta",
 						"Git: Status"
 					],
 					[
 						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
 						"Package Control: Install Package"
 					],
 					[
@@ -848,10 +964,6 @@
 					[
 						"package control",
 						"Package Control: Remove Package"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
 					],
 					[
 						"git: ",
@@ -878,10 +990,6 @@
 						"Git: Commit history"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
 						"pref",
 						"Preferences: Settings - User"
 					],
@@ -890,15 +998,11 @@
 						":w - Save"
 					],
 					[
-						"prefe",
-						"Preferences: Settings - User"
-					],
-					[
 						"set sy",
 						"Set Syntax: PHP"
 					]
 				],
-				"width": 449.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -915,22 +1019,34 @@
 			},
 			"file_history":
 			[
+				"/home/jimmy/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Solr_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Product_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Category_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/User_dao.php",
+				"/home/jimmy/www/gentilis/app/config/solr.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/www/gentilis/app/helpers/filter_helper.php",
+				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+				"/home/jimmy/www/gentilis/app/modules/public/controllers/html.php",
+				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jimmy/www/gentilis/min/lib/Minify/HTML.php",
 				"/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
 				"/home/jimmy/www/gentilis/app/libraries/dao/Customs_dao_base.php",
-				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_ad_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_message_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_feed_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/dao/Feed_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_category_dao.php",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Category_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_product_dao.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/home/jimmy/www/gentilis/app/libraries/dao/Message_dao.php",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
 				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
 				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
 				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
 				"/home/jimmy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
@@ -940,7 +1056,6 @@
 				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home4.php",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
 				"/home/jimmy/www/gentilis/app/views/user2/index.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
 				"/home/jimmy/www/gentilis/app/modules/public/views/html/sections/home4/s_home4_dialog_signup.php",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/jquery.placeholder.min.js",
 				"/home/jimmy/www/gentilis/js/jquery.placeholder_polyfill/placeholder_polyfill.jquery.js",
@@ -992,12 +1107,10 @@
 				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_alert.html",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/register/js/registerimportandinvite.js",
 				"/home/jimmy/www/gentilis/app/modules/api/language/chinese/common_lang.php",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/jimmy/www/gentilis/app/libraries/manager/Connection_manager.php",
 				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_sm.js",
 				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
-				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.jquery.js",
 				"/home/jimmy/www/gentilis/js/html5/placeholder-polyfill/placeholder_polyfill.css",
 				"/home/jimmy/www/gentilis/app/libraries/openinviter/openinviter.php",
@@ -1017,9 +1130,11 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/*.php",
 					"/home/jimmy/www/gentilis/",
 					"/home/jimmy/www/gentilis/,*.php",
 					"/home/jimmy/www/gentilis/",
@@ -1036,6 +1151,33 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"product_score",
+					"last_month_login_frequency\n\nlast_month_login_frequency\n",
+					"concat",
+					"rest_user_dao",
+					"\n			",
+					"-",
+					"this->CI->rest_product_dao",
+					"this->rest_product_dao",
+					" \n",
+					"this->category_dao",
+					"=",
+					"$this->user_dao",
+					"\narray('->ssss' => '->ssss'),",
+					"from_product_specifications",
+					"specifications",
+					"_post_to_solr\n_post_to_solr\n_post_to_solr\npost_t",
+					"_post_to_solr\n_post_to_solr\n_post_to_solr\n_post_t",
+					"_post_to_solr\n_post_to_solr\n_post_to_solr\n_post_to_sol",
+					"_post_to_solr\n_post_to_solr\n_post_to_solr\n_post_to_solr",
+					"_post_to_solr\n_post_to_solr\n_post_to_solr\n",
+					"{\n",
+					"=",
+					"\n		",
+					";\n",
+					"curl_close",
+					"=",
+					"noindex",
 					"<?",
 					"index_all_ads",
 					"_process_specifications",
@@ -1139,7 +1281,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 9,
 					"sheets":
 					[
 						{
@@ -1147,15 +1289,36 @@
 							"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 							"settings":
 							{
-								"buffer_size": 66581,
+								"buffer_size": 69080,
 								"regions":
 								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												6035,
+												6035
+											],
+											[
+												20200,
+												20200
+											],
+											[
+												62957,
+												62957
+											]
+										],
+										"scope": "bookmarks"
+									}
 								},
 								"selection":
 								[
 									[
-										4194,
-										4194
+										424,
+										424
 									]
 								],
 								"settings":
@@ -1253,142 +1416,25 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1556.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+							"file": "/home/jimmy/www/gentilis/app/libraries/dao/User_dao.php",
 							"settings":
 							{
-								"buffer_size": 2794,
+								"buffer_size": 62827,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1058,
-										1058
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"in_converting": true,
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"origin_encoding": "ISO-8859-2",
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 782.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
-							"settings":
-							{
-								"buffer_size": 12554,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2321,
-										2321
+										62200,
+										62200
 									]
 								],
 								"settings":
@@ -1486,7 +1532,948 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 428.0,
+								"translation.y": 27950.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_product_dao.php",
+							"settings":
+							{
+								"buffer_size": 36164,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												1433,
+												1433
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										30178,
+										30178
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 14035.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+							"settings":
+							{
+								"buffer_size": 15402,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										398,
+										398
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+							"settings":
+							{
+								"buffer_size": 32058,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32010,
+										32010
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 19467.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/jimmy/www/gentilis/app/libraries/manager/Product_import_manager.php",
+							"settings":
+							{
+								"buffer_size": 46146,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7301,
+										7301
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2866.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/jimmy/www/gentilis/solr/solr/product/conf/schema.xml",
+							"settings":
+							{
+								"buffer_size": 29964,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8885,
+										8885
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6275.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/jimmy/www/gentilis/app/config/score.php",
+							"settings":
+							{
+								"buffer_size": 1364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1252,
+										1252
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 306.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/jimmy/www/gentilis/app/libraries/dao/Company_dao.php",
+							"settings":
+							{
+								"buffer_size": 4268,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2100,
+										2100
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 716.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+							"settings":
+							{
+								"buffer_size": 12569,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1033,
+										1033
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1541,6 +2528,66 @@
 				"selected_items":
 				[
 					[
+						"cron_man",
+						"gentilis/app/libraries/manager/Cron_manager.php"
+					],
+					[
+						"rest_user_da",
+						"gentilis/app/libraries/rest_dao/Rest_user_dao.php"
+					],
+					[
+						"user_dao",
+						"gentilis/app/libraries/dao/User_dao.php"
+					],
+					[
+						"userdao",
+						"gentilis/app/libraries/dao/User_dao.php"
+					],
+					[
+						"categor",
+						"gentilis/app/libraries/dao/Category_dao.php"
+					],
+					[
+						"solr.php",
+						"gentilis/app/config/solr.php"
+					],
+					[
+						"score",
+						"gentilis/app/config/score.php"
+					],
+					[
+						"daobase",
+						"gentilis/app/libraries/dao/Dao_base.php"
+					],
+					[
+						"producimport",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
+					],
+					[
+						"common_helper",
+						"gentilis/app/helpers/common_helper.php"
+					],
+					[
+						"restproductdao",
+						"gentilis/app/libraries/rest_dao/Rest_product_dao.php"
+					],
+					[
+						"initapp",
+						"gentilis/app/modules/user2/app/init/init_app.js"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"restsearchman",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"html.php",
+						"gentilis/app/modules/public/controllers/html.php"
+					],
+					[
 						"cronmanage",
 						"gentilis/app/libraries/manager/Cron_manager.php"
 					],
@@ -1593,20 +2640,12 @@
 						"gentilis/app/libraries/dao/Customs_dao_base.php"
 					],
 					[
-						"daobase",
-						"gentilis/app/libraries/dao/Dao_base.php"
-					],
-					[
 						"messagedao",
 						"gentilis/app/libraries/dao/Message_dao.php"
 					],
 					[
 						"cron.hp",
 						"gentilis/app/modules/admin/controllers/cron.php"
-					],
-					[
-						"search.php",
-						"gentilis/app/modules/admin/controllers/search.php"
 					],
 					[
 						"customsdaobase",
@@ -1789,10 +2828,6 @@
 						"js/user2/jquery-html5-placeholder-fix.js"
 					],
 					[
-						"initapp",
-						"app/modules/user2/app/init/init_app.js"
-					],
-					[
 						"rest_search",
 						"app/libraries/rest_manager/Rest_search_manager.php"
 					],
@@ -1822,7 +2857,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"window_id": 1,
