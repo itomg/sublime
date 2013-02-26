@@ -24,14 +24,25 @@ DEFAULT_MAX_FILE_SIZE = 1048576
 DEFAULT_COLOR_SCOPE_NAME = "invalid"
 DEFAULT_IS_ENABLED = True
 
-#Set whether the plugin is on or off
-ts_settings = sublime.load_settings('trailing_spaces.sublime-settings')
-trailing_spaces_enabled = bool(ts_settings.get('trailing_spaces_enabled',
-                                               DEFAULT_IS_ENABLED))
+# Global settings object
+ts_settings = None
+trailing_spaces_enabled = DEFAULT_IS_ENABLED
+startup_queue = []
+
+# Load settings and set whether the plugin is on or off
+def plugin_loaded():
+    global ts_settings, trailing_spaces_enabled, startup_queue
+    ts_settings = sublime.load_settings('trailing_spaces.sublime-settings')
+    trailing_spaces_enabled = bool(ts_settings.get('trailing_spaces_enabled',
+                                                   DEFAULT_IS_ENABLED))
+    for view in startup_queue:
+        highlight_trailing_spaces(view)
+
 
 # Determine if the view is a find results view
 def is_find_results(view):
     return view.settings().get('syntax') and "Find Results" in view.settings().get('syntax')
+
 
 # Return an array of regions matching trailing spaces.
 def find_trailing_spaces(view):
@@ -39,7 +50,7 @@ def find_trailing_spaces(view):
     line = view.line(sel.b)
     include_empty_lines = bool(ts_settings.get('trailing_spaces_include_empty_lines',
                                                DEFAULT_IS_ENABLED))
-    include_current_line = bool(ts_settings.get('trailing_spaces_inlude_current_line',
+    include_current_line = bool(ts_settings.get('trailing_spaces_include_current_line',
                                                 DEFAULT_IS_ENABLED))
     offending_lines = view.find_all('[ \t]+$' if include_empty_lines else '(?<=\S)[\t ]+$')
     if include_current_line:
@@ -49,17 +60,20 @@ def find_trailing_spaces(view):
         removal = False if current_offender == None else line.intersects(current_offender)
         return [i for i in offending_lines if i != current_offender] if removal else offending_lines
 
+
 # Highlight trailing spaces
 def highlight_trailing_spaces(view):
+    if ts_settings is None:
+        startup_queue.append(view)
+        return
     max_size = ts_settings.get('trailing_spaces_file_max_size',
-                               DEFAULT_MAX_FILE_SIZE)
+                                   DEFAULT_MAX_FILE_SIZE)
     color_scope_name = ts_settings.get('trailing_spaces_highlight_color',
                                        DEFAULT_COLOR_SCOPE_NAME)
     if view.size() <= max_size and not is_find_results(view):
         regions = find_trailing_spaces(view)
         view.add_regions('TrailingSpacesHighlightListener',
-                         regions, color_scope_name,
-                         sublime.DRAW_EMPTY)
+                         regions, color_scope_name)
 
 
 # Clear all trailing spaces
@@ -117,3 +131,8 @@ class DeleteTrailingSpacesCommand(sublime_plugin.TextCommand):
             msg = "No trailing spaces to delete!"
 
         sublime.status_message(msg)
+
+
+# Call the plugin_loaded callback manually if on ST2
+if not int(sublime.version()) > 3000:
+    plugin_loaded()
