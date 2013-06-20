@@ -1,18 +1,25 @@
 {
 	"folder_history":
 	[
-		"/home/jimmy/www/angular-phonecat",
-		"/home/jimmy/www/angular-app",
-		"/home/jimmy/www/angular-seed",
 		"/home/jimmy/www/gentilis",
+		"/home/jimmy/www/albicilla",
+		"/home/jimmy/www/solr4.3",
+		"/home/jimmy/www/itomg",
+		"/home/jimmy/www/regalis",
+		"/home/jimmy/www/Jcrop",
+		"/home/jimmy/www/amazon-s3-php-class",
+		"/home/jimmy/www/CodeIgniter-S3",
+		"/home/jimmy/www/angular-app",
+		"/home/jimmy/www/ui-router",
+		"/home/jimmy/www/angular-test",
+		"/home/jimmy/www/angular-phonecat",
+		"/home/jimmy/www/angular-seed",
 		"/home/jimmy/www/angular-seed/app",
 		"/home/jimmy/www/nodejs-express-mongoose-demo",
 		"/home/jimmy/Documents/SQL/20130314/Telesales follow-up 20130116-20130310/csv",
 		"/home/jimmy/www/BookBlock",
-		"/home/jimmy/www/itomg",
 		"/home/jimmy/www/angular.js",
 		"/home/jimmy/www/sequelize",
-		"/home/jimmy/www/albicilla",
 		"/home/jimmy/www/rest",
 		"/home/jimmy/www/restful",
 		"/home/jimmy/www/geddy",
@@ -24,16 +31,344 @@
 		"/home/jimmy/wget/alibaba",
 		"/home/jimmy/wget/made-in-china"
 	],
-	"last_window_id": 18,
+	"last_window_id": 36,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"for",
+						"format"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"id",
+						"id_info"
+					],
+					[
+						"cb",
+						"cback"
+					],
+					[
+						"com",
+						"companies"
+					],
+					[
+						"comp",
+						"companies"
+					],
+					[
+						"use",
+						"user"
+					],
+					[
+						"a",
+						"attributes"
+					],
+					[
+						"def",
+						"defaultValue"
+					],
+					[
+						"Date",
+						"DataTypes"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"produc",
+						"products"
+					],
+					[
+						"doc",
+						"doc"
+					],
+					[
+						"res",
+						"results"
+					],
+					[
+						"process",
+						"processedSolrResult"
+					],
+					[
+						"so",
+						"solrResult"
+					],
+					[
+						"solr",
+						"solrResult"
+					],
+					[
+						"gr",
+						"grouped"
+					],
+					[
+						"st",
+						"start"
+					],
+					[
+						"key",
+						"keyword"
+					],
+					[
+						"quer",
+						"queryName"
+					],
+					[
+						"ke",
+						"keywordWhiteListId"
+					],
+					[
+						"resu",
+						"result"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"de",
+						"depth4"
+					],
+					[
+						"get",
+						"getCategoryEdge"
+					],
+					[
+						"as",
+						"async"
+					],
+					[
+						"Cate",
+						"Category"
+					],
+					[
+						"Catego",
+						"CategoryEdge"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"que",
+						"queryName"
+					],
+					[
+						"Sq",
+						"SolrQuery"
+					],
+					[
+						"si",
+						"similar_cate"
+					],
+					[
+						"cano",
+						"canonical_keyword"
+					],
+					[
+						"remo",
+						"removeSpecificWord"
+					],
+					[
+						"page",
+						"pageSize"
+					],
+					[
+						"sol",
+						"solrType"
+					],
+					[
+						"keywo",
+						"keywordUnspecific"
+					],
+					[
+						"requ",
+						"require"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"proces",
+						"process_business_type_field"
+					],
+					[
+						"bu",
+						"business_type"
+					],
+					[
+						"next",
+						"next_sibling"
+					],
+					[
+						"sho",
+						"showOnlineMsg"
+					],
+					[
+						"new",
+						"newOnlineContacts"
+					],
+					[
+						"obse",
+						"observableArray"
+					],
+					[
+						"fi",
+						"field"
+					],
+					[
+						"company_profie",
+						"company_profile_page"
+					],
+					[
+						"company_pr",
+						"company_profile_url"
+					],
+					[
+						"func",
+						"func"
+					],
+					[
+						"TYPE_Gl",
+						"TYPE_GLOBALSOURCES"
+					],
+					[
+						"REGEX_Gl",
+						"REGEX_GLOBALSOURCES"
+					],
+					[
+						"i1",
+						"i18n"
+					],
+					[
+						"val",
+						"valueAccessor"
+					],
+					[
+						"whi",
+						"white_keyword_id"
+					],
+					[
+						"p",
+						"Println"
+					],
+					[
+						"DE",
+						"DEFAULT_PRODUCT_PICTURE_JPG"
+					],
+					[
+						"el",
+						"element"
+					],
+					[
+						"ima",
+						"image"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"web",
+						"websites"
+					],
+					[
+						"curr",
+						"current_website"
+					],
+					[
+						"nwe",
+						"newWebsite"
+					],
+					[
+						"show",
+						"showNotice"
+					],
+					[
+						"cur",
+						"currentWebsite"
+					],
+					[
+						"cu",
+						"currentWebsite"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"write",
+						"is_writeable"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"c",
+						"content"
+					],
+					[
+						"home",
+						"home5"
+					],
+					[
+						"hom",
+						"home5"
+					],
+					[
+						"th",
+						"thead	Tag"
+					],
+					[
+						"User",
+						"UserListCtrl"
+					],
+					[
+						"mai",
+						"mainState"
+					],
+					[
+						"tr",
+						"transitionTo"
+					],
+					[
+						"ma",
+						"mainState"
+					],
+					[
+						"rou",
+						"route"
+					],
+					[
+						"r",
+						"route"
+					],
+					[
+						"route",
+						"routeParams"
+					],
 					[
 						"an",
 						"angular-ui-ieshiv"
@@ -57,10 +392,6 @@
 					[
 						"ser",
 						"serviceA"
-					],
-					[
-						"requ",
-						"requiresLogin"
 					],
 					[
 						"pass",
@@ -103,10 +434,6 @@
 						"message"
 					],
 					[
-						"user",
-						"User"
-					],
-					[
 						"pro",
 						"profile"
 					],
@@ -127,10 +454,6 @@
 						"DataTypes"
 					],
 					[
-						"ma",
-						"page_max"
-					],
-					[
 						"iss",
 						"is_string"
 					],
@@ -141,10 +464,6 @@
 					[
 						"arr",
 						"array"
-					],
-					[
-						"da",
-						"data"
 					],
 					[
 						"u",
@@ -163,10 +482,6 @@
 						"filter_array"
 					],
 					[
-						"get",
-						"getParams"
-					],
-					[
 						"us",
 						"user"
 					],
@@ -175,20 +490,12 @@
 						"key"
 					],
 					[
-						"page",
-						"page_size"
-					],
-					[
 						"Dao",
 						"Dao_base"
 					],
 					[
 						"f",
 						"filters"
-					],
-					[
-						"fi",
-						"filterArr"
 					],
 					[
 						"opt",
@@ -219,20 +526,8 @@
 						"company_id"
 					],
 					[
-						"com",
-						"companies"
-					],
-					[
 						"compan",
 						"company_id"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"comp",
-						"company"
 					],
 					[
 						"co",
@@ -251,141 +546,49 @@
 						"first_name"
 					],
 					[
-						"de",
-						"defaultValue"
-					],
-					[
-						"con",
-						"controllers"
-					],
-					[
 						"shi",
 						"shipment"
 					],
 					[
 						"post",
 						"postload"
-					],
-					[
-						"l",
-						"log"
-					],
-					[
-						"resou",
-						"resources"
-					],
-					[
-						"re",
-						"req"
-					],
-					[
-						"datetime",
-						"datetime_to_mysql"
-					],
-					[
-						"sen",
-						"sent_after"
-					],
-					[
-						"F",
-						"FALSE"
-					],
-					[
-						"_find",
-						"_find_by_query"
-					],
-					[
-						"true",
-						"TRUE"
-					],
-					[
-						"rest_user",
-						"rest_user_dao"
-					],
-					[
-						"func",
-						"function_exists"
-					],
-					[
-						"im",
-						"import_count"
-					],
-					[
-						"end",
-						"end_time"
-					],
-					[
-						"MEM",
-						"MEMBER_WAY_REFERFRIEND"
-					],
-					[
-						"import",
-						"import_dao"
-					],
-					[
-						"last_mon",
-						"last_month_login_frequency"
-					],
-					[
-						"json",
-						"json_encode"
-					],
-					[
-						"_pr",
-						"_process_specifications"
-					],
-					[
-						"false",
-						"FALSE"
-					],
-					[
-						"search",
-						"search_impressions"
-					],
-					[
-						"array",
-						"array"
-					],
-					[
-						"null",
-						"NULL"
-					],
-					[
-						"flush",
-						"flush_echo"
-					],
-					[
-						"start",
-						"start_id"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"rest_conne",
-						"rest_connection_tag_manager"
-					],
-					[
-						"ex",
-						"exclude_circles"
-					],
-					[
-						"TAG",
-						"TAG_COWORKER"
-					],
-					[
-						"pla",
-						"placeholder_polyfill"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 54.0,
+				"height": 348.0,
 				"selected_items":
 				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax:ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"FOR",
+						"Format: Javascript"
+					],
+					[
+						"FORMAT",
+						"Format: Javascript"
+					],
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageinsta",
+						"Package Control: Install Package"
+					],
 					[
 						"git:log",
 						"Git: Log Current File"
@@ -413,10 +616,6 @@
 					[
 						"Zen Coding: ",
 						"Zen Coding: Go to matching tag"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
 					],
 					[
 						"packa",
@@ -491,10 +690,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
 						"package control",
 						"Package Control: Remove Package"
 					],
@@ -552,144 +747,191 @@
 			},
 			"file_history":
 			[
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery-ui-1.8.16.base.css",
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery-ui-1.8.16.min.js",
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery.min.js",
-				"/home/jimmy/www/albicilla/public/js/app.js",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/index.html",
-				"/home/jimmy/www/albicilla/public/resources/catalog.json",
-				"/home/jimmy/www/albicilla/public/js/services.js",
-				"/home/jimmy/www/albicilla/public/js/controllers.js",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/content.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/footer.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/sidebar.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/header.html",
-				"/home/jimmy/www/albicilla/public/js/filters.js",
-				"/home/jimmy/www/albicilla/public/js/directives.js",
-				"/home/jimmy/www/albicilla/public/layouts/mobile/index.html",
-				"/home/jimmy/www/albicilla/public/partials/navbar-side-left.html",
-				"/home/jimmy/www/gentilis/app/modules/user/controllers/import.php",
-				"/home/jimmy/www/gentilis/app/libraries/manager/User_manager.php",
-				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_activity_manager.php",
-				"/home/jimmy/www/gentilis/app/config/activity.php",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Import_dao.php",
-				"/home/jimmy/www/gentilis/app/modules/admin/controllers/import.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/messages/js/messagesviewmodel.js",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Message_dao.php",
-				"/home/jimmy/www/gentilis/app/libraries/manager/Message_manager.php",
-				"/home/jimmy/www/gentilis/app/modules/api/controllers/conversations.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_navbar.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_side_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/navs.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-				"/home/jimmy/www/gentilis/app/views/user2/index.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav_tabs_dashboard.html",
-				"/home/jimmy/www/gentilis/js/mobile-nav/mobile-nav.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/viewmodel.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/model/page.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_navtabs.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navs.html",
-				"/home/jimmy/www/gentilis/js/mobile-nav/zepto.min.js",
-				"/home/jimmy/www/albicilla/public/partials/partial1.html",
-				"/home/jimmy/www/albicilla/public/partials/navbar-fixed-top.html",
-				"/home/jimmy/www/albicilla/views/admin/index-async.html",
-				"/home/jimmy/www/gentilis/ci/core/Controller.php",
-				"/home/jimmy/www/albicilla/public/css/app.css",
-				"/home/jimmy/www/albicilla/config/jsTestDriver.conf",
-				"/home/jimmy/www/albicilla/public/partials/phone-detail.html",
-				"/home/jimmy/www/albicilla/config/testacular.conf.js",
-				"/home/jimmy/www/albicilla/config/middlewares/authorization.js",
-				"/home/jimmy/www/albicilla/controllers/index.js",
-				"/home/jimmy/www/albicilla/public/partials/phone-list.html",
-				"/home/jimmy/www/albicilla/views/admin/index.html",
-				"/home/jimmy/www/albicilla/views/admin/dashboard.jade",
-				"/home/jimmy/www/albicilla/.gitignore",
-				"/home/jimmy/www/albicilla/logs/.gitignore",
-				"/home/jimmy/www/albicilla/public/js/filtters.js",
-				"/home/jimmy/www/albicilla/public/js/filtters",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/products/js/productedit.js",
-				"/home/jimmy/www/albicilla/config/express.js",
-				"/home/jimmy/www/albicilla/server.js",
-				"/home/jimmy/www/albicilla/src/js/angular/angular.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/js/profileviewmodel.js",
-				"/home/jimmy/www/albicilla/controllers/public/user.js",
-				"/home/jimmy/www/albicilla/public/js/angular/angular.min.js",
-				"/home/jimmy/www/albicilla/src/js/angular/angular.min.js",
-				"/home/jimmy/www/albicilla/controllers/admin/dashboard.js",
-				"/home/jimmy/www/albicilla/manager/UserManager.js",
-				"/home/jimmy/www/albicilla/config/passport.js",
-				"/home/jimmy/www/albicilla/controllers/rest/import.js",
-				"/home/jimmy/www/albicilla/README.md",
-				"/home/jimmy/www/gentilis/app/libraries/Admin_Controller.php",
-				"/home/jimmy/www/albicilla/config/authorization.js",
-				"/home/jimmy/www/albicilla/manager/import.js",
-				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
-				"/home/jimmy/www/albicilla/package.json",
-				"/home/jimmy/www/albicilla/views/public/user/login.jade",
-				"/home/jimmy/www/gentilis/app/modules/public/controllers/user.php",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/middleware/authenticate.js",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/context/http/actions.js",
-				"/home/jimmy/www/albicilla/node_modules/passport-local/lib/passport-local/strategy.js",
-				"/home/jimmy/www/albicilla/node_modules/express/lib/response.js",
-				"/home/jimmy/www/albicilla/node_modules/express/node_modules/connect/lib/patch.js",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/strategy.js",
-				"/home/jimmy/www/albicilla/views/500.jade",
-				"/home/jimmy/www/albicilla/views/public/user/auth.jade",
-				"/home/jimmy/www/albicilla/views/includes/head.jade",
-				"/home/jimmy/www/albicilla/views/layouts/default.jade",
-				"/home/jimmy/www/albicilla/views/404.jade",
-				"/home/jimmy/www/albicilla/views/includes/header.jade",
-				"/home/jimmy/www/albicilla/views/test.jade",
-				"/home/jimmy/www/albicilla/views/layout/default.jade",
-				"/home/jimmy/www/albicilla/controllers/rest/user.js",
-				"/home/jimmy/www/albicilla/node_modules/express/node_modules/connect/node_modules/qs/test/browser/qs.js",
-				"/home/jimmy/www/albicilla/node_modules/less-middleware/node_modules/less/build/require.js",
-				"/home/jimmy/www/albicilla/models/user.js",
-				"/home/jimmy/www/albicilla/manager/userManager.js",
-				"/home/jimmy/www/albicilla/manager/module_base.js",
-				"/home/jimmy/www/albicilla/node_modules/express/lib/utils.js",
-				"/home/jimmy/www/gentilis/js/user2/min/app.1363160354.english.js",
-				"/home/jimmy/www/albicilla/manager/userManger.js",
-				"/home/jimmy/www/albicilla/models/product.js",
-				"/home/jimmy/www/albicilla/models/company.js",
-				"/home/jimmy/www/albicilla/models/company_user.js",
-				"/home/jimmy/www/albicilla/models/user_actions.js",
-				"/home/jimmy/www/albicilla/models/import.js",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
-				"/home/jimmy/www/albicilla/models/orm/import.js",
-				"/home/jimmy/www/albicilla/models/orm/user.js",
-				"/home/jimmy/www/nodejs-express-mongoose-demo/app/models/user.js",
-				"/home/jimmy/www/gentilis/js/user2/app/knockout/ui/ui-inquire.js",
-				"/home/jimmy/www/albicilla/config/config.js",
-				"/home/jimmy/www/albicilla/config/sequelize/test.js",
-				"/home/jimmy/www/albicilla/config/sequelize/gentilis.js",
-				"/home/jimmy/www/albicilla/config/sequelize.js",
-				"/home/jimmy/www/nodejs-express-mongoose-demo/server.js",
+				"/home/jimmy/www/albicilla/server/controllers/public/home.js",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Likes_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Company_dao.php",
 				"/home/jimmy/www/gentilis/app/libraries/dao/User_dao.php",
+				"/home/jimmy/www/gentilis/js/jquery.ui.datetime.src.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/datetime.js",
+				"/home/jimmy/www/gentilis/js/ts-plguide.js",
+				"/home/jimmy/www/gentilis/js/ts-contacts.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/products/send.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/ad/buy.js",
+				"/home/jimmy/www/gentilis/app/modules/app/js/events/add_event_logo.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/target_autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/select_filter.js",
+				"/home/jimmy/www/gentilis/app/modules/app/js/groups/add_group_logo.js",
+				"/home/jimmy/www/gentilis/app/modules/public/js/message/send_message.js",
+				"/home/jimmy/www/gentilis/app/modules/public/js/profile/s_message.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/company/edit_company.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/company/location_autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/products/delete_picture.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/references/ts-reference.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/register/register_company.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/email/test.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/ad/ts-plproducts.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/common/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/messages/compose.js",
+				"/home/jimmy/www/gentilis/js/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/app/libraries/Admin_Controller.php",
 				"/home/jimmy/www/gentilis/app/modules/admin/controllers/user.php",
-				"/home/jimmy/www/gentilis/app/modules/admin/views/user/telesales.php",
-				"/home/jimmy/www/gentilis/app/libraries/manager/Product_import_manager.php",
-				"/home/jimmy/www/gentilis/app/modules/admin/views/common/list.php",
-				"/home/jimmy/www/gentilis/ci/helpers/file_helper.php"
+				"/home/jimmy/www/gentilis/app/modules/admin/js/admin_send_message.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/common/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/user/all_user.css",
+				"/home/jimmy/www/gentilis/js/ts-autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/user_autocomplete.js",
+				"/home/jimmy/Downloads/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/admin/admin.css",
+				"/home/jimmy/www/gentilis/stylesheets/sass/admin/admin.scss",
+				"/home/jimmy/www/gentilis/time.php",
+				"/home/jimmy/www/gentilis/js/jquery/jquery-migrate-1.2.1.min.js",
+				"/home/jimmy/www/gentilis/js/jquery/jquery-1.10.1.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.ui/hot-sneaks/jquery-ui-1.10.3.custom.min.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery-ui-1.10.3.custom.min.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/admin/ajax_libs_jqueryui_1.7_themes_redmond_jquery-ui.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery.ui.1.8.16.themes.hot-sneaks.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery.ui.1.8.16.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.timepicker/jquery.timepicker.js",
+				"/home/jimmy/www/gentilis/js/jquery-1.7.2.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.timepicker/jquery.timepicker.css",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Product_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_product_manager.php",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/user/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Search_manager.php",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/shipments/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/shijian/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/qun/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/message/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/group/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/feed_news/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/feed/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/event/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/category/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/ad/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/temp/solr4.3_log_2013-06-04.txt",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/app/config/database.php",
+				"/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+				"/home/jimmy/www/solr4.3/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/spellings.txt",
+				"/home/jimmy/www/gentilis/app/libraries/manager/User_manager.php",
+				"/home/jimmy/www/gentilis/.gitignore",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/ad/conf/schema.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/ad/conf/schema.xml",
+				"/home/jimmy/www/gentilis/app/config/solr.php",
+				"/home/jimmy/www/gentilis/solr/nohup.out",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/products.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+				"/home/jimmy/www/solr4.3/solr/shipments/conf/schema.xml",
+				"/home/jimmy/www/solr4.3/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/solr4.3/solr/shipments/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/app/views/admin/console.php",
+				"/home/jimmy/www/gentilis/stylesheets/css/public3/page/index.css",
+				"/home/jimmy/www/gentilis/app/controllers/email_read.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Email_statistics_dao.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_ad_dao.php",
+				"/home/jimmy/www/gentilis/app/modules/user/controllers/import.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_activity_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_member_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/field/Datetime_field.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/views/common/edit.php",
+				"/home/jimmy/www/gentilis/app/helpers/field_helper.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/admin_user.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_feed_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_shipments_manager.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/action_int_email_register_confirm.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Category_dao.php",
+				"/home/jimmy/www/itomg/node_modules/memcached/examples/simple_events.js",
+				"/home/jimmy/www/gentilis/app/config/activity.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/_includes_/EN/footer.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/_includes_/CN/footer.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/common/footer.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/common/ft_part.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/email.php",
+				"/home/jimmy/www/gentilis/stylesheets/css/public3/page/index2.min.css",
+				"/home/jimmy/www/gentilis/stylesheets/css/public3/page/index.min.css",
+				"/home/jimmy/www/gentilis/index.php",
+				"/home/jimmy/www/regalis/app/styles/moduler/mediavoice.less",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home5_B.php",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home5_A.php",
+				"/home/jimmy/www/regalis/app/styles/moduler/sprites.less",
+				"/home/jimmy/www/gentilis/app/helpers/filter_helper.php",
+				"/home/jimmy/www/gentilis/app/helpers/date_helper.php",
+				"/home/jimmy/www/albicilla/server/controllers/rest/user.js",
+				"/home/jimmy/www/albicilla/server/node_modules/solr-client/lib/query.js",
+				"/home/jimmy/www/albicilla/server/helper/locationHelper.js",
+				"/home/jimmy/www/gentilis/js/user2/app/common.js",
+				"/home/jimmy/www/albicilla/server/models/company_user.js",
+				"/home/jimmy/www/albicilla/server/models/product_picture.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/product.php",
+				"/home/jimmy/www/albicilla/server/models/user.js",
+				"/home/jimmy/www/albicilla/server/package.json"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php,*.html",
+					"/home/jimmy/www/gentilis/,*.css",
+					"/home/jimmy/www/gentilis/,*.php,*.html",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/solr/solr4.3/solr",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/regalis/app/styles",
+					"/home/jimmy/www/regalis/app/styles/moduler",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/albicilla,*.js",
+					"/home/jimmy/www/gentilis/,*.css",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/albicilla/,*.js",
+					"/home/jimmy/www/albicilla/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/*.php",
+					"/home/jimmy/www/regalis/app",
+					"/home/jimmy/www/gentilis,*.php,*.html,*.js",
+					"/home/jimmy/www/gentilis,*.php,*.html",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/regalis",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.html",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.html,*.php,*.js",
+					"/home/jimmy/www/gentilis/,*.html,*.php",
+					"/home/jimmy/www/regalis,*.less",
+					"/home/jimmy/www/regalis",
+					"/home/jimmy/www/regalis/app/scripts,*.css",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis,*.js",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/gentilis,*.php",
 					"/home/jimmy/www/gentilis,*.html",
 					"/home/jimmy/www/gentilis,*.js",
 					"/home/jimmy/www/gentilis,*.html",
@@ -757,144 +999,149 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"content",
-					"hero",
-					"sidebar",
-					"layout",
-					"=",
-					" ",
-					";",
-					"layouts.fluid.display",
-					"myApp",
-					"partials",
-					"default",
-					"layout",
-					"[],",
-					"topNavBarService",
-					"jtmpl_pg_",
-					"e.preventDefault()",
-					"afterAdd",
-					"$(window)",
-					"activator",
-					"nav-showing",
-					"initMobileNav",
-					"js/mobile-nav/zepto.min.js",
-					"zepto",
-					"side-nav",
-					"mob-nav-header",
-					"jtmpl_vm_mobile_nav",
-					"jtmpl_vm_mobile_navtabs",
-					"$scope.$parent",
-					"displayNavBar",
-					"filter",
-					"scopProvider",
-					"<div",
-					"render(",
-					"import",
-					"req.profile",
+					"handle_for_short_description",
+					"handleForShortDescription",
 					"console.log",
-					" [description]",
-					"utf8_encode",
-					"H",
-					"[description]",
-					"util",
-					"authenticate",
-					"if (!user) { return self.fail(info); }",
-					"-",
-					"Import",
-					"import",
-					"resource",
-					"resource(",
-					"importMiddleware",
-					"forumsMiddleware",
-					"adminMiddleware",
-					"authMiddleware",
-					"orm",
-					";\n",
-					"inher",
-					"failture",
-					"[description]",
-					"setCurrPage",
-					"jtmpl_ui_inquire",
-					"preg_match",
-					"output",
-					"header(\"Content-Type:",
-					"filterArr",
-					"var",
-					"0086-",
-					"\\t([0-9]{3}-)",
-					"[+ \\t]+86[-_ ]+",
-					",([0-9]+)",
-					"([0-9]),",
-					"([0-9]{2,}),([0-9 ])",
-					"[\\t]{2,}",
-					"\\\\t",
-					"\"",
-					"0086-",
-					"\\t([0-9]{3}-)",
-					"[+ \\t]+86[-_ ]+",
-					",([0-9]+)",
-					"([0-9]),",
-					"4,",
-					"([0-9]),",
-					"([0-9]{2,}),([0-9 ])",
-					"\"",
-					"\\\\t",
-					"p.creation_time",
-					"number_of_products",
-					"table_name",
-					"fields",
-					"c.name AS `company name`, c.office_phone AS `company office_phone`, c.mobile_phone AS `company mobile_phone`, c.email_address AS `company email address`,\n				count(ua.id) AS number_of_logins\n				FROM user_actions ua\n				LEFT JOIN user u ON u.id = ua.user_id\n				LEFT JOIN company c ON c.id = u.company_id\n				WHERE ua.type LIKE '%login%'\n				AND ua.creation_time > '2012-11-01 00:00:00'\n				AND ua.creation_time < '2013-01-16 00:00:00'\n				AND (u.phone <> '' OR u.office_phone <> '' OR u.mobile_phone <> '' OR c.office_phone <> '' OR c.mobile_phone <> '')\n				GROUP BY ua.user_id\n				ORDER BY number_of_logins DESC\";",
-					"c",
+					"\\[[a-z]*=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\\[[^=]*=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\"input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"'input\\[name=\"([a-zA-Z0-9]*\\[[^\\]]*\\])\"\\]",
+					"'input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"input",
+					"'input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"'input\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"\\'[^\\[]*\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"'[^\\[]*\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"[name=[a-zA-Z0-9]*[.*]]",
+					"name=[a-zA-Z0-9]*[.*]",
+					"name=[a-zA-Z]",
+					"name=selected[]",
+					"selected[]",
+					"input[name=selected[]",
+					"bookmark_url",
+					"jquery-1.4.3.min.js",
+					".ui-autocomplete-input",
+					".ui-autocomplete-input {\n  margin: 0;\n  padding: 5px 0 5px 5px;\n  width: 160px;\n  height: 14px;\n  line-height: 18px; }",
+					".ui-autocomplete-input",
+					"_renderItem",
+					"autocomplete",
+					"data(\"comp",
+					"data(\"auto",
+					"data(\"",
+					"data('",
+					"autocomplete",
+					"_renderItem",
+					"autocomplete",
+					"jquery-1.8.0.min.js",
+					"_renderItem",
+					"images",
+					"image",
+					"autoComp",
+					"[name=user",
+					"[name=user[location]]",
+					"this.today",
+					"update_solr",
+					"<str name=\"q.alt\">*:*</str>",
+					"<float name=\"tie\">0.01</float>",
+					"<str name=\"q.alt\">*:*</str>",
+					"standard",
+					"/query",
+					"termindex",
+					"interval",
+					"indexInterval",
+					"termindex",
+					"/query",
+					"/",
+					"query",
+					"\\\\/query",
+					"\\/query",
+					"//query",
+					"/query",
+					"standard",
+					"stand",
+					"&",
+					"specifications",
+					"specification",
+					"options.value",
+					"value",
+					"rest_ad_dao",
+					"rest_product_dao",
+					"CI->rest_product_dao",
+					"rest_ad_dao",
+					"_load_pictures",
+					"picture_path_dirname",
+					"free_vip_after_inviting_friends",
+					"email_read",
+					"open_user_count",
+					"open_user",
+					"720px",
+					".mediavoice",
+					".mediavoice > div",
+					"INDEX_CONCURRENCY",
+					"page_count",
+					"20130523",
+					"sprite-news_tie50",
+					"20130523",
+					".sprite-news",
+					" closetags(",
 					"select",
-					"f_reset_filter_time",
+					"query",
+					"hasOne",
+					"Category",
+					"hasOne",
+					"\n",
+					"hasOne",
+					"pathinfo",
+					"	",
+					"set_migrate",
+					"$this->base_url",
+					"set_migrate",
+					"migrate_url",
+					"                                    ",
+					"                                   ",
+					"                                  ",
+					"                                 ",
+					"                                ",
+					"	    ",
+					"				                            ",
+					"users",
+					"{as",
+					"company_user",
+					"companies",
 					"async",
-					"user",
-					"find_all_by_filter",
-					"registered",
-					"console.log",
-					"type",
-					"uni",
-					"                                \n",
-					"statistics/statistics",
-					"load_all_statistics",
-					"get_all_statistics",
-					"GROUP_CONCAT(DISTINCT ua.target_id SEPARATOR '|') AS",
-					"save(",
-					"edit",
-					"customs",
-					"lang['customs']",
-					"lang[\"customs\"]",
-					"afterPageRender",
-					"placeholder",
-					"findAll",
-					"getAssociation",
-					"include",
-					"include]",
-					"getWhereConditions",
-					"hashToWhereConditions",
-					"getWhereConditions",
-					"OR",
-					"AND",
-					" OR ",
-					"Sequelize",
-					"User",
-					"rating",
-					"ratings",
-					"Sequelize",
-					"User",
-					"engine",
-					"\n "
+					"fs",
+					"update_category_by_admin",
+					"_update_solr",
+					"field",
+					"underscore",
+					",\n",
+					",\n		address: {\n			type: DataTypes.TEXT,\n			allowNull: true,\n			defaultValue: null\n		}",
+					".DATE",
+					"date",
+					"fail",
+					": {",
+					":",
+					"20130425",
+					"20130523",
+					"20130425",
+					"elektralightpro.otf"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"\"input\\[name=\\\\\"\\1\\\\\"\\]",
+					"'input\\[name=\"\\1\"\\]",
+					"'input\\[name=\"\\0\"\\]",
+					"'input\\[name=\\0\\]",
+					"\\t\\t\\t\\t\\t",
 					"",
 					"\\t0\\1",
 					"\\t",
@@ -975,516 +1222,516 @@
 				"selected_items":
 				[
 					[
-						"controll",
-						"albicilla/public/js/controllers.js"
-					],
-					[
-						"activity.php",
-						"gentilis/app/config/activity.php"
-					],
-					[
-						"import.php",
-						"gentilis/app/modules/user/controllers/import.php"
-					],
-					[
-						"user_mana",
-						"gentilis/app/libraries/manager/User_manager.php"
-					],
-					[
-						"conversat",
-						"gentilis/app/modules/api/controllers/conversations.php"
-					],
-					[
-						"messagesvi",
-						"gentilis/app/modules/user2/app/messages/js/messagesviewmodel.js"
-					],
-					[
-						"navbar-fixed-top.html",
-						"albicilla/public/partials/navbar-fixed-top.html"
-					],
-					[
-						"jtmplmobile",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html"
-					],
-					[
-						"jtmplpgprofi",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html"
-					],
-					[
-						"jtmpl_vm_mega_nav_tabs_da",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav_tabs_dashboard.html"
-					],
-					[
-						"jtmpl_vm_mega_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav.html"
-					],
-					[
-						"mobi",
-						"gentilis/js/mobile-nav/mobile-nav.js"
-					],
-					[
-						"jtmpl_vmhe",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplvmhead",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplvmheader",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplpgprofile",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html"
-					],
-					[
-						"jtmplpgcomm",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"viewmodel",
-						"gentilis/app/modules/user2/app/common/viewmodel.js"
-					],
-					[
-						"page.js",
-						"gentilis/app/modules/user2/app/model/page.js"
-					],
-					[
-						"init",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"jtmplpgcomp",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"jtmpl_pg",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"jtmpl_vm_navs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navs.html"
-					],
-					[
-						"init_a",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"init_app",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"jtmpl_vm_mobile_navtabs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_navtabs.html"
-					],
-					[
-						"jtmpl_vm_na",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html"
-					],
-					[
-						"jtmpl_vm_mobile_side_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_side_nav.html"
-					],
-					[
-						"index.php",
-						"gentilis/app/views/user2/index.php"
-					],
-					[
-						"app.js",
-						"gentilis/app/modules/user2/app/common/js/app.js"
-					],
-					[
-						"navs.js",
-						"gentilis/app/modules/user2/app/common/js/navs.js"
-					],
-					[
-						"zepto",
-						"gentilis/js/mobile-nav/zepto.min.js"
-					],
-					[
-						"zepto.min",
-						"gentilis/js/mobile-nav/zepto.min.js"
-					],
-					[
-						"mobile-nav.js",
-						"gentilis/js/mobile-nav/mobile-nav.js"
-					],
-					[
-						"jtmpl_vm_navtabs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html"
-					],
-					[
-						"jtmpl_vm_mobile_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html"
-					],
-					[
-						"jtmpl_pg_compan",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"contr",
-						"albicilla/public/js/controllers.js"
-					],
-					[
-						"partial",
-						"albicilla/public/partials/partial1.html"
-					],
-					[
-						"contrjs",
-						"albicilla/public/js/controllers.js"
-					],
-					[
-						"cont",
-						"gentilis/ci/core/Controller.php"
-					],
-					[
-						"productedit",
-						"gentilis/app/modules/user2/app/products/js/productedit.js"
-					],
-					[
-						"profileview",
-						"gentilis/app/modules/user2/app/profile/js/profileviewmodel.js"
+						"index.js",
+						"albicilla/server/controllers/index.js"
 					],
 					[
 						"express.js",
-						"albicilla/config/express.js"
+						"albicilla/server/config/express.js"
 					],
 					[
-						"ser",
-						"albicilla/server.js"
-					],
-					[
-						"admin",
-						"gentilis/app/libraries/Admin_Controller.php"
+						"solr.js",
+						"albicilla/server/node_modules/solr-client/lib/solr.js"
 					],
 					[
 						"user.php",
-						"gentilis/app/modules/public/controllers/user.php"
+						"gentilis/app/modules/admin/controllers/user.php"
 					],
 					[
-						"test.php",
-						"gentilis/app/modules/admin/controllers/test.php"
+						"all_user.css",
+						"gentilis/stylesheets/css/user/all_user.css"
 					],
 					[
-						"usermanager",
-						"gentilis/app/libraries/manager/User_manager.php"
+						"admin.css",
+						"gentilis/stylesheets/css/admin/admin.css"
 					],
 					[
-						"authent",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
+						"userauto",
+						"gentilis/app/modules/admin/js/user_autocomplete.js"
 					],
 					[
-						"user_man",
-						"gentilis/app/libraries/manager/User_manager.php"
+						"ts-autocomplete.js",
+						"gentilis/js/ts-autocomplete.js"
 					],
 					[
-						"strategy.js",
-						"albicilla/node_modules/passport-local/lib/passport-local/strategy.js"
+						"admincn",
+						"gentilis/app/libraries/Admin_Controller.php"
 					],
 					[
-						"authenticate.js",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
+						"restsearchmana",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
 					],
 					[
-						"actions.js",
-						"albicilla/node_modules/passport/lib/passport/context/http/actions.js"
+						"productman",
+						"gentilis/app/libraries/manager/Product_manager.php"
 					],
 					[
-						"strategy",
-						"albicilla/node_modules/passport-local/lib/passport-local/strategy.js"
+						"rest_product",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
 					],
 					[
-						"patch.js",
-						"albicilla/node_modules/express/node_modules/connect/lib/patch.js"
+						"productsolrconf",
+						"gentilis/solr/solr4.3/solr/product/conf/solrconfig.xml"
 					],
 					[
-						"response.js",
-						"albicilla/node_modules/express/lib/response.js"
+						"productschema",
+						"gentilis/solr/solr4.3/solr/product/conf/schema.xml"
 					],
 					[
-						"authenticate",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
+						"database",
+						"gentilis/app/config/database.php"
 					],
 					[
-						"pa",
-						"albicilla/package.json"
+						"database.",
+						"gentilis/app/config/database.php"
 					],
 					[
-						"util.js",
-						"albicilla/node_modules/express/lib/utils.js"
+						"productschema.xml",
+						"gentilis/solr/solr4.3/solr/product/conf/schema.xml"
 					],
 					[
-						"ui-inqu",
-						"gentilis/js/user2/app/knockout/ui/ui-inquire.js"
+						"apiuser.php",
+						"gentilis/app/modules/api/controllers/user.php"
 					],
 					[
-						"page.j",
-						"gentilis/app/modules/user2/app/model/page.js"
+						"solr",
+						"gentilis/app/config/solr.php"
 					],
 					[
-						"product_importmana",
-						"gentilis/app/libraries/manager/Product_import_manager.php"
-					],
-					[
-						"file_helper.",
-						"gentilis/ci/helpers/file_helper.php"
-					],
-					[
-						"console",
-						"gentilis/app/views/admin/console.php"
-					],
-					[
-						"dao_base",
-						"gentilis/app/libraries/dao/Dao_base.php"
-					],
-					[
-						"user_manager",
-						"gentilis/app/libraries/manager/User_manager.php"
-					],
-					[
-						"selectfilter",
-						"gentilis/app/modules/admin/js/select_filter.js"
-					],
-					[
-						"list.php",
-						"gentilis/app/modules/admin/views/common/list.php"
-					],
-					[
-						"console.php",
-						"gentilis/app/views/admin/console.php"
-					],
-					[
-						"silence",
-						"gentilis/app/modules/admin/js/user/silence.js"
-					],
-					[
-						"ui-connec",
-						"gentilis/js/user2/app/knockout/ui/ui-connect.js"
-					],
-					[
-						"ui-follow",
-						"gentilis/js/user2/app/knockout/ui/ui-follow.js"
-					],
-					[
-						"ui-inquire.js",
-						"gentilis/js/user2/app/knockout/ui/ui-inquire.js"
-					],
-					[
-						"import_mana",
-						"gentilis/app/libraries/manager/Import_manager.php"
-					],
-					[
-						"query-generator",
-						"albicilla/node_modules/sequelize/lib/dialects/mysql/query-generator.js"
-					],
-					[
-						"conv",
-						"gentilis/app/modules/api/controllers/conversations.php"
-					],
-					[
-						"convers",
-						"gentilis/app/modules/api/controllers/conversations.php"
-					],
-					[
-						"ui-send",
-						"gentilis/js/user2/app/knockout/ui/ui-sendmessage.js"
-					],
-					[
-						"profileedit",
-						"gentilis/app/modules/user2/app/profile/js/profileeditviewmodel.js"
-					],
-					[
-						"profileviewmodel",
-						"gentilis/app/modules/user2/app/profile/js/profileeditviewmodel.js"
-					],
-					[
-						"dashboard.php",
-						"gentilis/app/modules/api/controllers/dashboard.php"
-					],
-					[
-						"solr2013",
-						"gentilis/sql/data/populate/solr_query_2013_02_21.sql"
-					],
-					[
-						"pack",
-						"albicilla/package.json"
-					],
-					[
-						"query-genera",
-						"albicilla/node_modules/sequelize/lib/dialects/mysql/query-generator.js"
-					],
-					[
-						"dao-fac",
-						"albicilla/node_modules/sequelize/lib/dao-factory.js"
-					],
-					[
-						"dao-fa",
-						"sequelize/lib/dao-factory.js"
-					],
-					[
-						"sqlstr",
-						"sequelize/node_modules/mysql/lib/protocol/SqlString.js"
-					],
-					[
-						"utils.js",
-						"sequelize/lib/utils.js"
-					],
-					[
-						"statistics.php",
-						"gentilis/app/modules/api/controllers/statistics.php"
-					],
-					[
-						"grun",
-						"yeoman/Gruntfile.js"
-					],
-					[
-						"product_import",
-						"gentilis/app/modules/admin/controllers/product_import.php"
-					],
-					[
-						".gitg",
+						".giti",
 						"gentilis/.gitignore"
 					],
 					[
-						"jtmpl_ui_inquire",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_inquire.html"
+						"products.php",
+						"gentilis/app/modules/api/controllers/products.php"
 					],
 					[
-						"after",
-						"gentilis/uploads/email_template/template/activity/free_vip_after_inviting_friends.php"
-					],
-					[
-						"acvip",
-						"gentilis/uploads/email_template/template/action_int_vip_pay_will_expire.php"
-					],
-					[
-						"vipex",
-						"gentilis/uploads/email_template/template/action_int_vip_expired.php"
-					],
-					[
-						"vip",
-						"gentilis/uploads/email_template/template/activity/vip_refer_friend_will_expire.php"
-					],
-					[
-						"uigoo",
-						"gentilis/js/user2/app/knockout/ui/ui-googlemaps.js"
-					],
-					[
-						"google",
-						"gentilis/js/user2/googlemaps.js"
-					],
-					[
-						"searchshipme",
-						"gentilis/app/modules/user2/app/search/js/searchcustomshipments.js"
-					],
-					[
-						"jtmplvmsearchship",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_vm_searchcustomshipments.html"
-					],
-					[
-						"searchcus",
-						"gentilis/app/modules/user2/app/search/js/searchcustoms.js"
-					],
-					[
-						"customsdetajs",
-						"gentilis/app/modules/user2/app/search/js/searchcustomsdetail.js"
-					],
-					[
-						"unvip",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_dialog_unvip_search_customs_importers_data.html"
-					],
-					[
-						"jtmplcomful",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_common_full_record.html"
-					],
-					[
-						"jtmplvmcustomsde",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_vm_searchcustomsdetail.html"
-					],
-					[
-						"",
-						"gentilis/js/user2/app/knockout/ui/ui-importcontacts.js"
-					],
-					[
-						"jtmpvmimport",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_importcontacts.html"
-					],
-					[
-						"ui-import",
-						"gentilis/js/user2/app/knockout/ui/ui-importcontacts.js"
-					],
-					[
-						"import_manager",
-						"gentilis/app/libraries/manager/Import_manager.php"
-					],
-					[
-						"connections.php",
-						"gentilis/app/modules/api/controllers/connections.php"
-					],
-					[
-						"uiinvi",
-						"gentilis/js/user2/app/knockout/ui/ui-invite.js"
-					],
-					[
-						"import",
-						"gentilis/app/modules/user/controllers/import.php"
-					],
-					[
-						"usercommonlang",
-						"gentilis/app/modules/user2/language/english/common_lang.php"
-					],
-					[
-						"user2commonlang",
-						"gentilis/app/modules/user2/language/chinese/common_lang.php"
-					],
-					[
-						"rest_activ",
-						"gentilis/app/libraries/rest_manager/Rest_activity_manager.php"
-					],
-					[
-						"jtmplvmimport",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_importcontacts.html"
-					],
-					[
-						"user2commlang",
-						"gentilis/app/modules/user2/language/english/common_lang.php"
-					],
-					[
-						"activy",
-						"gentilis/app/config/activity.php"
-					],
-					[
-						"jtmpl_activity_vip_import",
-						"gentilis/app/modules/user2/app/activity/jtmpl/jtmpl_activity_vip_import.html"
-					],
-					[
-						"viprefer",
-						"gentilis/uploads/email_template/template/activity/vip_refer_friend_will_expire.php"
-					],
-					[
-						"actionvipwill",
-						"gentilis/uploads/email_template/template/action_int_vip_pay_will_expire.php"
-					],
-					[
-						"actionvipex",
-						"gentilis/uploads/email_template/template/action_int_vip_expired.php"
-					],
-					[
-						"cronmanager",
-						"gentilis/app/libraries/manager/Cron_manager.php"
+						"searchmana",
+						"gentilis/app/libraries/manager/Search_manager.php"
 					],
 					[
 						"cronman",
 						"gentilis/app/libraries/manager/Cron_manager.php"
 					],
 					[
-						"jtmplcustomsde",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_vm_searchcustomsdetail.html"
+						"restsear",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
 					],
 					[
-						"apienglishcommon_lang.php",
-						"gentilis/app/modules/api/language/english/common_lang.php"
+						"solr.php",
+						"gentilis/app/config/solr.php"
+					],
+					[
+						"restsea",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"restsearch",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"cron.php",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"cron",
+						"gentilis/app/libraries/manager/Cron_manager.php"
+					],
+					[
+						"catalog",
+						"albicilla/server/controllers/public/catalog.js"
+					],
+					[
+						"jquery.ui.datetime.src.js",
+						"gentilis/js/jquery.ui.datetime.src.js"
+					],
+					[
+						"admin",
+						"gentilis/app/libraries/Admin_Controller.php"
+					],
+					[
+						"console.php",
+						"gentilis/app/views/admin/console.php"
+					],
+					[
+						"emailmanager",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"commonedit.php",
+						"gentilis/app/modules/admin/views/common/edit.php"
+					],
+					[
+						"adminconsole.php",
+						"gentilis/app/views/admin/console.php"
+					],
+					[
+						"adminuser.php",
+						"gentilis/app/modules/admin/controllers/user.php"
+					],
+					[
+						"rest_user_member_dao",
+						"gentilis/app/libraries/rest_dao/Rest_user_member_dao.php"
+					],
+					[
+						"import.php",
+						"gentilis/app/modules/user/controllers/import.php"
+					],
+					[
+						"restfedd",
+						"gentilis/app/libraries/rest_dao/Rest_feed_dao.php"
+					],
+					[
+						"rest_ad_da",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
+					],
+					[
+						"rest_ad_dao",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
+					],
+					[
+						"rest_shipments_manager",
+						"gentilis/app/libraries/rest_manager/Rest_shipments_manager.php"
+					],
+					[
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"footer",
+						"gentilis/uploads/email_template/template/_includes_/CN/footer.php"
+					],
+					[
+						"footer.php",
+						"gentilis/uploads/email_template/template/_includes_/EN/footer.php"
+					],
+					[
+						"activi",
+						"gentilis/app/config/activity.php"
+					],
+					[
+						"common/footer.php",
+						"gentilis/uploads/email_template/template/common/footer.php"
+					],
+					[
+						"commonfooter.php",
+						"gentilis/uploads/email_template/template/common/footer.php"
+					],
+					[
+						"ft_part",
+						"gentilis/uploads/email_template/template/common/ft_part.php"
+					],
+					[
+						"action_int_email_register_confirm",
+						"gentilis/uploads/email_template/template/action_int_email_register_confirm.php"
+					],
+					[
+						"email_man",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"gentliindex2.mincss",
+						"gentilis/stylesheets/css/public3/page/index2.min.css"
+					],
+					[
+						"gentilisindex.min.css",
+						"gentilis/stylesheets/css/public3/page/index.min.css"
+					],
+					[
+						"gentilisindex.css",
+						"gentilis/stylesheets/css/public3/page/index.css"
+					],
+					[
+						"thome5b",
+						"gentilis/app/modules/public/views/html/t_html_home5_B.php"
+					],
+					[
+						"thome5a",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"productmana",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"publiccontrollerproduct.php",
+						"gentilis/app/modules/public/controllers/product.php"
+					],
+					[
+						"product_man",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"searchman",
+						"gentilis/app/libraries/manager/Search_manager.php"
+					],
+					[
+						"catalog.js",
+						"albicilla/server/controllers/public/catalog.js"
+					],
+					[
+						"locationhelper",
+						"albicilla/server/helper/locationHelper.js"
+					],
+					[
+						"common",
+						"gentilis/js/user2/app/common.js"
+					],
+					[
+						"productimportman",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
+					],
+					[
+						"restproductman",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
+					],
+					[
+						"thome5",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"productimport",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
+					],
+					[
+						"loca",
+						"albicilla/server/helper/locationHelper.js"
+					],
+					[
+						"restsearchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"search_manager",
+						"gentilis/app/libraries/manager/Search_manager.php"
+					],
+					[
+						"categorymanager",
+						"gentilis/app/libraries/manager/Category_manager.php"
+					],
+					[
+						"require-2.1.5.min.js",
+						"albicilla/client/lib/require/require-2.1.5.min.js"
+					],
+					[
+						"all.hbs",
+						"albicilla/server/views/public/catalog/all.hbs"
+					],
+					[
+						".htacc",
+						"gentilis/.htaccess"
+					],
+					[
+						"restadman",
+						"gentilis/app/libraries/rest_manager/Rest_ad_manager.php"
+					],
+					[
+						"productmanager",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"rest_product_manager",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
+					],
+					[
+						"gentilisapp.js",
+						"gentilis/app/modules/user2/app/common/js/app.js"
+					],
+					[
+						"app.js",
+						"regalis/app/app.js"
+					],
+					[
+						"jtmplvmchat",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_chat.html"
+					],
+					[
+						"chatwind",
+						"gentilis/app/modules/user2/app/common/js/chatwindow.js"
+					],
+					[
+						"chat.js",
+						"gentilis/app/modules/user2/app/common/js/chat.js"
+					],
+					[
+						"suggprod",
+						"gentilis/app/modules/user2/app/dashboard/js/suggprods.js"
+					],
+					[
+						"suggprods",
+						"gentilis/app/modules/user2/app/dashboard/js/suggprods.js"
+					],
+					[
+						"simplehtmldome",
+						"gentilis/app/helpers/simple_html_dom_helper.php"
+					],
+					[
+						"connectiondao",
+						"gentilis/app/libraries/dao/Connection_dao.php"
+					],
+					[
+						"importproducts",
+						"gentilis/app/modules/admin/views/product_import/import_products.php"
+					],
+					[
+						"importproducts.php",
+						"gentilis/app/modules/admin/views/product_import/import_products.php"
+					],
+					[
+						"productimportmna",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
+					],
+					[
+						"165-166",
+						"gentilis/sql/schema/delta/165-166.sql"
+					],
+					[
+						"164-165",
+						"gentilis/sql/schema/delta/164-165.sql"
+					],
+					[
+						"product_dao",
+						"gentilis/app/libraries/dao/Product_dao.php"
+					],
+					[
+						"index.hbs",
+						"albicilla/server/views/public/home/index.hbs"
+					],
+					[
+						"t_homea",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"configexpress",
+						"albicilla/server/config/express.js"
+					],
+					[
+						"image_li",
+						"gentilis/app/config/image_lib.php"
+					],
+					[
+						"jtmpl_vm_popup_helper",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_popup_helper.html"
+					],
+					[
+						"jtmpl_product_after_search",
+						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_product_after_search.html"
+					],
+					[
+						"ui-import",
+						"gentilis/js/user2/app/knockout/ui/ui-importcontacts.js"
+					],
+					[
+						"ui-conn",
+						"gentilis/js/user2/app/knockout/ui/ui-connect.js"
+					],
+					[
+						"jtmplpgsearch",
+						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_pg_search.html"
+					],
+					[
+						"jtmpldashboard.htm",
+						"gentilis/app/modules/user2/app/dashboard/jtmpl/jtmpl_pg_dashboard.html"
+					],
+					[
+						"dashboard.js",
+						"gentilis/app/modules/user/js/dashboard/dashboard.js"
+					],
+					[
+						"root.php",
+						"gentilis/app/modules/user2/controllers/root.php"
+					],
+					[
+						"jtmplproductaftersearch",
+						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_product_after_search.html"
+					],
+					[
+						"t_product_searchproductsbycategory",
+						"gentilis/app/modules/public/views/product/t_product_searchProductsByCategory.php"
+					],
+					[
+						"g_search_info",
+						"gentilis/app/modules/public/views/common/g_search_info.php"
+					],
+					[
+						"t_product_searchproducts_not_lazyload",
+						"gentilis/app/modules/public/views/product/t_product_searchProducts_not_lazyload.php"
+					],
+					[
+						"t_product_searchproducts",
+						"gentilis/app/modules/public/views/product/t_product_searchProducts.php"
+					],
+					[
+						"g_head",
+						"gentilis/app/modules/public/views/common/g_head.php"
+					],
+					[
+						"basetemplate_home2",
+						"gentilis/app/views/public/baseTemplate_home2.php"
+					],
+					[
+						"t_product_directory",
+						"gentilis/app/modules/public/views/search/t_product_directory.php"
+					],
+					[
+						"t_html_home5a",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"pa",
+						"itomg/package.json"
+					],
+					[
+						"package.json",
+						"itomg/package.json"
+					],
+					[
+						"grunt",
+						"itomg/Gruntfile.js"
+					],
+					[
+						"html.php",
+						"gentilis/app/modules/public/controllers/html.php"
+					],
+					[
+						"s_home5_howitworks_a",
+						"gentilis/app/modules/public/views/html/sections/home5/s_home5_howitworks_A.php"
+					],
+					[
+						"s_home5_customs_a",
+						"gentilis/app/modules/public/views/html/sections/home5/s_home5_customs_A.php"
+					],
+					[
+						"s_home5_layout-up_a",
+						"gentilis/app/modules/public/views/html/sections/home5/s_home5_layout-up_A.php"
+					],
+					[
+						"s_home5_hero_a",
+						"gentilis/app/modules/public/views/html/sections/home5/s_home5_hero_A.php"
+					],
+					[
+						"restuserman",
+						"gentilis/app/libraries/rest_manager/Rest_user_manager.php"
+					],
+					[
+						"rests3",
+						"gentilis/app/libraries/rest_manager/Rest_s3_manager.php"
+					],
+					[
+						"html",
+						"gentilis/app/modules/public/controllers/html.php"
+					],
+					[
+						"js/home5/page/index.js",
+						"gentilis/js/home5/page/index.js"
+					],
+					[
+						"s3.php",
+						"gentilis/app/config/s3.php"
+					],
+					[
+						"rest_company_manager",
+						"gentilis/app/libraries/rest_manager/Rest_company_manager.php"
 					]
 				],
 				"width": 0.0
@@ -1504,7 +1751,7 @@
 			"side_bar_width": 295.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -1514,6 +1761,406 @@
 				"selected_items":
 				[
 					[
+						"flu",
+						"flush_index"
+					],
+					[
+						"u",
+						"url"
+					],
+					[
+						"cloud",
+						"cloud_urls"
+					],
+					[
+						"flush",
+						"flush_echo"
+					],
+					[
+						"nex",
+						"next_index"
+					],
+					[
+						"clo",
+						"cloud_urls"
+					],
+					[
+						"cur",
+						"current_index"
+					],
+					[
+						"cu",
+						"current_index"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"base",
+						"base_url"
+					],
+					[
+						"true",
+						"TRUE"
+					],
+					[
+						"false",
+						"FALSE"
+					],
+					[
+						"cl",
+						"clouds"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"para",
+						"param_type"
+					],
+					[
+						"me",
+						"meta"
+					],
+					[
+						"key",
+						"keywords"
+					],
+					[
+						"proce",
+						"processKeyword"
+					],
+					[
+						"num_ro",
+						"num_rows_real"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"pro",
+						"product"
+					],
+					[
+						"users",
+						"usersAndProducts"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"resu",
+						"results"
+					],
+					[
+						"Defa",
+						"defaultDateFormat"
+					],
+					[
+						"repl",
+						"replace"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"patt",
+						"patterns"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"id",
+						"id_info"
+					],
+					[
+						"cb",
+						"cback"
+					],
+					[
+						"com",
+						"companies"
+					],
+					[
+						"comp",
+						"companies"
+					],
+					[
+						"use",
+						"user"
+					],
+					[
+						"a",
+						"attributes"
+					],
+					[
+						"def",
+						"defaultValue"
+					],
+					[
+						"Date",
+						"DataTypes"
+					],
+					[
+						"user",
+						"User"
+					],
+					[
+						"produc",
+						"products"
+					],
+					[
+						"doc",
+						"doc"
+					],
+					[
+						"process",
+						"processedSolrResult"
+					],
+					[
+						"so",
+						"solrResult"
+					],
+					[
+						"solr",
+						"solrResult"
+					],
+					[
+						"st",
+						"start"
+					],
+					[
+						"quer",
+						"queryName"
+					],
+					[
+						"ke",
+						"keywordWhiteListId"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"de",
+						"depth4"
+					],
+					[
+						"get",
+						"getCategoryEdge"
+					],
+					[
+						"as",
+						"async"
+					],
+					[
+						"Cate",
+						"Category"
+					],
+					[
+						"Catego",
+						"CategoryEdge"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"que",
+						"queryName"
+					],
+					[
+						"Sq",
+						"SolrQuery"
+					],
+					[
+						"si",
+						"similar_cate"
+					],
+					[
+						"cano",
+						"canonical_keyword"
+					],
+					[
+						"remo",
+						"removeSpecificWord"
+					],
+					[
+						"page",
+						"pageSize"
+					],
+					[
+						"sol",
+						"solrType"
+					],
+					[
+						"keywo",
+						"keywordUnspecific"
+					],
+					[
+						"requ",
+						"require"
+					],
+					[
+						"proces",
+						"process_business_type_field"
+					],
+					[
+						"bu",
+						"business_type"
+					],
+					[
+						"next",
+						"next_sibling"
+					],
+					[
+						"sho",
+						"showOnlineMsg"
+					],
+					[
+						"new",
+						"newOnlineContacts"
+					],
+					[
+						"obse",
+						"observableArray"
+					],
+					[
+						"fi",
+						"field"
+					],
+					[
+						"company_profie",
+						"company_profile_page"
+					],
+					[
+						"company_pr",
+						"company_profile_url"
+					],
+					[
+						"TYPE_Gl",
+						"TYPE_GLOBALSOURCES"
+					],
+					[
+						"REGEX_Gl",
+						"REGEX_GLOBALSOURCES"
+					],
+					[
+						"i1",
+						"i18n"
+					],
+					[
+						"val",
+						"valueAccessor"
+					],
+					[
+						"whi",
+						"white_keyword_id"
+					],
+					[
+						"p",
+						"Println"
+					],
+					[
+						"DE",
+						"DEFAULT_PRODUCT_PICTURE_JPG"
+					],
+					[
+						"el",
+						"element"
+					],
+					[
+						"ima",
+						"image"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"web",
+						"websites"
+					],
+					[
+						"curr",
+						"current_website"
+					],
+					[
+						"nwe",
+						"newWebsite"
+					],
+					[
+						"show",
+						"showNotice"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"write",
+						"is_writeable"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"c",
+						"content"
+					],
+					[
+						"home",
+						"home5"
+					],
+					[
+						"hom",
+						"home5"
+					],
+					[
+						"th",
+						"thead	Tag"
+					],
+					[
+						"User",
+						"UserListCtrl"
+					],
+					[
+						"mai",
+						"mainState"
+					],
+					[
+						"tr",
+						"transitionTo"
+					],
+					[
+						"ma",
+						"mainState"
+					],
+					[
 						"rou",
 						"route"
 					],
@@ -1522,16 +2169,8 @@
 						"route"
 					],
 					[
-						"re",
-						"routeParams"
-					],
-					[
 						"route",
 						"routeParams"
-					],
-					[
-						"con",
-						"controller"
 					],
 					[
 						"an",
@@ -1556,10 +2195,6 @@
 					[
 						"ser",
 						"serviceA"
-					],
-					[
-						"requ",
-						"requiresLogin"
 					],
 					[
 						"pass",
@@ -1602,14 +2237,6 @@
 						"message"
 					],
 					[
-						"user",
-						"User"
-					],
-					[
-						"pro",
-						"profile"
-					],
-					[
 						"date",
 						"DATE"
 					],
@@ -1626,10 +2253,6 @@
 						"DataTypes"
 					],
 					[
-						"ma",
-						"page_max"
-					],
-					[
 						"iss",
 						"is_string"
 					],
@@ -1642,290 +2265,142 @@
 						"array"
 					],
 					[
-						"da",
-						"data"
-					],
-					[
-						"u",
-						"user"
-					],
-					[
 						"page_",
 						"page_num"
 					],
 					[
 						"fil",
 						"filter_array"
-					],
-					[
-						"filter",
-						"filter_array"
-					],
-					[
-						"get",
-						"getParams"
-					],
-					[
-						"us",
-						"user"
-					],
-					[
-						"k",
-						"key"
-					],
-					[
-						"page",
-						"page_size"
-					],
-					[
-						"Dao",
-						"Dao_base"
-					],
-					[
-						"f",
-						"filters"
-					],
-					[
-						"fi",
-						"filterArr"
-					],
-					[
-						"opt",
-						"option	Tag"
-					],
-					[
-						"if",
-						"if	if"
-					],
-					[
-						"not",
-						"notNull"
-					],
-					[
-						"all",
-						"allowNull"
-					],
-					[
-						"int",
-						"INTEGER"
-					],
-					[
-						"se",
-						"sequelize"
-					],
-					[
-						"company",
-						"company_id"
-					],
-					[
-						"com",
-						"companies"
-					],
-					[
-						"compan",
-						"company_id"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"comp",
-						"company"
-					],
-					[
-						"co",
-						"company"
-					],
-					[
-						"task",
-						"task2"
-					],
-					[
-						"pr",
-						"project"
-					],
-					[
-						"fir",
-						"first_name"
-					],
-					[
-						"de",
-						"defaultValue"
-					],
-					[
-						"shi",
-						"shipment"
-					],
-					[
-						"post",
-						"postload"
-					],
-					[
-						"l",
-						"log"
-					],
-					[
-						"resou",
-						"resources"
-					],
-					[
-						"datetime",
-						"datetime_to_mysql"
-					],
-					[
-						"sen",
-						"sent_after"
-					],
-					[
-						"F",
-						"FALSE"
-					],
-					[
-						"_find",
-						"_find_by_query"
-					],
-					[
-						"true",
-						"TRUE"
-					],
-					[
-						"rest_user",
-						"rest_user_dao"
-					],
-					[
-						"func",
-						"function_exists"
-					],
-					[
-						"im",
-						"import_count"
-					],
-					[
-						"end",
-						"end_time"
-					],
-					[
-						"MEM",
-						"MEMBER_WAY_REFERFRIEND"
-					],
-					[
-						"import",
-						"import_dao"
-					],
-					[
-						"last_mon",
-						"last_month_login_frequency"
-					],
-					[
-						"json",
-						"json_encode"
-					],
-					[
-						"_pr",
-						"_process_specifications"
-					],
-					[
-						"false",
-						"FALSE"
-					],
-					[
-						"search",
-						"search_impressions"
-					],
-					[
-						"array",
-						"array"
-					],
-					[
-						"null",
-						"NULL"
-					],
-					[
-						"flush",
-						"flush_echo"
-					],
-					[
-						"start",
-						"start_id"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"rest_conne",
-						"rest_connection_tag_manager"
-					],
-					[
-						"ex",
-						"exclude_circles"
-					],
-					[
-						"TAG",
-						"TAG_COWORKER"
-					],
-					[
-						"pla",
-						"placeholder_polyfill"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/jimmy/www/albicilla/views/admin/index-async.html",
+					"file": "/home/jimmy/www/albicilla/server/controllers/index.js",
 					"settings":
 					{
-						"buffer_size": 5901,
+						"buffer_size": 4139,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/js/controllers.js",
+					"file": "/home/jimmy/www/albicilla/server/config/express.js",
 					"settings":
 					{
-						"buffer_size": 2927,
+						"buffer_size": 4867,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/js/app.js",
+					"file": "/home/jimmy/www/albicilla/server/node_modules/solr-client/lib/solr.js",
 					"settings":
 					{
-						"buffer_size": 1380,
+						"buffer_size": 17594,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/partials/admin/dashboard.html",
+					"file": "/home/jimmy/www/albicilla/server/controllers/public/catalog.js",
 					"settings":
 					{
-						"buffer_size": 563,
+						"buffer_size": 38558,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/js/services.js",
+					"file": "/home/jimmy/www/gentilis/app/libraries/dao/Product_dao.php",
 					"settings":
 					{
-						"buffer_size": 1690,
+						"buffer_size": 35756,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/partials/common/header.html",
+					"file": "/home/jimmy/www/gentilis/app/modules/public/controllers/product.php",
 					"settings":
 					{
-						"buffer_size": 1221,
+						"buffer_size": 43145,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/jimmy/www/albicilla/public/layouts/fluid/default.html",
+					"file": "/home/jimmy/www/gentilis/app/helpers/location_helper.php",
 					"settings":
 					{
-						"buffer_size": 575,
+						"buffer_size": 19632,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/manager/Product_manager.php",
+					"settings":
+					{
+						"buffer_size": 36356,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+					"settings":
+					{
+						"buffer_size": 32522,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+					"settings":
+					{
+						"buffer_size": 73046,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/modules/public/controllers/customs.php",
+					"settings":
+					{
+						"buffer_size": 9122,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/config/redis.php",
+					"settings":
+					{
+						"buffer_size": 504,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/RedisQueueThumbnailJobProducer.php",
+					"settings":
+					{
+						"buffer_size": 3225,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
+					"settings":
+					{
+						"buffer_size": 96856,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_shipper_dao.php",
+					"settings":
+					{
+						"buffer_size": 6101,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_shipments_dao.php",
+					"settings":
+					{
+						"buffer_size": 7077,
 						"line_ending": "Unix"
 					}
 				}
@@ -1933,9 +2408,37 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 54.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax:ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"FOR",
+						"Format: Javascript"
+					],
+					[
+						"FORMAT",
+						"Format: Javascript"
+					],
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageinsta",
+						"Package Control: Install Package"
+					],
 					[
 						"git:log",
 						"Git: Log Current File"
@@ -1963,10 +2466,6 @@
 					[
 						"Zen Coding: ",
 						"Zen Coding: Go to matching tag"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
 					],
 					[
 						"packa",
@@ -2041,10 +2540,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
 						"package control",
 						"Package Control: Remove Package"
 					],
@@ -2102,144 +2597,193 @@
 			},
 			"file_history":
 			[
-				"/home/jimmy/www/albicilla/public/layouts/fluid/dashboard.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/product/add.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/product/edit.html",
-				"/home/jimmy/www/albicilla/public/lib/angular/angular.js",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/index.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/product/list.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/user/add.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/user/edit.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/user/list.html",
-				"/home/jimmy/www/albicilla/public/partials/admin/route.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/hero.html",
-				"/home/jimmy/www/albicilla/public/js/services.js",
-				"/home/jimmy/www/albicilla/public/partials/common/header.html",
-				"/home/jimmy/www/albicilla/public/resources/catalog.json",
-				"/home/jimmy/www/gentilis/js/ts-category.js",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/3columns.html",
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery-ui-1.8.16.base.css",
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery-ui-1.8.16.min.js",
-				"/home/jimmy/www/albicilla/public/lib/jquery/jquery.min.js",
-				"/home/jimmy/www/albicilla/public/js/app.js",
-				"/home/jimmy/www/albicilla/public/js/controllers.js",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/content.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/footer.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/sidebar.html",
-				"/home/jimmy/www/albicilla/public/layouts/fluid/header.html",
-				"/home/jimmy/www/albicilla/public/js/filters.js",
-				"/home/jimmy/www/albicilla/public/js/directives.js",
-				"/home/jimmy/www/albicilla/public/layouts/mobile/index.html",
-				"/home/jimmy/www/albicilla/public/partials/navbar-side-left.html",
-				"/home/jimmy/www/gentilis/app/modules/user/controllers/import.php",
-				"/home/jimmy/www/gentilis/app/libraries/manager/User_manager.php",
-				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_activity_manager.php",
-				"/home/jimmy/www/gentilis/app/config/activity.php",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Import_dao.php",
-				"/home/jimmy/www/gentilis/app/modules/admin/controllers/import.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/messages/js/messagesviewmodel.js",
-				"/home/jimmy/www/gentilis/app/libraries/dao/Message_dao.php",
-				"/home/jimmy/www/gentilis/app/libraries/manager/Message_manager.php",
-				"/home/jimmy/www/gentilis/app/modules/api/controllers/conversations.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_common_navbar.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_side_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/navs.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/js/app.js",
-				"/home/jimmy/www/gentilis/app/views/user2/index.php",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav_tabs_dashboard.html",
-				"/home/jimmy/www/gentilis/js/mobile-nav/mobile-nav.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/viewmodel.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/model/page.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/init/init_app.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_navtabs.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navs.html",
-				"/home/jimmy/www/gentilis/js/mobile-nav/zepto.min.js",
-				"/home/jimmy/www/albicilla/public/partials/partial1.html",
-				"/home/jimmy/www/albicilla/public/partials/navbar-fixed-top.html",
-				"/home/jimmy/www/albicilla/views/admin/index-async.html",
-				"/home/jimmy/www/gentilis/ci/core/Controller.php",
-				"/home/jimmy/www/albicilla/public/css/app.css",
-				"/home/jimmy/www/albicilla/config/jsTestDriver.conf",
-				"/home/jimmy/www/albicilla/public/partials/phone-detail.html",
-				"/home/jimmy/www/albicilla/config/testacular.conf.js",
-				"/home/jimmy/www/albicilla/config/middlewares/authorization.js",
-				"/home/jimmy/www/albicilla/controllers/index.js",
-				"/home/jimmy/www/albicilla/public/partials/phone-list.html",
-				"/home/jimmy/www/albicilla/views/admin/index.html",
-				"/home/jimmy/www/albicilla/views/admin/dashboard.jade",
-				"/home/jimmy/www/albicilla/.gitignore",
-				"/home/jimmy/www/albicilla/logs/.gitignore",
-				"/home/jimmy/www/albicilla/public/js/filtters.js",
-				"/home/jimmy/www/albicilla/public/js/filtters",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/products/js/productedit.js",
-				"/home/jimmy/www/albicilla/config/express.js",
-				"/home/jimmy/www/albicilla/server.js",
-				"/home/jimmy/www/albicilla/src/js/angular/angular.js",
-				"/home/jimmy/www/gentilis/app/modules/user2/app/profile/js/profileviewmodel.js",
-				"/home/jimmy/www/albicilla/controllers/public/user.js",
-				"/home/jimmy/www/albicilla/public/js/angular/angular.min.js",
-				"/home/jimmy/www/albicilla/src/js/angular/angular.min.js",
-				"/home/jimmy/www/albicilla/controllers/admin/dashboard.js",
-				"/home/jimmy/www/albicilla/manager/UserManager.js",
-				"/home/jimmy/www/albicilla/config/passport.js",
-				"/home/jimmy/www/albicilla/controllers/rest/import.js",
-				"/home/jimmy/www/albicilla/README.md",
-				"/home/jimmy/www/gentilis/app/libraries/Admin_Controller.php",
-				"/home/jimmy/www/albicilla/config/authorization.js",
-				"/home/jimmy/www/albicilla/manager/import.js",
-				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
-				"/home/jimmy/www/albicilla/package.json",
-				"/home/jimmy/www/albicilla/views/public/user/login.jade",
+				"/home/jimmy/www/gentilis/app/libraries/predis/lib/Predis/Client.php",
+				"/home/jimmy/www/gentilis/sql/schema/delta/103-104.sql",
+				"/home/jimmy/www/gentilis/sql/schema/delta/113-114.sql",
+				"/home/jimmy/www/gentilis/app/libraries/Fermi_redis.php",
+				"/home/jimmy/www/gentilis/app/libraries/predis/lib/Predis/Autoloader.php",
+				"/home/jimmy/www/gentilis/app/libraries/predis/autoload.php",
+				"/home/jimmy/www/gentilis/app/libraries/predis/examples/SharedConfigurations.php",
+				"/home/jimmy/www/gentilis/app/libraries/Format.php",
+				"/home/jimmy/www/gentilis/app/config/s3.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_s3_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/Public_Controller.php",
+				"/home/jimmy/www/gentilis/app/libraries/TS_Profiler.php",
+				"/home/jimmy/www/gentilis/ci/libraries/Profiler.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_product_manager.php",
 				"/home/jimmy/www/gentilis/app/modules/public/controllers/user.php",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/middleware/authenticate.js",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/context/http/actions.js",
-				"/home/jimmy/www/albicilla/node_modules/passport-local/lib/passport-local/strategy.js",
-				"/home/jimmy/www/albicilla/node_modules/express/lib/response.js",
-				"/home/jimmy/www/albicilla/node_modules/express/node_modules/connect/lib/patch.js",
-				"/home/jimmy/www/albicilla/node_modules/passport/lib/passport/strategy.js",
-				"/home/jimmy/www/albicilla/views/500.jade",
-				"/home/jimmy/www/albicilla/views/public/user/auth.jade",
-				"/home/jimmy/www/albicilla/views/includes/head.jade",
-				"/home/jimmy/www/albicilla/views/layouts/default.jade",
-				"/home/jimmy/www/albicilla/views/404.jade",
-				"/home/jimmy/www/albicilla/views/includes/header.jade",
-				"/home/jimmy/www/albicilla/views/test.jade",
-				"/home/jimmy/www/albicilla/views/layout/default.jade",
-				"/home/jimmy/www/albicilla/controllers/rest/user.js",
-				"/home/jimmy/www/albicilla/node_modules/express/node_modules/connect/node_modules/qs/test/browser/qs.js",
-				"/home/jimmy/www/albicilla/node_modules/less-middleware/node_modules/less/build/require.js",
-				"/home/jimmy/www/albicilla/models/user.js",
-				"/home/jimmy/www/albicilla/manager/userManager.js",
-				"/home/jimmy/www/albicilla/manager/module_base.js",
-				"/home/jimmy/www/albicilla/node_modules/express/lib/utils.js",
-				"/home/jimmy/www/gentilis/js/user2/min/app.1363160354.english.js",
-				"/home/jimmy/www/albicilla/manager/userManger.js",
-				"/home/jimmy/www/albicilla/models/product.js",
-				"/home/jimmy/www/albicilla/models/company.js",
-				"/home/jimmy/www/albicilla/models/company_user.js",
-				"/home/jimmy/www/albicilla/models/user_actions.js",
-				"/home/jimmy/www/albicilla/models/import.js",
-				"/home/jimmy/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-				"/home/jimmy/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
-				"/home/jimmy/www/albicilla/models/orm/import.js",
-				"/home/jimmy/www/albicilla/models/orm/user.js"
+				"/home/jimmy/www/gentilis/app/config/solr.php",
+				"/home/jimmy/www/gentilis/app/config/solr.php.example",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/search.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Search_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/User_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Dao_base.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Cron_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Email_manager.php",
+				"/home/jimmy/www/albicilla/node_modules/grunt-contrib/node_modules/grunt-contrib-jshint/node_modules/jshint/tests/next/fixtures/reason/arguments.js",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_dao.php",
+				"/home/jimmy/www/gentilis/app/helpers/memcache_helper.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/temporary.php",
+				"/home/jimmy/www/albicilla/server/server.js",
+				"/home/jimmy/www/albicilla/server/config/sequelize.js",
+				"/home/jimmy/www/albicilla/server/package.json",
+				"/home/jimmy/www/albicilla/server/controllers/public/product.js",
+				"/home/jimmy/www/gentilis/app/modules/public/views/html/t_html_home5_A.php",
+				"/home/jimmy/www/gentilis/app/helpers/view_helper.php",
+				"/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+				"/home/jimmy/www/albicilla/server/controllers/public/home.js",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Likes_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Company_dao.php",
+				"/home/jimmy/www/gentilis/js/jquery.ui.datetime.src.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/datetime.js",
+				"/home/jimmy/www/gentilis/js/ts-plguide.js",
+				"/home/jimmy/www/gentilis/js/ts-contacts.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/products/send.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/ad/buy.js",
+				"/home/jimmy/www/gentilis/app/modules/app/js/events/add_event_logo.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/target_autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/select_filter.js",
+				"/home/jimmy/www/gentilis/app/modules/app/js/groups/add_group_logo.js",
+				"/home/jimmy/www/gentilis/app/modules/public/js/message/send_message.js",
+				"/home/jimmy/www/gentilis/app/modules/public/js/profile/s_message.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/company/edit_company.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/company/location_autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/products/delete_picture.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/references/ts-reference.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/register/register_company.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/email/test.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/ad/ts-plproducts.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/common/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/app/modules/user/js/messages/compose.js",
+				"/home/jimmy/www/gentilis/js/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/app/libraries/Admin_Controller.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/user.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/admin_send_message.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/common/ts-plcategory.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/user/all_user.css",
+				"/home/jimmy/www/gentilis/js/ts-autocomplete.js",
+				"/home/jimmy/www/gentilis/app/modules/admin/js/user_autocomplete.js",
+				"/home/jimmy/Downloads/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/admin/admin.css",
+				"/home/jimmy/www/gentilis/stylesheets/sass/admin/admin.scss",
+				"/home/jimmy/www/gentilis/time.php",
+				"/home/jimmy/www/gentilis/js/jquery/jquery-migrate-1.2.1.min.js",
+				"/home/jimmy/www/gentilis/js/jquery/jquery-1.10.1.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.ui/hot-sneaks/jquery-ui-1.10.3.custom.min.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery-ui-1.10.3.custom.min.js",
+				"/home/jimmy/www/gentilis/stylesheets/css/admin/ajax_libs_jqueryui_1.7_themes_redmond_jquery-ui.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery.ui.1.8.16.themes.hot-sneaks.css",
+				"/home/jimmy/www/gentilis/js/jquery.ui/jquery.ui.1.8.16.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.timepicker/jquery.timepicker.js",
+				"/home/jimmy/www/gentilis/js/jquery-1.7.2.min.js",
+				"/home/jimmy/www/gentilis/js/jquery.timepicker/jquery.timepicker.css",
+				"/home/jimmy/www/gentilis/app/libraries/manager/Product_manager.php",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/user/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/shipments/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/shijian/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/qun/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/message/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/group/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/feed_news/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/feed/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/event/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/category/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/ad/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/temp/solr4.3_log_2013-06-04.txt",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/app/config/database.php",
+				"/home/jimmy/www/solr4.3/solr/product/conf/schema.xml",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/cron.php",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/product/conf/spellings.txt",
+				"/home/jimmy/www/gentilis/app/libraries/manager/User_manager.php",
+				"/home/jimmy/www/gentilis/.gitignore",
+				"/home/jimmy/www/gentilis/solr/solr3.6/solr/ad/conf/schema.xml",
+				"/home/jimmy/www/gentilis/solr/solr4.3/solr/ad/conf/schema.xml",
+				"/home/jimmy/www/gentilis/solr/nohup.out",
+				"/home/jimmy/www/gentilis/app/modules/api/controllers/products.php",
+				"/home/jimmy/www/solr4.3/solr/shipments/conf/schema.xml",
+				"/home/jimmy/www/solr4.3/solr/product/conf/solrconfig.xml",
+				"/home/jimmy/www/solr4.3/solr/shipments/conf/solrconfig.xml",
+				"/home/jimmy/www/gentilis/app/views/admin/console.php",
+				"/home/jimmy/www/gentilis/stylesheets/css/public3/page/index.css",
+				"/home/jimmy/www/gentilis/app/controllers/email_read.php",
+				"/home/jimmy/www/gentilis/app/libraries/dao/Email_statistics_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_ad_dao.php",
+				"/home/jimmy/www/gentilis/app/modules/user/controllers/import.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_activity_manager.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_user_member_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/field/Datetime_field.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/views/common/edit.php",
+				"/home/jimmy/www/gentilis/app/helpers/field_helper.php",
+				"/home/jimmy/www/gentilis/app/modules/admin/controllers/admin_user.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_feed_dao.php",
+				"/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_shipments_manager.php",
+				"/home/jimmy/www/gentilis/uploads/email_template/template/action_int_email_register_confirm.php"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"/home/jimmy/www/gentilis/app/libraries/predis/lib/Predis",
+					"/home/jimmy/www/gentilis/sql/schema/delta",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php,*.html",
+					"/home/jimmy/www/gentilis/,*.css",
+					"/home/jimmy/www/gentilis/,*.php,*.html",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/",
+					"/home/jimmy/www/gentilis/solr/solr4.3/solr",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/regalis/app/styles",
+					"/home/jimmy/www/regalis/app/styles/moduler",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/albicilla,*.js",
+					"/home/jimmy/www/gentilis/,*.css",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/albicilla/,*.js",
+					"/home/jimmy/www/albicilla/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/*.php",
+					"/home/jimmy/www/regalis/app",
+					"/home/jimmy/www/gentilis,*.php,*.html,*.js",
+					"/home/jimmy/www/gentilis,*.php,*.html",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/regalis",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.js,*.html",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.html,*.php",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.php",
+					"/home/jimmy/www/gentilis/,*.html",
+					"/home/jimmy/www/gentilis/,*.js",
+					"/home/jimmy/www/gentilis/,*.html,*.php,*.js",
+					"/home/jimmy/www/gentilis/,*.html,*.php",
+					"/home/jimmy/www/regalis,*.less",
+					"/home/jimmy/www/regalis",
+					"/home/jimmy/www/regalis/app/scripts,*.css",
+					"/home/jimmy/www/gentilis,*.php",
+					"/home/jimmy/www/gentilis,*.js",
+					"/home/jimmy/www/gentilis",
+					"/home/jimmy/www/gentilis,*.php",
 					"/home/jimmy/www/gentilis,*.html",
 					"/home/jimmy/www/gentilis,*.js",
 					"/home/jimmy/www/gentilis,*.html",
@@ -2307,137 +2851,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"ng-view",
-					"\nng-view",
-					"controller",
-					"dashboard",
-					"product",
-					"layouts.fluid.tmpl.",
-					"ng-show=\"layouts.fluid.show",
-					"content",
-					"hero",
-					"sidebar",
-					"layout",
-					"=",
-					" ",
-					";",
-					"layouts.fluid.display",
-					"myApp",
-					"partials",
-					"default",
-					"layout",
-					"[],",
-					"topNavBarService",
-					"jtmpl_pg_",
-					"e.preventDefault()",
-					"afterAdd",
-					"$(window)",
-					"activator",
-					"nav-showing",
-					"initMobileNav",
-					"js/mobile-nav/zepto.min.js",
-					"zepto",
-					"side-nav",
-					"mob-nav-header",
-					"jtmpl_vm_mobile_nav",
-					"jtmpl_vm_mobile_navtabs",
-					"$scope.$parent",
-					"displayNavBar",
-					"filter",
-					"scopProvider",
-					"<div",
-					"render(",
-					"import",
-					"req.profile",
-					"console.log",
-					" [description]",
-					"utf8_encode",
-					"H",
-					"[description]",
-					"util",
-					"authenticate",
-					"if (!user) { return self.fail(info); }",
-					"-",
-					"Import",
-					"import",
-					"resource",
-					"resource(",
-					"importMiddleware",
-					"forumsMiddleware",
-					"adminMiddleware",
-					"authMiddleware",
-					"orm",
-					";\n",
-					"inher",
-					"failture",
-					"[description]",
-					"setCurrPage",
-					"jtmpl_ui_inquire",
-					"preg_match",
-					"output",
-					"header(\"Content-Type:",
-					"filterArr",
-					"var",
-					"0086-",
-					"\\t([0-9]{3}-)",
-					"[+ \\t]+86[-_ ]+",
-					",([0-9]+)",
-					"([0-9]),",
-					"([0-9]{2,}),([0-9 ])",
-					"[\\t]{2,}",
-					"\\\\t",
+					"`",
+					"  `",
+					"`",
+					"  `",
+					"`",
+					"change name",
+					"cname",
+					"AUTO_INCREMENT=0",
+					"hexists",
+					"wait",
+					"redisqueuethumbnailjobproducer",
+					"$fermi",
+					"Add index",
+					"enqueue",
+					"_default",
+					"codeigniter_profiler",
+					");\n",
+					"_post_to_solr",
+					"_solr_update_url",
+					"CURLOPT_CONNECTTIMEOUT",
+					"_post_to_solr",
+					"_debug",
+					"debug",
+					"todo",
+					"err",
+					"curl_multi_exec",
+					"curl_multi_close",
+					"curl_setopt",
+					"_index",
+					"index_all(",
+					"198",
+					"email_manager",
+					"_get_solr_cloud_url",
+					"_get_available_solr_cloud_url",
+					"_get_available_solr_address",
+					"base_url",
+					"memc_init",
+					"helper\\(.*memcache",
+					"memc_init",
+					"timeout",
+					"_post_to_solr",
+					"$this->base_url",
+					"solr",
+					"-DzkRun ",
+					"templateName",
+					".",
 					"\"",
-					"0086-",
-					"\\t([0-9]{3}-)",
-					"[+ \\t]+86[-_ ]+",
-					",([0-9]+)",
-					"([0-9]),",
-					"4,",
-					"([0-9]),",
-					"([0-9]{2,}),([0-9 ])",
+					".",
 					"\"",
-					"\\\\t",
-					"p.creation_time",
-					"number_of_products",
-					"table_name",
-					"fields",
-					"c.name AS `company name`, c.office_phone AS `company office_phone`, c.mobile_phone AS `company mobile_phone`, c.email_address AS `company email address`,\n				count(ua.id) AS number_of_logins\n				FROM user_actions ua\n				LEFT JOIN user u ON u.id = ua.user_id\n				LEFT JOIN company c ON c.id = u.company_id\n				WHERE ua.type LIKE '%login%'\n				AND ua.creation_time > '2012-11-01 00:00:00'\n				AND ua.creation_time < '2013-01-16 00:00:00'\n				AND (u.phone <> '' OR u.office_phone <> '' OR u.mobile_phone <> '' OR c.office_phone <> '' OR c.mobile_phone <> '')\n				GROUP BY ua.user_id\n				ORDER BY number_of_logins DESC\";",
-					"c",
-					"select",
-					"f_reset_filter_time",
-					"async",
-					"user",
-					"find_all_by_filter",
-					"registered",
+					"$word",
+					".",
+					"\"",
+					"ucwords",
+					"unwords",
+					"$word",
+					"->set",
+					"group",
+					"similar_product",
+					"processedSolrResult",
+					"exeute",
+					"debug",
+					"sql",
+					"debug",
+					"sequelize",
+					"processedSolrResult",
+					"creation_time",
+					"Asia/Shanghai",
+					"ct",
+					"g(",
+					",",
+					"handleAlibabaString",
+					"handleForShortDescription",
+					"handle_alibaba_string",
+					"handleForShortDescription",
+					"	",
+					"handleForShortDescription",
+					"'<br />'",
+					"handleForShortDescription",
+					"handle_for_short_description",
+					"handleForShortDescription",
 					"console.log",
-					"type",
-					"uni",
-					"                                \n",
-					"statistics/statistics",
-					"load_all_statistics",
-					"get_all_statistics",
-					"GROUP_CONCAT(DISTINCT ua.target_id SEPARATOR '|') AS",
-					"save(",
-					"edit",
-					"customs",
-					"lang['customs']",
-					"lang[\"customs\"]",
-					"afterPageRender",
-					"placeholder",
-					"findAll",
-					"getAssociation",
-					"include",
-					"include]",
-					"getWhereConditions",
-					"hashToWhereConditions",
-					"getWhereConditions",
-					"OR",
-					"AND",
-					" OR ",
-					"Sequelize"
+					"\\[[a-z]*=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\\[[^=]*=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"\"input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"'input\\[name=\"([a-zA-Z0-9]*\\[[^\\]]*\\])\"\\]",
+					"'input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"input",
+					"'input\\[name=([a-zA-Z0-9]*\\[[^\\]]*\\])\\]",
+					"'input\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"\\'[^\\[]*\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"'[^\\[]*\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"\\[name=[a-zA-Z0-9]*\\[[^\\]]*\\]\\]",
+					"[name=[a-zA-Z0-9]*[.*]]",
+					"name=[a-zA-Z0-9]*[.*]",
+					"name=[a-zA-Z]",
+					"name=selected[]",
+					"selected[]",
+					"input[name=selected[]",
+					"bookmark_url",
+					"jquery-1.4.3.min.js",
+					".ui-autocomplete-input",
+					".ui-autocomplete-input {\n  margin: 0;\n  padding: 5px 0 5px 5px;\n  width: 160px;\n  height: 14px;\n  line-height: 18px; }",
+					".ui-autocomplete-input",
+					"_renderItem",
+					"autocomplete",
+					"data(\"comp",
+					"data(\"auto",
+					"data(\"",
+					"data('",
+					"autocomplete",
+					"_renderItem",
+					"autocomplete",
+					"jquery-1.8.0.min.js",
+					"_renderItem",
+					"images",
+					"image",
+					"autoComp",
+					"[name=user",
+					"[name=user[location]]",
+					"this.today",
+					"update_solr",
+					"<str name=\"q.alt\">*:*</str>",
+					"<float name=\"tie\">0.01</float>",
+					"<str name=\"q.alt\">*:*</str>",
+					"standard",
+					"/query",
+					"termindex"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2445,6 +2989,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"\"input\\[name=\\\\\"\\1\\\\\"\\]",
+					"'input\\[name=\"\\1\"\\]",
+					"'input\\[name=\"\\0\"\\]",
+					"'input\\[name=\\0\\]",
+					"\\t\\t\\t\\t\\t",
 					"",
 					"\\t0\\1",
 					"\\t",
@@ -2482,32 +3031,32 @@
 			"folders":
 			[
 				{
-					"path": "/home/jimmy/www/gentilis"
+					"path": "/home/jimmy/www/albicilla"
 				},
 				{
-					"path": "/home/jimmy/www/albicilla"
+					"path": "/home/jimmy/www/gentilis"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 15,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/jimmy/www/albicilla/views/admin/index-async.html",
+							"file": "/home/jimmy/www/albicilla/server/controllers/index.js",
 							"settings":
 							{
-								"buffer_size": 5901,
+								"buffer_size": 4139,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5769,
-										5769
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2589,125 +3138,9 @@
 									{
 									},
 									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1683.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/jimmy/www/albicilla/public/js/controllers.js",
-							"settings":
-							{
-								"buffer_size": 2927,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										491,
-										491
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"origin_encoding": "ASCII",
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
 									"sublimelinter_notes": false,
 									"sublimelinter_objj_check_ascii": false,
 									"sublimelinter_popup_errors_on_save": false,
@@ -2719,7 +3152,124 @@
 									},
 									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jimmy/www/albicilla/server/config/express.js",
+							"settings":
+							{
+								"buffer_size": 4867,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										543,
+										543
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -2730,18 +3280,18 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/jimmy/www/albicilla/public/js/app.js",
+							"file": "/home/jimmy/www/albicilla/server/node_modules/solr-client/lib/solr.js",
 							"settings":
 							{
-								"buffer_size": 1380,
+								"buffer_size": 17594,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										528,
-										528
+										12867,
+										12867
 									]
 								],
 								"settings":
@@ -2803,7 +3353,7 @@
 										"trailing": true,
 										"wsh": true
 									},
-									"origin_encoding": "ASCII",
+									"origin_encoding": "UTF-8",
 									"pep8": true,
 									"pep8_ignore":
 									[
@@ -2823,8 +3373,9 @@
 									{
 									},
 									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
 									"sublimelinter_notes": false,
 									"sublimelinter_objj_check_ascii": false,
 									"sublimelinter_popup_errors_on_save": false,
@@ -2836,28 +3387,29 @@
 									},
 									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 122.0,
+								"translation.y": 6802.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/home/jimmy/www/albicilla/public/partials/admin/dashboard.html",
+							"file": "/home/jimmy/www/albicilla/server/controllers/public/catalog.js",
 							"settings":
 							{
-								"buffer_size": 563,
+								"buffer_size": 38558,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										563,
-										563
+										30954,
+										30954
 									]
 								],
 								"settings":
@@ -2939,125 +3491,9 @@
 									{
 									},
 									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/jimmy/www/albicilla/public/js/services.js",
-							"settings":
-							{
-								"buffer_size": 1690,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1273,
-										1273
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"origin_encoding": "ASCII",
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
 									"sublimelinter_notes": false,
 									"sublimelinter_objj_check_ascii": false,
 									"sublimelinter_popup_errors_on_save": false,
@@ -3072,25 +3508,142 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 102.0,
+								"translation.y": 14526.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/jimmy/www/gentilis/app/libraries/dao/Product_dao.php",
+							"settings":
+							{
+								"buffer_size": 35756,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23674,
+										23674
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 11787.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 5,
-							"file": "/home/jimmy/www/albicilla/public/partials/common/header.html",
+							"file": "/home/jimmy/www/gentilis/app/modules/public/controllers/product.php",
 							"settings":
 							{
-								"buffer_size": 1221,
+								"buffer_size": 43145,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										570,
-										570
+										2887,
+										2887
 									]
 								],
 								"settings":
@@ -3152,7 +3705,7 @@
 										"trailing": true,
 										"wsh": true
 									},
-									"origin_encoding": "ASCII",
+									"origin_encoding": "UTF-8",
 									"pep8": true,
 									"pep8_ignore":
 									[
@@ -3172,8 +3725,9 @@
 									{
 									},
 									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
 									"sublimelinter_notes": false,
 									"sublimelinter_objj_check_ascii": false,
 									"sublimelinter_popup_errors_on_save": false,
@@ -3184,9 +3738,358 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1296.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/jimmy/www/gentilis/app/helpers/location_helper.php",
+							"settings":
+							{
+								"buffer_size": 19632,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14932,
+										14932
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 10314.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/jimmy/www/gentilis/app/libraries/manager/Product_manager.php",
+							"settings":
+							{
+								"buffer_size": 36356,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6048,
+										6048
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2752.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/jimmy/www/gentilis/app/helpers/common_helper.php",
+							"settings":
+							{
+								"buffer_size": 32522,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -3195,19 +4098,276 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
-							"file": "/home/jimmy/www/albicilla/public/layouts/fluid/default.html",
+							"buffer": 9,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_manager/Rest_search_manager.php",
 							"settings":
 							{
-								"buffer_size": 575,
+								"buffer_size": 73046,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												3014,
+												3014
+											],
+											[
+												60230,
+												60255
+											],
+											[
+												71590,
+												71590
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										3880,
+										3880
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"force_encoding": "UTF-8",
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"in_converting": true,
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2322.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/jimmy/www/gentilis/app/modules/public/controllers/customs.php",
+							"settings":
+							{
+								"buffer_size": 9122,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										320,
-										320
+										1497,
+										1497
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 162.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/jimmy/www/gentilis/app/config/redis.php",
+							"settings":
+							{
+								"buffer_size": 504,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										504,
+										504
 									]
 								],
 								"settings":
@@ -3289,8 +4449,9 @@
 									{
 									},
 									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
 									"sublimelinter_notes": false,
 									"sublimelinter_objj_check_ascii": false,
 									"sublimelinter_popup_errors_on_save": false,
@@ -3301,12 +4462,479 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/HTML/HTML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/jimmy/www/gentilis/app/libraries/RedisQueueThumbnailJobProducer.php",
+							"settings":
+							{
+								"buffer_size": 3225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										908,
+										908
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/jimmy/www/gentilis/app/modules/admin/controllers/test.php",
+							"settings":
+							{
+								"buffer_size": 96856,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										96856,
+										96856
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "UTF-8",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 35058.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_shipper_dao.php",
+							"settings":
+							{
+								"buffer_size": 6101,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2324,
+										2324
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1566.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/home/jimmy/www/gentilis/app/libraries/rest_dao/Rest_shipments_dao.php",
+							"settings":
+							{
+								"buffer_size": 7077,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6419,
+										6419
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"origin_encoding": "ASCII",
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3348.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -3361,516 +4989,516 @@
 				"selected_items":
 				[
 					[
-						"angular",
-						"albicilla/public/lib/angular/angular.js"
+						"shipmentsdao",
+						"gentilis/app/libraries/rest_dao/Rest_shipments_dao.php"
 					],
 					[
-						"services.",
-						"albicilla/public/js/services.js"
+						"shipperdao",
+						"gentilis/app/libraries/rest_dao/Rest_shipper_dao.php"
 					],
 					[
-						"fluindex.",
-						"albicilla/public/layouts/fluid/index.html"
+						"rests3mana",
+						"gentilis/app/libraries/rest_manager/Rest_s3_manager.php"
 					],
 					[
-						"controll",
-						"albicilla/public/js/controllers.js"
+						"s3.php",
+						"gentilis/app/config/s3.php"
 					],
 					[
-						"activity.php",
-						"gentilis/app/config/activity.php"
+						"publiccontro",
+						"gentilis/app/libraries/Public_Controller.php"
 					],
 					[
-						"import.php",
-						"gentilis/app/modules/user/controllers/import.php"
+						"restproductman",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
 					],
 					[
-						"user_mana",
-						"gentilis/app/libraries/manager/User_manager.php"
-					],
-					[
-						"conversat",
-						"gentilis/app/modules/api/controllers/conversations.php"
-					],
-					[
-						"messagesvi",
-						"gentilis/app/modules/user2/app/messages/js/messagesviewmodel.js"
-					],
-					[
-						"navbar-fixed-top.html",
-						"albicilla/public/partials/navbar-fixed-top.html"
-					],
-					[
-						"jtmplmobile",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html"
-					],
-					[
-						"jtmplpgprofi",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html"
-					],
-					[
-						"jtmpl_vm_mega_nav_tabs_da",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav_tabs_dashboard.html"
-					],
-					[
-						"jtmpl_vm_mega_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mega_nav.html"
-					],
-					[
-						"mobi",
-						"gentilis/js/mobile-nav/mobile-nav.js"
-					],
-					[
-						"jtmpl_vmhe",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplvmhead",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplvmheader",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_header.html"
-					],
-					[
-						"jtmplpgprofile",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_pg_profile.html"
-					],
-					[
-						"jtmplpgcomm",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"viewmodel",
-						"gentilis/app/modules/user2/app/common/viewmodel.js"
-					],
-					[
-						"page.js",
-						"gentilis/app/modules/user2/app/model/page.js"
-					],
-					[
-						"init",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"jtmplpgcomp",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"jtmpl_pg",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"jtmpl_vm_navs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navs.html"
-					],
-					[
-						"init_a",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"init_app",
-						"gentilis/app/modules/user2/app/init/init_app.js"
-					],
-					[
-						"jtmpl_vm_mobile_navtabs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_navtabs.html"
-					],
-					[
-						"jtmpl_vm_na",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html"
-					],
-					[
-						"jtmpl_vm_mobile_side_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_side_nav.html"
-					],
-					[
-						"index.php",
-						"gentilis/app/views/user2/index.php"
-					],
-					[
-						"app.js",
-						"gentilis/app/modules/user2/app/common/js/app.js"
-					],
-					[
-						"navs.js",
-						"gentilis/app/modules/user2/app/common/js/navs.js"
-					],
-					[
-						"zepto",
-						"gentilis/js/mobile-nav/zepto.min.js"
-					],
-					[
-						"zepto.min",
-						"gentilis/js/mobile-nav/zepto.min.js"
-					],
-					[
-						"mobile-nav.js",
-						"gentilis/js/mobile-nav/mobile-nav.js"
-					],
-					[
-						"jtmpl_vm_navtabs",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_navtabs.html"
-					],
-					[
-						"jtmpl_vm_mobile_nav",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_mobile_nav.html"
-					],
-					[
-						"jtmpl_pg_compan",
-						"gentilis/app/modules/user2/app/company/jtmpl/jtmpl_pg_company.html"
-					],
-					[
-						"contr",
-						"albicilla/public/js/controllers.js"
-					],
-					[
-						"partial",
-						"albicilla/public/partials/partial1.html"
-					],
-					[
-						"contrjs",
-						"albicilla/public/js/controllers.js"
-					],
-					[
-						"cont",
-						"gentilis/ci/core/Controller.php"
-					],
-					[
-						"productedit",
-						"gentilis/app/modules/user2/app/products/js/productedit.js"
-					],
-					[
-						"profileview",
-						"gentilis/app/modules/user2/app/profile/js/profileviewmodel.js"
-					],
-					[
-						"express.js",
-						"albicilla/config/express.js"
-					],
-					[
-						"ser",
-						"albicilla/server.js"
-					],
-					[
-						"admin",
-						"gentilis/app/libraries/Admin_Controller.php"
-					],
-					[
-						"user.php",
+						"publicuser.php",
 						"gentilis/app/modules/public/controllers/user.php"
+					],
+					[
+						"customs.php",
+						"gentilis/app/modules/public/controllers/customs.php"
+					],
+					[
+						"solr.php.e",
+						"gentilis/app/config/solr.php.example"
 					],
 					[
 						"test.php",
 						"gentilis/app/modules/admin/controllers/test.php"
 					],
 					[
-						"usermanager",
-						"gentilis/app/libraries/manager/User_manager.php"
+						"user_dao",
+						"gentilis/app/libraries/dao/User_dao.php"
 					],
 					[
-						"authent",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
-					],
-					[
-						"user_man",
-						"gentilis/app/libraries/manager/User_manager.php"
-					],
-					[
-						"strategy.js",
-						"albicilla/node_modules/passport-local/lib/passport-local/strategy.js"
-					],
-					[
-						"authenticate.js",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
-					],
-					[
-						"actions.js",
-						"albicilla/node_modules/passport/lib/passport/context/http/actions.js"
-					],
-					[
-						"strategy",
-						"albicilla/node_modules/passport-local/lib/passport-local/strategy.js"
-					],
-					[
-						"patch.js",
-						"albicilla/node_modules/express/node_modules/connect/lib/patch.js"
-					],
-					[
-						"response.js",
-						"albicilla/node_modules/express/lib/response.js"
-					],
-					[
-						"authenticate",
-						"albicilla/node_modules/passport/lib/passport/middleware/authenticate.js"
-					],
-					[
-						"pa",
-						"albicilla/package.json"
-					],
-					[
-						"util.js",
-						"albicilla/node_modules/express/lib/utils.js"
-					],
-					[
-						"ui-inqu",
-						"gentilis/js/user2/app/knockout/ui/ui-inquire.js"
-					],
-					[
-						"page.j",
-						"gentilis/app/modules/user2/app/model/page.js"
-					],
-					[
-						"product_importmana",
-						"gentilis/app/libraries/manager/Product_import_manager.php"
-					],
-					[
-						"file_helper.",
-						"gentilis/ci/helpers/file_helper.php"
-					],
-					[
-						"console",
-						"gentilis/app/views/admin/console.php"
-					],
-					[
-						"dao_base",
+						"daobase",
 						"gentilis/app/libraries/dao/Dao_base.php"
 					],
 					[
-						"user_manager",
-						"gentilis/app/libraries/manager/User_manager.php"
+						"searchman",
+						"gentilis/app/libraries/manager/Search_manager.php"
 					],
 					[
-						"selectfilter",
-						"gentilis/app/modules/admin/js/select_filter.js"
+						"cronman",
+						"gentilis/app/libraries/manager/Cron_manager.php"
 					],
 					[
-						"list.php",
-						"gentilis/app/modules/admin/views/common/list.php"
+						"search.php",
+						"gentilis/app/modules/admin/controllers/search.php"
+					],
+					[
+						"emailmana",
+						"gentilis/app/libraries/manager/Email_manager.php"
+					],
+					[
+						"memcac",
+						"gentilis/app/helpers/memcache_helper.php"
+					],
+					[
+						"restuserdao",
+						"gentilis/app/libraries/rest_dao/Rest_user_dao.php"
+					],
+					[
+						"memcache",
+						"gentilis/app/helpers/memcache_helper.php"
+					],
+					[
+						"",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"restsearch",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"solr.php",
+						"gentilis/app/config/solr.php"
+					],
+					[
+						"temporary.php",
+						"gentilis/app/modules/admin/controllers/temporary.php"
+					],
+					[
+						"pack",
+						"albicilla/server/package.json"
+					],
+					[
+						"package",
+						"albicilla/server/package.json"
+					],
+					[
+						"gentilispublicproduct.php",
+						"gentilis/app/modules/public/controllers/product.php"
+					],
+					[
+						"publicproduct",
+						"albicilla/server/controllers/public/product.js"
+					],
+					[
+						"thtmlhome5a",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"thome5a",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"productdao",
+						"gentilis/app/libraries/dao/Product_dao.php"
+					],
+					[
+						"index.js",
+						"albicilla/server/controllers/index.js"
+					],
+					[
+						"express.js",
+						"albicilla/server/config/express.js"
+					],
+					[
+						"solr.js",
+						"albicilla/server/node_modules/solr-client/lib/solr.js"
+					],
+					[
+						"user.php",
+						"gentilis/app/modules/admin/controllers/user.php"
+					],
+					[
+						"all_user.css",
+						"gentilis/stylesheets/css/user/all_user.css"
+					],
+					[
+						"admin.css",
+						"gentilis/stylesheets/css/admin/admin.css"
+					],
+					[
+						"userauto",
+						"gentilis/app/modules/admin/js/user_autocomplete.js"
+					],
+					[
+						"ts-autocomplete.js",
+						"gentilis/js/ts-autocomplete.js"
+					],
+					[
+						"admincn",
+						"gentilis/app/libraries/Admin_Controller.php"
+					],
+					[
+						"restsearchmana",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"productman",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"rest_product",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
+					],
+					[
+						"productsolrconf",
+						"gentilis/solr/solr4.3/solr/product/conf/solrconfig.xml"
+					],
+					[
+						"productschema",
+						"gentilis/solr/solr4.3/solr/product/conf/schema.xml"
+					],
+					[
+						"database",
+						"gentilis/app/config/database.php"
+					],
+					[
+						"database.",
+						"gentilis/app/config/database.php"
+					],
+					[
+						"productschema.xml",
+						"gentilis/solr/solr4.3/solr/product/conf/schema.xml"
+					],
+					[
+						"apiuser.php",
+						"gentilis/app/modules/api/controllers/user.php"
+					],
+					[
+						"solr",
+						"gentilis/app/config/solr.php"
+					],
+					[
+						".giti",
+						"gentilis/.gitignore"
+					],
+					[
+						"products.php",
+						"gentilis/app/modules/api/controllers/products.php"
+					],
+					[
+						"searchmana",
+						"gentilis/app/libraries/manager/Search_manager.php"
+					],
+					[
+						"restsear",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"restsea",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
+					],
+					[
+						"cron.php",
+						"gentilis/app/modules/admin/controllers/cron.php"
+					],
+					[
+						"cron",
+						"gentilis/app/libraries/manager/Cron_manager.php"
+					],
+					[
+						"catalog",
+						"albicilla/server/controllers/public/catalog.js"
+					],
+					[
+						"jquery.ui.datetime.src.js",
+						"gentilis/js/jquery.ui.datetime.src.js"
+					],
+					[
+						"admin",
+						"gentilis/app/libraries/Admin_Controller.php"
 					],
 					[
 						"console.php",
 						"gentilis/app/views/admin/console.php"
 					],
 					[
-						"silence",
-						"gentilis/app/modules/admin/js/user/silence.js"
+						"emailmanager",
+						"gentilis/app/libraries/manager/Email_manager.php"
 					],
 					[
-						"ui-connec",
-						"gentilis/js/user2/app/knockout/ui/ui-connect.js"
+						"commonedit.php",
+						"gentilis/app/modules/admin/views/common/edit.php"
 					],
 					[
-						"ui-follow",
-						"gentilis/js/user2/app/knockout/ui/ui-follow.js"
+						"adminconsole.php",
+						"gentilis/app/views/admin/console.php"
 					],
 					[
-						"ui-inquire.js",
-						"gentilis/js/user2/app/knockout/ui/ui-inquire.js"
+						"adminuser.php",
+						"gentilis/app/modules/admin/controllers/user.php"
 					],
 					[
-						"import_mana",
-						"gentilis/app/libraries/manager/Import_manager.php"
+						"rest_user_member_dao",
+						"gentilis/app/libraries/rest_dao/Rest_user_member_dao.php"
 					],
 					[
-						"query-generator",
-						"albicilla/node_modules/sequelize/lib/dialects/mysql/query-generator.js"
+						"import.php",
+						"gentilis/app/modules/user/controllers/import.php"
 					],
 					[
-						"conv",
-						"gentilis/app/modules/api/controllers/conversations.php"
+						"restfedd",
+						"gentilis/app/libraries/rest_dao/Rest_feed_dao.php"
 					],
 					[
-						"convers",
-						"gentilis/app/modules/api/controllers/conversations.php"
+						"rest_ad_da",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
 					],
 					[
-						"ui-send",
-						"gentilis/js/user2/app/knockout/ui/ui-sendmessage.js"
+						"rest_ad_dao",
+						"gentilis/app/libraries/rest_dao/Rest_ad_dao.php"
 					],
 					[
-						"profileedit",
-						"gentilis/app/modules/user2/app/profile/js/profileeditviewmodel.js"
+						"rest_shipments_manager",
+						"gentilis/app/libraries/rest_manager/Rest_shipments_manager.php"
 					],
 					[
-						"profileviewmodel",
-						"gentilis/app/modules/user2/app/profile/js/profileeditviewmodel.js"
+						"footer",
+						"gentilis/uploads/email_template/template/_includes_/CN/footer.php"
 					],
 					[
-						"dashboard.php",
-						"gentilis/app/modules/api/controllers/dashboard.php"
+						"footer.php",
+						"gentilis/uploads/email_template/template/_includes_/EN/footer.php"
 					],
 					[
-						"solr2013",
-						"gentilis/sql/data/populate/solr_query_2013_02_21.sql"
+						"activi",
+						"gentilis/app/config/activity.php"
 					],
 					[
-						"pack",
-						"albicilla/package.json"
+						"common/footer.php",
+						"gentilis/uploads/email_template/template/common/footer.php"
 					],
 					[
-						"query-genera",
-						"albicilla/node_modules/sequelize/lib/dialects/mysql/query-generator.js"
+						"commonfooter.php",
+						"gentilis/uploads/email_template/template/common/footer.php"
 					],
 					[
-						"dao-fac",
-						"albicilla/node_modules/sequelize/lib/dao-factory.js"
+						"ft_part",
+						"gentilis/uploads/email_template/template/common/ft_part.php"
 					],
 					[
-						"dao-fa",
-						"sequelize/lib/dao-factory.js"
+						"action_int_email_register_confirm",
+						"gentilis/uploads/email_template/template/action_int_email_register_confirm.php"
 					],
 					[
-						"sqlstr",
-						"sequelize/node_modules/mysql/lib/protocol/SqlString.js"
+						"email_man",
+						"gentilis/app/libraries/manager/Email_manager.php"
 					],
 					[
-						"utils.js",
-						"sequelize/lib/utils.js"
+						"gentliindex2.mincss",
+						"gentilis/stylesheets/css/public3/page/index2.min.css"
 					],
 					[
-						"statistics.php",
-						"gentilis/app/modules/api/controllers/statistics.php"
+						"gentilisindex.min.css",
+						"gentilis/stylesheets/css/public3/page/index.min.css"
 					],
 					[
-						"grun",
-						"yeoman/Gruntfile.js"
+						"gentilisindex.css",
+						"gentilis/stylesheets/css/public3/page/index.css"
 					],
 					[
-						"product_import",
-						"gentilis/app/modules/admin/controllers/product_import.php"
+						"thome5b",
+						"gentilis/app/modules/public/views/html/t_html_home5_B.php"
 					],
 					[
-						".gitg",
-						"gentilis/.gitignore"
+						"productmana",
+						"gentilis/app/libraries/manager/Product_manager.php"
 					],
 					[
-						"jtmpl_ui_inquire",
-						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_ui_inquire.html"
+						"publiccontrollerproduct.php",
+						"gentilis/app/modules/public/controllers/product.php"
 					],
 					[
-						"after",
-						"gentilis/uploads/email_template/template/activity/free_vip_after_inviting_friends.php"
+						"product_man",
+						"gentilis/app/libraries/manager/Product_manager.php"
 					],
 					[
-						"acvip",
-						"gentilis/uploads/email_template/template/action_int_vip_pay_will_expire.php"
+						"catalog.js",
+						"albicilla/server/controllers/public/catalog.js"
 					],
 					[
-						"vipex",
-						"gentilis/uploads/email_template/template/action_int_vip_expired.php"
+						"locationhelper",
+						"albicilla/server/helper/locationHelper.js"
 					],
 					[
-						"vip",
-						"gentilis/uploads/email_template/template/activity/vip_refer_friend_will_expire.php"
+						"common",
+						"gentilis/js/user2/app/common.js"
 					],
 					[
-						"uigoo",
-						"gentilis/js/user2/app/knockout/ui/ui-googlemaps.js"
+						"productimportman",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
 					],
 					[
-						"google",
-						"gentilis/js/user2/googlemaps.js"
+						"thome5",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
 					],
 					[
-						"searchshipme",
-						"gentilis/app/modules/user2/app/search/js/searchcustomshipments.js"
+						"productimport",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
 					],
 					[
-						"jtmplvmsearchship",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_vm_searchcustomshipments.html"
+						"loca",
+						"albicilla/server/helper/locationHelper.js"
 					],
 					[
-						"searchcus",
-						"gentilis/app/modules/user2/app/search/js/searchcustoms.js"
+						"restsearchmanager",
+						"gentilis/app/libraries/rest_manager/Rest_search_manager.php"
 					],
 					[
-						"customsdetajs",
-						"gentilis/app/modules/user2/app/search/js/searchcustomsdetail.js"
+						"search_manager",
+						"gentilis/app/libraries/manager/Search_manager.php"
 					],
 					[
-						"unvip",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_dialog_unvip_search_customs_importers_data.html"
+						"categorymanager",
+						"gentilis/app/libraries/manager/Category_manager.php"
 					],
 					[
-						"jtmplcomful",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_common_full_record.html"
+						"require-2.1.5.min.js",
+						"albicilla/client/lib/require/require-2.1.5.min.js"
 					],
 					[
-						"jtmplvmcustomsde",
-						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_vm_searchcustomsdetail.html"
+						"all.hbs",
+						"albicilla/server/views/public/catalog/all.hbs"
 					],
 					[
-						"",
-						"gentilis/js/user2/app/knockout/ui/ui-importcontacts.js"
+						".htacc",
+						"gentilis/.htaccess"
 					],
 					[
-						"jtmpvmimport",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_importcontacts.html"
+						"restadman",
+						"gentilis/app/libraries/rest_manager/Rest_ad_manager.php"
+					],
+					[
+						"productmanager",
+						"gentilis/app/libraries/manager/Product_manager.php"
+					],
+					[
+						"rest_product_manager",
+						"gentilis/app/libraries/rest_manager/Rest_product_manager.php"
+					],
+					[
+						"gentilisapp.js",
+						"gentilis/app/modules/user2/app/common/js/app.js"
+					],
+					[
+						"app.js",
+						"regalis/app/app.js"
+					],
+					[
+						"jtmplvmchat",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_chat.html"
+					],
+					[
+						"chatwind",
+						"gentilis/app/modules/user2/app/common/js/chatwindow.js"
+					],
+					[
+						"chat.js",
+						"gentilis/app/modules/user2/app/common/js/chat.js"
+					],
+					[
+						"suggprod",
+						"gentilis/app/modules/user2/app/dashboard/js/suggprods.js"
+					],
+					[
+						"suggprods",
+						"gentilis/app/modules/user2/app/dashboard/js/suggprods.js"
+					],
+					[
+						"simplehtmldome",
+						"gentilis/app/helpers/simple_html_dom_helper.php"
+					],
+					[
+						"connectiondao",
+						"gentilis/app/libraries/dao/Connection_dao.php"
+					],
+					[
+						"importproducts",
+						"gentilis/app/modules/admin/views/product_import/import_products.php"
+					],
+					[
+						"importproducts.php",
+						"gentilis/app/modules/admin/views/product_import/import_products.php"
+					],
+					[
+						"productimportmna",
+						"gentilis/app/libraries/manager/Product_import_manager.php"
+					],
+					[
+						"165-166",
+						"gentilis/sql/schema/delta/165-166.sql"
+					],
+					[
+						"164-165",
+						"gentilis/sql/schema/delta/164-165.sql"
+					],
+					[
+						"product_dao",
+						"gentilis/app/libraries/dao/Product_dao.php"
+					],
+					[
+						"index.hbs",
+						"albicilla/server/views/public/home/index.hbs"
+					],
+					[
+						"t_homea",
+						"gentilis/app/modules/public/views/html/t_html_home5_A.php"
+					],
+					[
+						"configexpress",
+						"albicilla/server/config/express.js"
+					],
+					[
+						"image_li",
+						"gentilis/app/config/image_lib.php"
+					],
+					[
+						"jtmpl_vm_popup_helper",
+						"gentilis/app/modules/user2/app/common/jtmpl/jtmpl_vm_popup_helper.html"
+					],
+					[
+						"jtmpl_product_after_search",
+						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_product_after_search.html"
 					],
 					[
 						"ui-import",
 						"gentilis/js/user2/app/knockout/ui/ui-importcontacts.js"
 					],
 					[
-						"import_manager",
-						"gentilis/app/libraries/manager/Import_manager.php"
+						"ui-conn",
+						"gentilis/js/user2/app/knockout/ui/ui-connect.js"
 					],
 					[
-						"connections.php",
-						"gentilis/app/modules/api/controllers/connections.php"
+						"jtmplpgsearch",
+						"gentilis/app/modules/user2/app/search/jtmpl/jtmpl_pg_search.html"
 					],
 					[
-						"uiinvi",
-						"gentilis/js/user2/app/knockout/ui/ui-invite.js"
+						"jtmpldashboard.htm",
+						"gentilis/app/modules/user2/app/dashboard/jtmpl/jtmpl_pg_dashboard.html"
 					],
 					[
-						"import",
-						"gentilis/app/modules/user/controllers/import.php"
+						"dashboard.js",
+						"gentilis/app/modules/user/js/dashboard/dashboard.js"
 					],
 					[
-						"usercommonlang",
-						"gentilis/app/modules/user2/language/english/common_lang.php"
-					],
-					[
-						"user2commonlang",
-						"gentilis/app/modules/user2/language/chinese/common_lang.php"
-					],
-					[
-						"rest_activ",
-						"gentilis/app/libraries/rest_manager/Rest_activity_manager.php"
-					],
-					[
-						"jtmplvmimport",
-						"gentilis/app/modules/user2/app/profile/jtmpl/jtmpl_vm_importcontacts.html"
-					],
-					[
-						"user2commlang",
-						"gentilis/app/modules/user2/language/english/common_lang.php"
-					],
-					[
-						"activy",
-						"gentilis/app/config/activity.php"
-					],
-					[
-						"jtmpl_activity_vip_import",
-						"gentilis/app/modules/user2/app/activity/jtmpl/jtmpl_activity_vip_import.html"
-					],
-					[
-						"viprefer",
-						"gentilis/uploads/email_template/template/activity/vip_refer_friend_will_expire.php"
-					],
-					[
-						"actionvipwill",
-						"gentilis/uploads/email_template/template/action_int_vip_pay_will_expire.php"
-					],
-					[
-						"actionvipex",
-						"gentilis/uploads/email_template/template/action_int_vip_expired.php"
-					],
-					[
-						"cronmanager",
-						"gentilis/app/libraries/manager/Cron_manager.php"
+						"root.php",
+						"gentilis/app/modules/user2/controllers/root.php"
 					]
 				],
 				"width": 0.0
@@ -3889,7 +5517,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 295.0,
 			"status_bar_visible": true,
-			"window_id": 1,
+			"window_id": 35,
 			"workspace_name": ""
 		}
 	],

@@ -9,13 +9,15 @@
 		"Emmet",
 		"Git",
 		"Github Tools",
+		"Handlebars",
+		"InputHelper",
+		"JavaScript Console",
 		"JsFormat",
 		"JsMinifier",
 		"Package Control",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeLinter",
-		"TrailingSpaces",
-		"ZenCoding"
+		"TrailingSpaces"
 	]
 }
