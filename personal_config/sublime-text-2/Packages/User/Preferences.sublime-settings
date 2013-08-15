@@ -5,5 +5,5 @@
 	[
 		"Vintage"
 	],
-	"trim_trailing_white_space_on_save": 0
+	"trim_trailing_white_space_on_save": 1
 }

@@ -1,7 +1,9 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
 		"CoffeeScript",
 		"ConvertToUTF8",
 		"CTags",
@@ -13,7 +15,11 @@
 		"InputHelper",
 		"JavaScript Console",
 		"JsFormat",
+		"JSHint",
+		"JSLint",
 		"JsMinifier",
+		"Mocha Runner",
+		"Mocha Snippets",
 		"Package Control",
 		"SideBarEnhancements",
 		"SideBarGit",
