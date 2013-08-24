@@ -17,6 +17,8 @@ Encoding​Helper
 Git
 Github Tools
 HTML5
+InputHelper
+    ctrl + shift + z 输入中文
 JavaScript Console
 JavaScript Snippets
 Java​Script & Node​JS Snippets
