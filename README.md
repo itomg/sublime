@@ -1,10 +1,38 @@
 sublime
 =======
 
-My Sublime Text 2 Dev
+My Sublime Text 2
 
-## copy personal config to ~/.config/ folder
-sudo cp personal_config/sublime-text-2 -R ~/.config/
-
-## update personal config into this repository
-sudo cp ~/.config/sublime-text-2 ./personal_config/ -r
+## Plugin List:
+```
+Alignment
+BracketHighlighter
+CoffeeScript
+CSS Less
+CTags
+DocBlockr
+Emmet
+Emmet Css Snippets
+Encoding​Helper
+Git
+Github Tools
+HTML5
+JavaScript Console
+JavaScript Snippets
+Java​Script & Node​JS Snippets
+jQuery
+JsFormat
+JSLint
+JsMinifier
+LESS
+Markdown preview
+Phpcs
+Prefixr
+SFTP
+SideBarEnhancements
+SideBarGit
+SublimeCodeIntel
+SublimeLinter
+TrailingSpaces
+Theme - Soda
+```
