@@ -28,6 +28,7 @@ JSLint
 JsMinifier
 LESS
 Markdown preview
+Php​Tidy
 Phpcs
 Prefixr
 SFTP
