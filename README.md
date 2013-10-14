@@ -14,6 +14,7 @@ DocBlockr
 Emmet
 Emmet Css Snippets
 Encoding​Helper
+File​Diffs
 Git
 Github Tools
 HTML5
