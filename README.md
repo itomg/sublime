@@ -3,6 +3,8 @@ sublime
 
 My Sublime Text 2
 
+## [Install Package Control](https://sublime.wbond.net/installation)
+
 ## Plugin List:
 ```
 Alignment
