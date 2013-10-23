@@ -1,7 +1,7 @@
 sublime
 =======
 
-My Sublime Text 2
+My Sublime Text 2/3
 
 ## [Install Package Control](https://sublime.wbond.net/installation)
 
