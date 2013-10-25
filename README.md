@@ -76,3 +76,20 @@ Theme - Soda
   "translate_tabs_to_spaces": true
 }
 ```
+
+## DocBlockr
+```json
+{
+  // The mid-line characters to align in a multi-line selection, changing
+  // this to an empty array will disable mid-line alignment
+  "alignment_chars": ["=", ":"],
+
+  "jsdocs_align_tags": "shallow",
+
+  "jsdocs_extra_tags": ["@author Jimmy ({{date}})"],
+
+  "jsdocs_extra_tags_go_after": true,
+
+  "jsdocs_spacer_between_sections": true
+}
+```
