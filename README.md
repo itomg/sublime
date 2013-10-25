@@ -33,6 +33,7 @@ LESS !install in 3
 Markdown preview
 Php​Tidy != 3
 Phpcs
+PlainTasks
 Prefixr != 3
 SFTP
 SideBarEnhancements
@@ -40,6 +41,7 @@ SideBarGit
 SublimeCodeIntel
 SublimeLinter != 3
 TrailingSpaces
+Theme - Flatland
 Theme - Soda
 ```
 
