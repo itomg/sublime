@@ -68,7 +68,8 @@ Theme - Soda
   "trim_trailing_white_space_on_save": 1,
   "highlight_line": true, // 高亮光标所在行
   "caret_style": "phase" // 光标闪动方式
-  "font_size": 15,
+  "font_face": "Monaco",
+  "font_size": 16,
   // Show the full path to files in the title bar.
   // On OS X, this value is overridden in the platform specific settings, so
   // you'll need to place this line in your user settings to override it.
