@@ -73,7 +73,8 @@ Theme - Soda
   // Show the full path to files in the title bar.
   // On OS X, this value is overridden in the platform specific settings, so
   // you'll need to place this line in your user settings to override it.
-  "show_full_path": true
+  "show_full_path": true,
+  "rulers": [100]
 }
 ```
 
