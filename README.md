@@ -78,6 +78,13 @@ Theme - Soda
 }
 ```
 
+## Key Bindings - User
+```json
+[
+  { "keys": ["super+\\"], "command": "toggle_side_bar" }
+]
+```
+
 ## User JavaScript & JSON Settings
 ```json
 {
